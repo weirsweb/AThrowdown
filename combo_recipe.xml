@@ -99,6 +99,20 @@
 		<combo output='15186' card='1500005' /><!-- fg_chris + Nibbler on the Roof -->
 		<combo output='15186' card='50041' /><!-- fg_chris + Pimp My Sleigh -->
 		<combo output='15186' card='50051' /><!-- fg_chris + Golden Fiddle -->
+		<!-- Artistic -->
+		<combo output='15133' card='20078' /><!-- fg_chris + School of Arts and Crafts -->
+		<combo output='15133' card='30095' /><!-- fg_chris + Landship Play -->
+		<combo output='15133' card='40089' /><!-- fg_chris + Walking Man Exhibit -->
+		<combo output='15133' card='50094' /><!-- fg_chris + Museum of Really Modern Art -->
+		<combo output='15133' card='20066' /><!-- fg_chris + Tattoo Parlor -->
+		<combo output='15133' card='30079' /><!-- fg_chris + Kidyatas -->
+		<combo output='15133' card='50080' /><!-- fg_chris + Slurm Pop Art -->
+		<combo output='15133' card='10032' /><!-- fg_chris + Dress Rehearsal -->
+		<combo output='15133' card='20017' /><!-- fg_chris + Panther Cuddling Steve -->
+		<combo output='15133' card='30019' /><!-- fg_chris + Animal Anuses -->
+		<combo output='15133' card='40017' /><!-- fg_chris + Beef Filled Colon -->
+		<combo output='15133' card='50017' /><!-- fg_chris + Vitruvian Man -->
+		<combo output='15133' card='50079' /><!-- fg_chris + Vitruvian Man -->
 		<combo output='15133' card='40069' /><!-- fg_joe + The Leg Room -->
 		<combo output='15133' card='10069' /><!-- fg_chris + Jerome's Mother -->
 		<combo output='15133' card='20056' /><!-- fg_chris + Graffiti Mural -->
@@ -367,6 +381,14 @@
 		<combo output='15191' card='40060' /><!-- fg_stewie + Dauterive Chateau -->
 		<combo output='15191' card='50066' /><!-- fg_stewie + $300 Haircut -->
 		<combo output='15191' card='50067' /><!-- fg_stewie + Crack Mansion -->
+		<!-- Artistic -->
+		<combo output='15182' card='20078' /><!-- fg_stewie + School of Arts and Crafts -->
+		<combo output='15182' card='30095' /><!-- fg_stewie + Landship Play -->
+		<combo output='15182' card='40089' /><!-- fg_stewie + Walking Man Exhibit -->
+		<combo output='15182' card='50094' /><!-- fg_stewie + Museum of Really Modern Art -->
+		<combo output='15182' card='20066' /><!-- fg_stewie + Tattoo Parlor -->
+		<combo output='15182' card='30079' /><!-- fg_stewie + Kidyatas -->
+		<combo output='15182' card='50080' /><!-- fg_stewie + Slurm Pop Art -->
 		<combo output='15182' card='40069' /><!-- fg_stewie + The Leg Room -->
 		<combo output='15182' card='10069' /><!-- fg_stewie + Jerome's Mother -->
 		<combo output='15182' card='20056' /><!-- fg_stewie + Graffiti Mural -->
@@ -510,6 +532,10 @@
 		<combo output='15039' card='40030' /> <!-- fg_stewie + Karaoke Khan = Pan Flute Stewie -->
 		<combo output='15039' card='40036' /> <!-- fg_stewie + Big Mountain Fudge Cake = Pan Flute Stewie -->
 		<!-- Drunk -->
+		<combo output='15156' card='10087' /><!-- fg_stewie + Brewery Mascot -->
+		<combo output='15156' card='20079' /><!-- fg_stewie + Signature Cocktail -->
+		<combo output='15156' card='30096' /><!-- fg_stewie + Double Fisting -->
+		<combo output='15156' card='50095' /><!-- fg_stewie + Concert Keg -->
 		<combo output='15156' card='40072' /><!-- fg_stewie + Dollar Beers -->
 		<combo output='15156' card='40073' /><!-- fg_stewie + Alamo Merch -->
 		<combo output='15156' card='10081' /><!-- fg_stewie + New England Beaches -->
@@ -707,7 +733,12 @@
 		<combo output='15216' card='40014' /><!-- fg_quagmire + Pro-Pain! -->
 		<combo output='15216' card='50012' /><!-- fg_quagmire + Mom's Homestyle X-Cube 360 -->
 		<!-- Drunk -->
-		<combo output='15213' card='10081' /><!-- fg_quagmire + New England Beaches -->
+		<combo output='15230' card='10087' /><!-- fg_quagmire + Brewery Mascot -->
+		<combo output='15230' card='20079' /><!-- fg_quagmire + Signature Cocktail -->
+		<combo output='15230' card='30096' /><!-- fg_quagmire + Double Fisting -->
+		<combo output='15230' card='50095' /><!-- fg_quagmire + Concert Keg -->
+		<combo output='15230' card='10012' /><!-- fg_quagmire + Pawtucket Patriot Ale -->
+		<combo output='15213' card='10081' /><!-- fg_quagmire + New England Beaches -->	
 		<combo output='15213' card='30082' /><!-- fg_quagmire + Soda Celebration -->
 		<combo output='15213' card='40072' /><!-- fg_quagmire + Dollar Beers -->
 		<combo output='15213' card='40073' /><!-- fg_quagmire + Alamo Merch -->
@@ -720,6 +751,14 @@
 		<combo output='15213' card='50011' /><!-- fg_quagmire + Olde Fortran Malt Liquor -->
 		<combo output='15213' card='50023' /><!-- fg_quagmire + Maltese Liquor -->
 		<combo output='15213' card='50031' /><!-- fg_quagmire + Lo Brau -->
+		<!-- Artistic -->
+		<combo output='15183' card='20078' /><!-- fg_quagmire + School of Arts and Crafts -->
+		<combo output='15183' card='30095' /><!-- fg_quagmire + Landship Play -->
+		<combo output='15183' card='40089' /><!-- fg_quagmire + Walking Man Exhibit -->
+		<combo output='15183' card='50094' /><!-- fg_quagmire + Museum of Really Modern Art -->
+		<combo output='15183' card='20066' /><!-- fg_quagmire + Tattoo Parlor -->
+		<combo output='15183' card='30079' /><!-- fg_quagmire + Kidyatas -->
+		<combo output='15183' card='50080' /><!-- fg_quagmire + Slurm Pop Art -->
 		<combo output='15183' card='40069' /><!-- fg_quagmire + The Leg Room -->
 		<combo output='15183' card='10069' /><!-- fg_quagmire + Jerome's Mother -->
 		<combo output='15183' card='20056' /><!-- fg_quagmire + Graffiti Mural -->
@@ -1075,6 +1114,10 @@
 		<combo output='15192' card='50066' /><!-- fg_peter + $300 Haircut -->
 		<combo output='15192' card='50067' /><!-- fg_peter + Crack Mansion -->
 		<!-- Drunk -->
+		<combo output='15230' card='10087' /><!-- fg_peter + Brewery Mascot -->
+		<combo output='15230' card='20079' /><!-- fg_peter + Signature Cocktail -->
+		<combo output='15230' card='30096' /><!-- fg_peter + Double Fisting -->
+		<combo output='15230' card='50095' /><!-- fg_peter + Concert Keg -->
 		<combo output='15214' card='40072' /><!-- fg_peter + Dollar Beers -->
 		<combo output='15214' card='40073' /><!-- fg_peter + Alamo Merch -->
 		<combo output='15214' card='10081' /><!-- fg_peter + New England Beaches -->
@@ -1094,6 +1137,14 @@
 		<combo output='15189' card='50030' /><!-- fg_peter + Klein's Beer -->
 		<combo output='15189' card='50049' /><!-- fg_peter + Thunder Cocktails -->
 		<combo output='15189' card='50050' /><!-- fg_peter + Wine Bucket -->
+		<!-- Artistic -->
+		<combo output='15229' card='20078' /><!-- fg_peter + School of Arts and Crafts -->
+		<combo output='15229' card='30095' /><!-- fg_peter + Landship Play -->
+		<combo output='15229' card='40089' /><!-- fg_peter + Walking Man Exhibit -->
+		<combo output='15229' card='50094' /><!-- fg_peter + Museum of Really Modern Art -->
+		<combo output='15229' card='20066' /><!-- fg_peter + Tattoo Parlor -->
+		<combo output='15229' card='30079' /><!-- fg_peter + Kidyatas -->
+		<combo output='15229' card='50080' /><!-- fg_peter + Slurm Pop Art -->
 		<combo output='15184' card='40069' /><!-- fg_peter + The Leg Room -->
 		<combo output='15184' card='10069' /><!-- fg_peter + Jerome's Mother -->
 		<combo output='15184' card='20056' /><!-- fg_peter + Graffiti Mural -->
@@ -1425,6 +1476,11 @@
 		<combo output='15217' card='50012' /><!-- fg_meg + Mom's Homestyle X-Cube 360 -->
 		<combo output='15217' card='60013' /><!-- fg_meg + Toy -->
 		<!-- Artistic -->
+		<combo output='15212' card='20078' /><!-- fg_meg + School of Arts and Crafts -->
+		<combo output='15212' card='30095' /><!-- fg_meg + Landship Play -->
+		<combo output='15212' card='40089' /><!-- fg_meg + Walking Man Exhibit -->
+		<combo output='15212' card='50094' /><!-- fg_meg + Museum of Really Modern Art -->
+		<combo output='15212' card='10032' /><!-- fg_meg + Dress Rehearsal -->
 		<combo output='15212' card='50080' /><!-- fg_meg + Slurm Pop Art -->
 		<combo output='15212' card='20066' /><!-- fg_meg + Tattoo Parlor -->
 		<combo output='15212' card='40069' /><!-- fg_meg + The Leg Room -->
@@ -1600,6 +1656,10 @@
 		<combo output='15140' card='30049' /> <!-- fg_meg + Oldies with Goodies = Meg Meggy Meg -->
 		<combo output='15140' card='20037' /> <!-- fg_meg + Rubberneckers = Meg Meggy Meg -->
 		<!-- Drunk -->
+		<combo output='15154' card='10087' /><!-- fg_meg + Brewery Mascot -->
+		<combo output='15154' card='20079' /><!-- fg_meg + Signature Cocktail -->
+		<combo output='15154' card='30096' /><!-- fg_meg + Double Fisting -->
+		<combo output='15154' card='50095' /><!-- fg_meg + Concert Keg -->
 		<combo output='15154' card='40073' /><!-- fg_meg + Alamo Merch -->
 		<combo output='15154' card='10081' /><!-- fg_meg + New England Beaches -->
 		<combo output='15154' card='30082' /><!-- fg_meg + Soda Celebration -->
@@ -1936,6 +1996,10 @@
 		<combo output='15171' card='1500006' /><!-- fg_lois + Hypnotoad -->
 		<combo output='15171' card='50057' /><!-- fg_lois + Refreshing Crack -->
 		<!-- Drunk -->
+		<combo output='15155' card='10087' /><!-- fg_lois + Brewery Mascot -->
+		<combo output='15155' card='20079' /><!-- fg_lois + Signature Cocktail -->
+		<combo output='15155' card='30096' /><!-- fg_lois + Double Fisting -->
+		<combo output='15155' card='50095' /><!-- fg_lois + Concert Keg -->
 		<combo output='15155' card='40073' /><!-- fg_lois + Alamo Merch -->
 		<combo output='15155' card='10081' /><!-- fg_lois + New England Beaches -->
 		<combo output='15155' card='30082' /><!-- fg_lois + Soda Celebration -->
@@ -2152,6 +2216,10 @@
 		<combo output='15195' card='50029' /><!-- fg_brian + Long Stick with Sharp Rock -->
 		<combo output='15195' card='50035' /><!-- fg_brian + Doomsday Device -->
 		<!-- Drunk -->
+		<combo output='15188' card='10087' /><!-- fg_brian + Brewery Mascot -->
+		<combo output='15188' card='20079' /><!-- fg_brian + Signature Cocktail -->
+		<combo output='15188' card='30096' /><!-- fg_brian + Double Fisting -->
+		<combo output='15188' card='50095' /><!-- fg_brian + Concert Keg -->
 		<combo output='15188' card='40073' /><!-- fg_brian + Alamo Merch -->
 		<combo output='15188' card='10081' /><!-- fg_brian + New England Beaches -->
 		<combo output='15188' card='30082' /><!-- fg_brian + Soda Celebration -->
@@ -2278,6 +2346,14 @@
 		<combo output='15153' card='50047' /> <!-- fg_brian + Fish Pheromones = Wild Brian -->
 		<combo output='15153' card='40043' /> <!-- fg_brian + Bandit = Wild Brian -->
 		<combo output='15153' card='40044' /> <!-- fg_brian + Josh = Wild Brian -->
+		<!-- Artistic -->
+		<combo output='15182' card='20078' /><!-- fg_brian + School of Arts and Crafts -->
+		<combo output='15182' card='30095' /><!-- fg_brian + Landship Play -->
+		<combo output='15182' card='40089' /><!-- fg_brian + Walking Man Exhibit -->
+		<combo output='15182' card='50094' /><!-- fg_brian + Museum of Really Modern Art -->
+		<combo output='15182' card='20066' /><!-- fg_brian + Tattoo Parlor -->
+		<combo output='15182' card='30079' /><!-- fg_brian + Kidyatas -->
+		<combo output='15182' card='50080' /><!-- fg_brian + Slurm Pop Art -->
 		<combo output='15150' card='40069' /><!-- fg_ + The Leg Room -->
 		<combo output='15150' card='50036' /> <!-- fg_brian + Sad Clown = Brian Statue -->
 		<combo output='15150' card='40033' /> <!-- fg_brian + Holographic Washington = Brian Statue -->
@@ -2572,6 +2648,11 @@
 		<combo output='15208' card='30077' /><!-- fg_joe + Lulu -->
 		<combo output='15208' card='50075' /><!-- fg_joe + Robot Fox -->
 		<!-- Drunk -->
+		<combo output='15205' card='10087' /><!-- fg_joe + Brewery Mascot -->
+		<combo output='15205' card='20079' /><!-- fg_joe + Signature Cocktail -->
+		<combo output='15205' card='30096' /><!-- fg_joe + Double Fisting -->
+		<combo output='15205' card='50095' /><!-- fg_joe + Concert Keg -->
+		<combo output='15205' card='20045' /><!-- fg_joe + Wine Trio -->
 		<combo output='15205' card='40073' /><!-- fg_joe + Alamo Merch -->
 		<combo output='15205' card='10081' /><!-- fg_joe + New England Beaches -->
 		<combo output='15205' card='30082' /><!-- fg_joe + Soda Celebration -->
@@ -2668,6 +2749,13 @@
 		<combo output='15206' card='50071' /><!-- fg_joe + Triple Mom Slap -->
 		<combo output='15206' card='50072' /><!-- fg_joe + Big Boy Karate -->
 		<!-- Artistic -->
+		<combo output='15211' card='20078' /><!-- fg_joe + School of Arts and Crafts -->
+		<combo output='15211' card='30095' /><!-- fg_joe + Landship Play -->
+		<combo output='15211' card='40089' /><!-- fg_joe + Walking Man Exhibit -->
+		<combo output='15211' card='50094' /><!-- fg_joe + Museum of Really Modern Art -->
+		<combo output='15211' card='20066' /><!-- fg_joe + Tattoo Parlor -->
+		<combo output='15211' card='30079' /><!-- fg_joe + Kidyatas -->
+		<combo output='15211' card='50080' /><!-- fg_joe + Slurm Pop Art -->
 		<combo output='15207' card='40069' /><!-- fg_joe + The Leg Room -->
 		<combo output='15207' card='10035' /><!-- fg_joe + Buzzsaw -->
 		<combo output='15207' card='10032' /><!-- fg_joe + Dress Rehearsal -->
@@ -2718,6 +2806,11 @@
 		<combo output='35152' card='30080' /><!-- bb_tina + Winthrop Manor -->
 		<combo output='35152' card='30081' /><!-- bb_tina + Wagstaff Whaler -->
 		<combo output='35152' card='40070' /><!-- bb_tina + Pimp Hat -->
+		<!-- Artistic -->
+		<combo output='35182' card='20078' /><!-- bb_tina + School of Arts and Crafts -->
+		<combo output='35182' card='30095' /><!-- bb_tina + Landship Play -->
+		<combo output='35182' card='40089' /><!-- bb_tina + Walking Man Exhibit -->
+		<combo output='35182' card='50094' /><!-- bb_tina + Museum of Really Modern Art -->
 		<combo output='35182' card='50080' /><!-- bb_tina + Slurm Pop Art -->
 		<combo output='35182' card='20066' /><!-- bb_tina + Tattoo Parlor -->
 		<combo output='35182' card='40069' /><!-- bb_tina + The Leg Room -->
@@ -2856,6 +2949,10 @@
 		<combo output='35145' card='20042' /> <!-- bb_tina + Cat with Gun = Balloon Fight -->
 		<combo output='35145' card='40040' /> <!-- bb_tina + Dale's Artillery = Balloon Fight -->
 		<!-- Drunk -->
+		<combo output='35136' card='10087' /><!-- bb_tina + Brewery Mascot -->
+		<combo output='35136' card='20079' /><!-- bb_tina + Signature Cocktail -->
+		<combo output='35136' card='30096' /><!-- bb_tina + Double Fisting -->
+		<combo output='35136' card='50095' /><!-- bb_tina + Concert Keg -->
 		<combo output='35136' card='40072' /><!-- bb_tina + Dollar Beers -->
 		<combo output='35136' card='40073' /><!-- bb_tina + Alamo Merch -->
 		<combo output='35136' card='10081' /><!-- bb_tina + New England Beaches -->
@@ -3098,6 +3195,11 @@
 		<combo output='45078' card='50024' /><!-- kh_peggy + Pimparoo -->
 		<combo output='45078' card='50025' /><!-- kh_peggy + Protective Suits -->
 		<combo output='45078' card='50042' /><!-- kh_peggy + Lightspeed Briefs -->
+		<!-- Artistic -->
+		<combo output='45170' card='20078' /><!-- kh_peggy + School of Arts and Crafts -->
+		<combo output='45170' card='30095' /><!-- kh_peggy + Landship Play -->
+		<combo output='45170' card='40089' /><!-- kh_peggy + Walking Man Exhibit -->
+		<combo output='45170' card='50094' /><!-- kh_peggy + Museum of Really Modern Art -->
 		<combo output='45170' card='50080' /><!-- kh_peggy + Slurm Pop Art -->
 		<combo output='45170' card='20066' /><!-- kh_peggy + Tattoo Parlor -->
 		<combo output='45170' card='40069' /><!-- kh_peggy + The Leg Room -->
@@ -3298,6 +3400,10 @@
 		<combo output='45104' card='20036' /> <!-- kh_peggy + Professor Baxter = Sex Ed Teacher -->
 		<combo output='45104' card='40035' /> <!-- kh_peggy + Chemistry Teacher Peggy = Sex Ed Teacher -->
 		<!-- Drunk -->
+		<combo output='45101' card='10087' /><!-- kh_peggy + Brewery Mascot -->
+		<combo output='45101' card='20079' /><!-- kh_peggy + Signature Cocktail -->
+		<combo output='45101' card='30096' /><!-- kh_peggy + Double Fisting -->
+		<combo output='45101' card='50095' /><!-- kh_peggy + Concert Keg -->
 		<combo output='45101' card='40072' /><!-- kh_peggy + Dollar Beers -->
 		<combo output='45101' card='40073' /><!-- kh_peggy + Alamo Merch -->
 		<combo output='45101' card='10081' /><!-- kh_peggy + New England Beaches -->
@@ -3507,6 +3613,14 @@
 		<combo output='25167' card='40060' /><!-- ad_steve + Dauterive Chateau -->
 		<combo output='25167' card='50066' /><!-- ad_steve + $300 Haircut -->
 		<combo output='25167' card='50067' /><!-- ad_steve + Crack Mansion -->
+		<!-- Artistic -->
+		<combo output='25161' card='20078' /><!-- ad_steve + School of Arts and Crafts -->
+		<combo output='25161' card='30095' /><!-- ad_steve + Landship Play -->
+		<combo output='25161' card='40089' /><!-- ad_steve + Walking Man Exhibit -->
+		<combo output='25161' card='50094' /><!-- ad_steve + Museum of Really Modern Art -->
+		<combo output='25161' card='20066' /><!-- ad_steve + Tattoo Parlor -->
+		<combo output='25161' card='30079' /><!-- ad_steve + Kidyatas -->
+		<combo output='25161' card='50080' /><!-- ad_steve + Slurm Pop Art -->
 		<combo output='25161' card='40069' /><!-- ad_steve + The Leg Room -->
 		<combo output='25161' card='10069' /><!-- ad_steve + Jerome's Mother -->
 		<combo output='25161' card='20056' /><!-- ad_steve + Graffiti Mural -->
@@ -3953,6 +4067,10 @@
 		<combo output='25143' card='40048' /> <!-- ad_klaus + Tom Landry Baseball Team = Workout Klaus -->
 		<combo output='25143' card='50053' /> <!-- ad_klaus + Doubles Ping Pong = Workout Klaus -->
 		<!-- Drunk -->
+		<combo output='25199' card='10087' /><!-- ad_klaus + Brewery Mascot -->
+		<combo output='25199' card='20079' /><!-- ad_klaus + Signature Cocktail -->
+		<combo output='25199' card='30096' /><!-- ad_klaus + Double Fisting -->
+		<combo output='25199' card='50095' /><!-- ad_klaus + Concert Keg -->
 		<combo output='25136' card='40072' /><!-- ad_klaus + Dollar Beers -->
 		<combo output='25136' card='40073' /><!-- ad_klaus + Alamo Merch -->
 		<combo output='25136' card='10081' /><!-- ad_klaus + New England Beaches -->
@@ -4052,6 +4170,31 @@
 		<combo output='25053' card='50025' /> <!-- ad_klaus + Protective Suits = Bondage Klaus -->
 		<combo output='25053' card='40025' /> <!-- ad_klaus + Witch Costume = Bondage Klaus -->
 		<combo output='25053' card='40037' /> <!-- ad_klaus + Ski Mask = Bondage Klaus -->
+		<!-- Artistic -->
+		<combo output='25198' card='10042' /><!-- ad_klaus + Christobel's Painting -->
+		<combo output='25198' card='10050' /><!-- ad_klaus + Peter's Drawing -->
+		<combo output='25198' card='10069' /><!-- ad_klaus + Jerome's Mother -->
+		<combo output='25198' card='20043' /><!-- ad_klaus + Miguel -->
+		<combo output='25198' card='20056' /><!-- ad_klaus + Graffiti Mural -->
+		<combo output='25198' card='20066' /><!-- ad_klaus + Tattoo Parlor -->
+		<combo output='25198' card='20078' /><!-- ad_klaus + School of Arts and Crafts -->
+		<combo output='25198' card='30042' /><!-- ad_klaus + Reflections -->
+		<combo output='25198' card='30043' /><!-- ad_klaus + Napkin Art -->
+		<combo output='25198' card='30055' /><!-- ad_klaus + Ghost Boy -->
+		<combo output='25198' card='30069' /><!-- ad_klaus + Mutilated Therapy Dolls -->
+		<combo output='25198' card='30079' /><!-- ad_klaus + Kidyatas -->
+		<combo output='25198' card='30095' /><!-- ad_klaus + Landship Play -->
+		<combo output='25198' card='40033' /><!-- ad_klaus + Holographic Washington -->
+		<combo output='25198' card='40034' /><!-- ad_klaus + McMaynerbury Artist Colony -->
+		<combo output='25198' card='40042' /><!-- ad_klaus + Mr. Twilley -->
+		<combo output='25198' card='40057' /><!-- ad_klaus + Ark Sketch -->
+		<combo output='25198' card='40069' /><!-- ad_klaus + The Leg Room -->
+		<combo output='25198' card='40089' /><!-- ad_klaus + Walking Man Exhibit -->
+		<combo output='25198' card='50036' /><!-- ad_klaus + Sad Clown -->
+		<combo output='25198' card='50094' /><!-- ad_klaus + Museum of Really Modern Art -->
+		<combo output='25198' card='50080' /><!-- ad_klaus + Slurm Pop Art -->
+		<combo output='25198' card='50062' /><!-- ad_klaus + Shakespeare Calculon -->
+		<combo output='25198' card='50046' /><!-- ad_klaus + Zapp Brannigan Portrait -->
 		<combo output='25001' card='20017' /> <!-- ad_klaus + Panther Cuddling Steve = Painter Klaus -->
 		<combo output='25001' card='40017' /> <!-- ad_klaus + Beef Filled Colon = Painter Klaus -->
 		<combo output='25001' card='30019' /> <!-- ad_klaus + Animal Anuses = Painter Klaus -->
@@ -4157,6 +4300,11 @@
 		<combo output='25088' card='30080' /><!-- ad_hayley + Winthrop Manor -->
 		<combo output='25088' card='30081' /><!-- ad_hayley + Wagstaff Whaler -->
 		<combo output='25088' card='40070' /><!-- ad_hayley + Pimp Hat -->
+		<!-- Artistic -->
+		<combo output='25181' card='20078' /><!-- ad_hayley + School of Arts and Crafts -->
+		<combo output='25181' card='30095' /><!-- ad_hayley + Landship Play -->
+		<combo output='25181' card='40089' /><!-- ad_hayley + Walking Man Exhibit -->
+		<combo output='25181' card='50094' /><!-- ad_hayley + Museum of Really Modern Art -->
 		<combo output='25181' card='50080' /><!-- ad_hayley + Slurm Pop Art -->
 		<combo output='25181' card='20066' /><!-- ad_hayley + Tattoo Parlor -->
 		<combo output='25181' card='40069' /><!-- ad_hayley + The Leg Room -->
@@ -4330,6 +4478,10 @@
 		<combo output='25140' card='50052' /> <!-- ad_hayley + Dr. Cahill = Corporate Training -->
 		<combo output='25140' card='20036' /> <!-- ad_hayley + Professor Baxter = Corporate Training -->
 		<!-- Drunk -->
+		<combo output='25137' card='10087' /><!-- ad_hayley + Brewery Mascot -->
+		<combo output='25137' card='20079' /><!-- ad_hayley + Signature Cocktail -->
+		<combo output='25137' card='30096' /><!-- ad_hayley + Double Fisting -->
+		<combo output='25137' card='50095' /><!-- ad_hayley + Concert Keg -->
 		<combo output='25137' card='40073' /><!-- ad_hayley + Alamo Merch -->
 		<combo output='25137' card='10081' /><!-- ad_hayley + New England Beaches -->
 		<combo output='25137' card='30082' /><!-- ad_hayley + Soda Celebration -->
@@ -4468,6 +4620,10 @@
 		<combo output='25182' card='20066' /><!-- ad_stan + Tattoo Parlor -->
 		<combo output='25182' card='40069' /><!-- ad_stan + The Leg Room -->
 		<combo output='25182' card='30079' /><!-- ad_stan + Kidyatas -->
+		<combo output='25182' card='20078' /><!-- ad_stan + School of Arts and Crafts -->
+		<combo output='25182' card='30095' /><!-- ad_stan + Landship Play -->
+		<combo output='25182' card='40089' /><!-- ad_stan + Walking Man Exhibit -->
+		<combo output='25182' card='50094' /><!-- ad_stan + Museum of Really Modern Art -->
 		<!-- Addicted -->
 		<combo output='25172' card='20074' /><!-- ad_stan + Anti-Seizure Meds -->
 		<combo output='25172' card='30090' /><!-- ad_stan + Medicated Eye Drops -->
@@ -4505,6 +4661,10 @@
 		<combo output='25166' card='50066' /><!-- ad_stan + $300 Haircut -->
 		<combo output='25166' card='50067' /><!-- ad_stan + Crack Mansion -->
 		<!-- Drunk -->
+		<combo output='25165' card='10087' /><!-- ad_stan + Brewery Mascot -->
+		<combo output='25165' card='20079' /><!-- ad_stan + Signature Cocktail -->
+		<combo output='25165' card='30096' /><!-- ad_stan + Double Fisting -->
+		<combo output='25165' card='50095' /><!-- ad_stan + Concert Keg -->
 		<combo output='25165' card='40072' /><!-- ad_stan + Dollar Beers -->
 		<combo output='25165' card='40073' /><!-- ad_stan + Alamo Merch -->
 		<combo output='25165' card='10081' /><!-- ad_stan + New England Beaches -->
@@ -4886,6 +5046,10 @@
 		<combo output='25141' card='50052' /> <!-- ad_bullock + Dr. Cahill = CIA Instructor -->
 		<combo output='25141' card='20036' /> <!-- ad_bullock + Professor Baxter = CIA Instructor -->
 		<!-- Drunk -->
+		<combo output='25135' card='10087' /><!-- ad_bullock + Brewery Mascot -->
+		<combo output='25135' card='20079' /><!-- ad_bullock + Signature Cocktail -->
+		<combo output='25135' card='30096' /><!-- ad_bullock + Double Fisting -->
+		<combo output='25135' card='50095' /><!-- ad_bullock + Concert Keg -->
 		<combo output='25135' card='40072' /><!-- ad_bullock + Dollar Beers -->
 		<combo output='25135' card='40073' /><!-- ad_bullock + Alamo Merch -->
 		<combo output='25135' card='10081' /><!-- ad_bullock + New England Beaches -->
@@ -5185,6 +5349,14 @@
 		<combo output='25134' card='50047' /> <!-- ad_roger + Fish Pheromones = Marmalade -->
 		<combo output='25134' card='40043' /> <!-- ad_roger + Bandit = Marmalade -->
 		<combo output='25134' card='40044' /> <!-- ad_roger + Josh = Marmalade -->
+		<!-- Artistic -->
+		<combo output='25129' card='20078' /><!-- ad_roger + School of Arts and Crafts -->
+		<combo output='25129' card='30095' /><!-- ad_roger + Landship Play -->
+		<combo output='25129' card='40089' /><!-- ad_roger + Walking Man Exhibit -->
+		<combo output='25129' card='50094' /><!-- ad_roger + Museum of Really Modern Art -->
+		<combo output='25129' card='20066' /><!-- ad_roger + Tattoo Parlor -->
+		<combo output='25129' card='30079' /><!-- ad_roger + Kidyatas -->
+		<combo output='25129' card='50080' /><!-- ad_roger + Slurm Pop Art -->
 		<combo output='25129' card='40069' /><!-- ad_roger + The Leg Room -->
 		<combo output='25129' card='50036' /> <!-- ad_roger + Sad Clown = Supermodel Roger -->
 		<combo output='25129' card='40034' /> <!-- ad_roger + McMaynerbury Artist Colony = Supermodel Roger -->
@@ -5298,6 +5470,10 @@
 		<combo output='25115' card='40047' /> <!-- ad_roger + Student Lucky = Mr. Deliver -->
 		<combo output='25115' card='50052' /> <!-- ad_roger + Dr. Cahill = Mr. Deliver -->
 		<!-- Drunk -->
+		<combo output='25113' card='10087' /><!-- ad_roger + Brewery Mascot -->
+		<combo output='25113' card='20079' /><!-- ad_roger + Signature Cocktail -->
+		<combo output='25113' card='30096' /><!-- ad_roger + Double Fisting -->
+		<combo output='25113' card='50095' /><!-- ad_roger + Concert Keg -->
 		<combo output='25113' card='40073' /><!-- ad_roger + Alamo Merch -->
 		<combo output='25113' card='10081' /><!-- ad_roger + New England Beaches -->
 		<combo output='25113' card='30082' /><!-- ad_roger + Soda Celebration -->
@@ -5580,6 +5756,10 @@
 		<combo output='25169' card='50021' /><!-- ad_francine + Ray Gun -->
 		<combo output='25169' card='50027' /><!-- ad_francine + Robot Santa -->
 		<!-- Drunk -->
+		<combo output='25164' card='10087' /><!-- ad_francine + Brewery Mascot -->
+		<combo output='25164' card='20079' /><!-- ad_francine + Signature Cocktail -->
+		<combo output='25164' card='30096' /><!-- ad_francine + Double Fisting -->
+		<combo output='25164' card='50095' /><!-- ad_francine + Concert Keg -->
 		<combo output='25164' card='40072' /><!-- ad_francine + Dollar Beers -->
 		<combo output='25164' card='40073' /><!-- ad_francine + Alamo Merch -->
 		<combo output='25164' card='10081' /><!-- ad_francine + New England Beaches -->
@@ -5680,6 +5860,14 @@
 		<combo output='25120' card='40037' /> <!-- ad_francine + Ski Mask = Sexpun T'Come -->
 		<combo output='25120' card='20038' /> <!-- ad_francine + Roger's Sexy Shorts = Sexpun T'Come -->
 		<combo output='25120' card='50042' /> <!-- ad_francine + Lightspeed Briefs = Sexpun T'Come -->
+		<!-- Artistic -->
+		<combo output='25111' card='20078' /><!-- ad_francine + School of Arts and Crafts -->
+		<combo output='25111' card='30095' /><!-- ad_francine + Landship Play -->
+		<combo output='25111' card='40089' /><!-- ad_francine + Walking Man Exhibit -->
+		<combo output='25111' card='50094' /><!-- ad_francine + Museum of Really Modern Art -->
+		<combo output='25111' card='20066' /><!-- ad_francine + Tattoo Parlor -->
+		<combo output='25111' card='30079' /><!-- ad_francine + Kidyatas -->
+		<combo output='25111' card='50080' /><!-- ad_francine + Slurm Pop Art -->
 		<combo output='25111' card='40069' /><!-- ad_francine + The Leg Room -->
 		<combo output='25111' card='10069' /><!-- ad_francine + Jerome's Mother -->
 		<combo output='25111' card='20056' /><!-- ad_francine + Graffiti Mural -->
@@ -5855,6 +6043,20 @@
 		<combo output='35176' card='50033' /><!-- bb_teddy + SportsBot 5000 -->
 		<combo output='35176' card='50043' /><!-- bb_teddy + Terrestial Cycling -->
 		<combo output='35176' card='50053' /><!-- bb_teddy + Doubles Ping Pong -->
+		<!-- Artistic -->
+		<combo output='35202' card='20078' /><!-- bb_teddy + School of Arts and Crafts -->
+		<combo output='35202' card='30095' /><!-- bb_teddy + Landship Play -->
+		<combo output='35202' card='40089' /><!-- bb_teddy + Walking Man Exhibit -->
+		<combo output='35202' card='50094' /><!-- bb_teddy + Museum of Really Modern Art -->
+		<combo output='35202' card='20066' /><!-- bb_teddy + Tattoo Parlor -->
+		<combo output='35202' card='30079' /><!-- bb_teddy + Kidyatas -->
+		<combo output='35202' card='50080' /><!-- bb_teddy + Slurm Pop Art -->
+		<combo output='35202' card='10032' /><!-- bb_teddy + Dress Rehearsal -->
+		<combo output='35202' card='20017' /><!-- bb_teddy + Panther Cuddling Steve -->
+		<combo output='35202' card='30019' /><!-- bb_teddy + Animal Anuses -->
+		<combo output='35202' card='40017' /><!-- bb_teddy + Beef Filled Colon -->
+		<combo output='35202' card='50017' /><!-- bb_teddy + Vitruvian Man -->
+		<combo output='35202' card='50079' /><!-- bb_teddy + Vitruvian Man -->
 		<combo output='35159' card='40069' /><!-- bb_teddy + The Leg Room -->
 		<combo output='35159' card='10035' /><!-- bb_teddy + Buzzsaw -->
 		<combo output='35159' card='10069' /><!-- bb_teddy + Jerome's Mother -->
@@ -6089,6 +6291,32 @@
 		<combo output='35058' card='60009' starting_combo='1' start_ip_req='3' /> <!-- bb_teddy + Music = Dancing Teddy -->
 		<combo output='35058' card='10029' /> <!-- bb_teddy + Red Shirt Blue Shirt = Dancing Teddy -->
 		<combo output='35058' card='20031' /> <!-- bb_teddy + Turnin Jeff = Dancing Teddy -->
+		<!-- Drunk -->
+		<combo output='35204' card='10087' /><!-- bb_teddy + Brewery Mascot -->
+		<combo output='35204' card='20079' /><!-- bb_teddy + Signature Cocktail -->
+		<combo output='35204' card='30096' /><!-- bb_teddy + Double Fisting -->
+		<combo output='35204' card='50095' /><!-- bb_teddy + Concert Keg -->
+		<combo output='35204' card='10027' /><!-- bb_teddy + Brian's Martini -->
+		<combo output='35204' card='10054' /><!-- bb_teddy + Vodka Beer -->
+		<combo output='35204' card='10071' /><!-- bb_teddy + Beer Festival -->
+		<combo output='35204' card='10081' /><!-- bb_teddy + New England Beaches -->
+		<combo output='35204' card='20035' /><!-- bb_teddy + Spring Break Shots -->
+		<combo output='35204' card='20045' /><!-- bb_teddy + Wine Trio -->
+		<combo output='35204' card='20058' /><!-- bb_teddy + LARP Bartender Snot -->
+		<combo output='35204' card='30027' /><!-- bb_teddy + Absinthe -->
+		<combo output='35204' card='30044' /><!-- bb_teddy + Jelly Bean Schnapps -->
+		<combo output='35204' card='30045' /><!-- bb_teddy + Welcome Mojitos -->
+		<combo output='35204' card='30071' /><!-- bb_teddy + Dinner Date Frond -->
+		<combo output='35204' card='30082' /><!-- bb_teddy + Soda Celebration -->
+		<combo output='35204' card='40045' /><!-- bb_teddy + Brau Beer -->
+		<combo output='35204' card='40059' /><!-- bb_teddy + Mint Julep -->
+		<combo output='35204' card='40072' /><!-- bb_teddy + Dollar Beers -->
+		<combo output='35204' card='40073' /><!-- bb_teddy + Alamo Merch -->
+		<combo output='35204' card='50065' /><!-- bb_teddy + Bier Tasting -->
+		<combo output='35204' card='50050' /><!-- bb_teddy + Wine Bucket -->
+		<combo output='35204' card='50049' /><!-- bb_teddy + Thunder Cocktails -->
+		<combo output='35204' card='50037' /><!-- bb_teddy + Oktober Brau -->
+		<combo output='35204' card='50023' /><!-- bb_teddy + Maltese Liquor -->
 		<combo output='35055' card='20012' /> <!-- bb_teddy + Roger's Place = Brewmaster Teddy -->
 		<combo output='35055' card='40012' /> <!-- bb_teddy + Alamo Beer = Brewmaster Teddy -->
 		<combo output='35055' card='30015' /> <!-- bb_teddy + Teddy's Brewski = Brewmaster Teddy -->
@@ -6177,6 +6405,14 @@
 		<combo output='35166' card='40060' /><!-- bb_gene + Dauterive Chateau -->
 		<combo output='35166' card='50066' /><!-- bb_gene + $300 Haircut -->
 		<combo output='35166' card='50067' /><!-- bb_gene + Crack Mansion -->
+		<!-- Artistic -->
+		<combo output='35161' card='20078' /><!-- bb_gene + School of Arts and Crafts -->
+		<combo output='35161' card='30095' /><!-- bb_gene + Landship Play -->
+		<combo output='35161' card='40089' /><!-- bb_gene + Walking Man Exhibit -->
+		<combo output='35161' card='50094' /><!-- bb_gene + Museum of Really Modern Art -->
+		<combo output='35161' card='20066' /><!-- bb_gene + Tattoo Parlor -->
+		<combo output='35161' card='30079' /><!-- bb_gene + Kidyatas -->
+		<combo output='35161' card='50080' /><!-- bb_gene + Slurm Pop Art -->
 		<combo output='35161' card='40069' /><!-- bb_gene + The Leg Room -->
 		<combo output='35161' card='10069' /><!-- bb_gene + Jerome's Mother -->
 		<combo output='35161' card='20056' /><!-- bb_gene + Graffiti Mural -->
@@ -6710,6 +6946,10 @@
 		<combo output='35118' card='10055' /> <!-- bb_linda + K Pop Cleveland = Working Song -->
 		<combo output='35118' card='40046' /> <!-- bb_linda + Earl's Guitars = Working Song -->
 		<!-- Drunk -->
+		<combo output='35164' card='10087' /><!-- bb_linda + Brewery Mascot -->
+		<combo output='35164' card='20079' /><!-- bb_linda + Signature Cocktail -->
+		<combo output='35164' card='30096' /><!-- bb_linda + Double Fisting -->
+		<combo output='35164' card='50095' /><!-- bb_linda + Concert Keg -->
 		<combo output='35164' card='40073' /><!-- bb_linda + Alamo Merch -->
 		<combo output='35164' card='10081' /><!-- bb_linda + New England Beaches -->
 		<combo output='35164' card='30082' /><!-- bb_linda + Soda Celebration -->
@@ -6719,6 +6959,14 @@
 		<combo output='35111' card='40045' /> <!-- bb_linda + Brau Beer = Bar Trivia -->
 		<combo output='35111' card='1400005' /> <!-- bb_linda + Brau Beer = Bar Trivia -->
 		<combo output='35111' card='10054' /> <!-- bb_linda + Vodka Beer = Bar Trivia -->
+		<!-- Artistic -->
+		<combo output='35110' card='20078' /><!-- bb_linda + School of Arts and Crafts -->
+		<combo output='35110' card='30095' /><!-- bb_linda + Landship Play -->
+		<combo output='35110' card='40089' /><!-- bb_linda + Walking Man Exhibit -->
+		<combo output='35110' card='50094' /><!-- bb_linda + Museum of Really Modern Art -->
+		<combo output='35110' card='20066' /><!-- bb_linda + Tattoo Parlor -->
+		<combo output='35110' card='30079' /><!-- bb_linda + Kidyatas -->
+		<combo output='35110' card='50080' /><!-- bb_linda + Slurm Pop Art -->
 		<combo output='35110' card='40069' /><!-- bb_linda + The Leg Room -->
 		<combo output='35110' card='10069' /><!-- bb_linda + Jerome's Mother -->
 		<combo output='35110' card='20056' /><!-- bb_linda + Graffiti Mural -->
@@ -6894,6 +7142,10 @@
 		<combo output='35170' card='30073' /><!-- bb_bob + Halloween Candy -->
 		<combo output='35170' card='20061' /><!-- bb_bob + Langley Soft Drug Store -->
 		<!-- Drunk -->
+		<combo output='35165' card='10087' /><!-- bb_bob + Brewery Mascot -->
+		<combo output='35165' card='20079' /><!-- bb_bob + Signature Cocktail -->
+		<combo output='35165' card='30096' /><!-- bb_bob + Double Fisting -->
+		<combo output='35165' card='50095' /><!-- bb_bob + Concert Keg -->
 		<combo output='35165' card='40072' /><!-- bb_bob + Dollar Beers -->
 		<combo output='35165' card='40073' /><!-- bb_bob + Alamo Merch -->
 		<combo output='35165' card='10081' /><!-- bb_bob + New England Beaches -->
@@ -6909,6 +7161,14 @@
 		<combo output='35165' card='50031' /><!-- bb_bob + Lo Brau -->
 		<combo output='35165' card='50037' /><!-- bb_bob + Oktober Brau -->
 		<combo output='35165' card='50049' /><!-- bb_bob + Thunder Cocktails -->
+		<!-- Artistic -->
+		<combo output='35201' card='20078' /><!-- bb_bob + School of Arts and Crafts -->
+		<combo output='35201' card='30095' /><!-- bb_bob + Landship Play -->
+		<combo output='35201' card='40089' /><!-- bb_bob + Walking Man Exhibit -->
+		<combo output='35201' card='50094' /><!-- bb_bob + Museum of Really Modern Art -->
+		<combo output='35201' card='20066' /><!-- bb_bob + Tattoo Parlor -->
+		<combo output='35201' card='30079' /><!-- bb_bob + Kidyatas -->
+		<combo output='35201' card='50080' /><!-- bb_bob + Slurm Pop Art -->
 		<combo output='35160' card='40069' /><!-- bb_bob + The Leg Room -->	
 		<combo output='35160' card='10069' /><!-- bb_bob + Jerome's Mother -->
 		<combo output='35160' card='20056' /><!-- bb_bob + Graffiti Mural -->
@@ -7346,6 +7606,14 @@
 		<combo output='35134' card='50047' /> <!-- bb_louise + Fish Pheromones = Princess Little Piddles -->
 		<combo output='35134' card='40043' /> <!-- bb_louise + Bandit = Princess Little Piddles -->
 		<combo output='35134' card='40044' /> <!-- bb_louise + Josh = Princess Little Piddles -->
+		<!-- Artistic -->
+		<combo output='35128' card='30095' /><!-- bb_louise + Landship Play -->
+		<combo output='35128' card='20078' /><!-- bb_louise + School of Arts and Crafts -->
+		<combo output='35128' card='40089' /><!-- bb_louise + Walking Man Exhibit -->
+		<combo output='35128' card='50094' /><!-- bb_louise + Museum of Really Modern Art -->
+		<combo output='35128' card='20066' /><!-- bb_louise + Tattoo Parlor -->
+		<combo output='35128' card='30079' /><!-- bb_louise + Kidyatas -->
+		<combo output='35128' card='50080' /><!-- bb_louise + Slurm Pop Art -->
 		<combo output='35128' card='40069' /><!-- bb_louise + The Leg Room -->
 		<combo output='35128' card='10069' /><!-- bb_louise + Jerome's Mother -->
 		<combo output='35128' card='20056' /><!-- bb_louise + Graffiti Mural -->
@@ -7542,6 +7810,19 @@
 		<combo output='35007' card='20024' /> <!-- bb_louise + Scary Mask = Louise Scissorhands -->
 		<combo output='35007' card='40025' /> <!-- bb_louise + Witch Costume = Louise Scissorhands -->
 		<combo output='35007' card='50034' /> <!-- bb_louise + Doingg = Louise Scissorhands -->
+		<!-- Drunk -->
+		<combo output='35203' card='10087' /><!-- bb_louise + Brewery Mascot -->
+		<combo output='35203' card='20079' /><!-- bb_louise + Signature Cocktail -->
+		<combo output='35203' card='30096' /><!-- bb_louise + Double Fisting -->
+		<combo output='35203' card='50095' /><!-- bb_louise + Concert Keg -->
+		<combo output='35203' card='10043' /><!-- bb_louise + Party in the Beer Tank -->
+		<combo output='35203' card='20030' /><!-- bb_louise + Beerwater -->
+		<combo output='35203' card='30028' /><!-- bb_louise + Wine Shoe -->
+		<combo output='35203' card='40023' /><!-- bb_louise + Personalized Beer Mug -->
+		<combo output='35203' card='40029' /><!-- bb_louise + Slewback -->
+		<combo output='35203' card='50030' /><!-- bb_louise + Klein's Beer -->
+		<combo output='35203' card='50031' /><!-- bb_louise + Lo Brau -->
+		<combo output='35203' card='50037' /><!-- bb_louise + Oktober Brau -->
 		<combo output='35012' card='20012' /> <!-- bb_louise + Roger's Place = Yacht Club -->
 		<combo output='35012' card='40012' /> <!-- bb_louise + Alamo Beer = Yacht Club -->
 		<combo output='35012' card='30015' /> <!-- bb_louise + Teddy's Brewski = Yacht Club -->
@@ -7656,6 +7937,45 @@
 	</character>
 	<character>
 		<name>bb_jimmyjr</name>
+		<!-- Drunk -->
+		<combo output='35205' card='10087' /><!-- bb_jimmyjr + Brewery Mascot -->
+		<combo output='35205' card='20079' /><!-- bb_jimmyjr + Signature Cocktail -->
+		<combo output='35205' card='30096' /><!-- bb_jimmyjr + Double Fisting -->
+		<combo output='35205' card='50095' /><!-- bb_jimmyjr + Concert Keg -->
+		<combo output='35205' card='10027' /><!-- bb_jimmyjr + Brian's Martini -->
+		<combo output='35205' card='10054' /><!-- bb_jimmyjr + Vodka Beer -->
+		<combo output='35205' card='10071' /><!-- bb_jimmyjr + Beer Festival -->
+		<combo output='35205' card='10081' /><!-- bb_jimmyjr + New England Beaches -->
+		<combo output='35205' card='20035' /><!-- bb_jimmyjr + Spring Break Shots -->
+		<combo output='35205' card='20045' /><!-- bb_jimmyjr + Wine Trio -->
+		<combo output='35205' card='20058' /><!-- bb_jimmyjr + LARP Bartender Snot -->
+		<combo output='35205' card='30027' /><!-- bb_jimmyjr + Absinthe -->
+		<combo output='35205' card='30044' /><!-- bb_jimmyjr + Jelly Bean Schnapps -->
+		<combo output='35205' card='30045' /><!-- bb_jimmyjr + Welcome Mojitos -->
+		<combo output='35205' card='30071' /><!-- bb_jimmyjr + Dinner Date Frond -->
+		<combo output='35205' card='50065' /><!-- bb_jimmyjr + Bier Tasting -->
+		<combo output='35205' card='50050' /><!-- bb_jimmyjr + Wine Bucket -->
+		<combo output='35205' card='50049' /><!-- bb_jimmyjr + Thunder Cocktails -->
+		<combo output='35205' card='50037' /><!-- bb_jimmyjr + Oktober Brau -->
+		<combo output='35205' card='50023' /><!-- bb_jimmyjr + Maltese Liquor -->
+		<combo output='35205' card='10012' /><!-- bb_jimmyjr + Pawtucket Patriot Ale -->
+		<combo output='35205' card='10026' /><!-- bb_jimmyjr + The Drunken Clam -->
+		<combo output='35205' card='10043' /><!-- bb_jimmyjr + Party in the Beer Tank -->
+		<combo output='35205' card='20030' /><!-- bb_jimmyjr + Beerwater -->
+		<combo output='35205' card='30015' /><!-- bb_jimmyjr + Teddy's Brewski -->
+		<combo output='35205' card='30028' /><!-- bb_jimmyjr + Wine Shoe -->
+		<combo output='35205' card='30029' /><!-- bb_jimmyjr + Best Swamp Parties -->
+		<combo output='35205' card='30082' /><!-- bb_jimmyjr + Soda Celebration -->
+		<combo output='35205' card='40012' /><!-- bb_jimmyjr + Alamo Beer -->
+		<combo output='35205' card='40023' /><!-- bb_jimmyjr + Personalized Beer Mug -->
+		<combo output='35205' card='40029' /><!-- bb_jimmyjr + Slewback -->
+		<combo output='35205' card='40045' /><!-- bb_jimmyjr + Brau Beer -->
+		<combo output='35205' card='40059' /><!-- bb_jimmyjr + Mint Julep -->
+		<combo output='35205' card='40072' /><!-- bb_jimmyjr + Dollar Beers -->
+		<combo output='35205' card='40073' /><!-- bb_jimmyjr + Alamo Merch -->
+		<combo output='35205' card='50011' /><!-- bb_jimmyjr + Olde Fortran Malt Liquor -->
+		<combo output='35205' card='50031' /><!-- bb_jimmyjr + Lo Brau -->
+		<combo output='35205' card='50030' /><!-- bb_jimmyjr + Klein's Beer -->
 		<!-- Educated -->
 		<combo output='35200' card='30094' /><!-- bb_jimmyjr + Beta House -->
 		<combo output='35200' card='40088' /><!-- bb_jimmyjr + Standardized Tests -->
@@ -7923,6 +8243,10 @@
 		<combo output='45156' card='50066' /><!-- kh_hank + $300 Haircut -->
 		<combo output='45156' card='50067' /><!-- kh_hank + Crack Mansion -->
 		<!-- Drunk -->
+		<combo output='45154' card='10087' /><!-- kh_hank + Brewery Mascot -->
+		<combo output='45154' card='20079' /><!-- kh_hank + Signature Cocktail -->
+		<combo output='45154' card='30096' /><!-- kh_hank + Double Fisting -->
+		<combo output='45154' card='50095' /><!-- kh_hank + Concert Keg -->
 		<combo output='45154' card='40072' /><!-- kh_hank + Dollar Beers -->
 		<combo output='45154' card='40073' /><!-- kh_hank + Alamo Merch -->
 		<combo output='45154' card='10081' /><!-- kh_hank + New England Beaches -->
@@ -7937,7 +8261,15 @@
 		<combo output='45154' card='20045' /><!-- kh_hank + Wine Trio -->
 		<combo output='45154' card='30044' /><!-- kh_hank + Jelly Bean Schnapps -->
 		<combo output='45154' card='50023' /><!-- kh_hank + Maltese Liquor -->
-		<combo output='45154' card='50049' /><!-- kh_hank + Thunder Cocktails -->		
+		<combo output='45154' card='50049' /><!-- kh_hank + Thunder Cocktails -->	
+		<!-- Artistic -->	
+		<combo output='45180' card='20078' /><!-- kh_hank + School of Arts and Crafts -->
+		<combo output='45180' card='30095' /><!-- kh_hank + Landship Play -->
+		<combo output='45180' card='40089' /><!-- kh_hank + Walking Man Exhibit -->
+		<combo output='45180' card='50094' /><!-- kh_hank + Museum of Really Modern Art -->
+		<combo output='45180' card='20066' /><!-- kh_hank + Tattoo Parlor -->
+		<combo output='45180' card='30079' /><!-- kh_hank + Kidyatas -->
+		<combo output='45180' card='50080' /><!-- kh_hank + Slurm Pop Art -->
 		<combo output='45148' card='10069' /><!-- kh_hank + Jerome's Mother -->
 		<combo output='45148' card='20056' /><!-- kh_hank + Graffiti Mural -->
 		<combo output='45148' card='30069' /><!-- kh_hank + Mutilated Therapy Dolls -->
@@ -8278,6 +8610,10 @@
 		<combo output='45160' card='30073' /><!-- kh_dale + Halloween Candy -->
 		<combo output='45160' card='20061' /><!-- kh_dale + Langley Soft Drug Store -->
 		<!-- Drunk -->
+		<combo output='45152' card='10087' /><!-- kh_dale + Brewery Mascot -->
+		<combo output='45152' card='20079' /><!-- kh_dale + Signature Cocktail -->
+		<combo output='45152' card='30096' /><!-- kh_dale + Double Fisting -->
+		<combo output='45152' card='50095' /><!-- kh_dale + Concert Keg -->
 		<combo output='45152' card='40072' /><!-- kh_dale + Dollar Beers -->
 		<combo output='45152' card='10081' /><!-- kh_dale + New England Beaches -->
 		<combo output='45152' card='40073' /><!-- kh_dale + Alamo Merch -->
@@ -8328,6 +8664,14 @@
 		<combo output='45151' card='30059' /><!-- kh_dale + Fart School Jimmy Jr. -->
 		<combo output='45151' card='40046' /><!-- kh_dale + Earl's Guitars -->
 		<combo output='45151' card='50051' /><!-- kh_dale + Golden Fiddle -->
+		<!-- Artistic -->
+		<combo output='45147' card='20078' /><!-- kh_dale + School of Arts and Crafts -->
+		<combo output='45147' card='30095' /><!-- kh_dale + Landship Play -->
+		<combo output='45147' card='40089' /><!-- kh_dale + Walking Man Exhibit -->
+		<combo output='45147' card='50094' /><!-- kh_dale + Museum of Really Modern Art -->
+		<combo output='45147' card='20066' /><!-- kh_dale + Tattoo Parlor -->
+		<combo output='45147' card='30079' /><!-- kh_dale + Kidyatas -->
+		<combo output='45147' card='50080' /><!-- kh_dale + Slurm Pop Art -->
 		<combo output='45147' card='40069' /><!-- kh_dale + The Leg Room -->
 		<combo output='45147' card='10035' /><!-- kh_dale + Buzzsaw -->
 		<combo output='45147' card='10069' /><!-- kh_dale + Jerome's Mother -->
@@ -8663,10 +9007,14 @@
 		<combo output='45130' card='50053' /> <!-- kh_bill + Doubles Ping Pong = Softball Bill -->
 		<combo output='45130' card='10059' /> <!-- kh_bill + Toxic Shock = Softball Bill -->
 		<combo output='45130' card='20047' /> <!-- kh_bill + The Bazooka Sharks = Softball Bill -->
-		<combo output='45130' card='1200006' /> <!-- fg_quagmire + The Bazooka Sharks = Skydiver Quagmire -->
+		<combo output='45130' card='1200006' /> <!-- kh_bill + The Bazooka Sharks = Skydiver Quagmire -->
 		<combo output='45130' card='30061' /> <!-- kh_bill + Millie's Trampoline = Softball Bill -->
 		<combo output='45130' card='40048' /> <!-- kh_bill + Tom Landry Baseball Team = Softball Bill -->
 		<!-- Drunk -->
+		<combo output='45125' card='10087' /><!-- kh_bill + Brewery Mascot -->
+		<combo output='45125' card='20079' /><!-- kh_bill + Signature Cocktail -->
+		<combo output='45125' card='30096' /><!-- kh_bill + Double Fisting -->
+		<combo output='45125' card='50095' /><!-- kh_bill + Concert Keg -->
 		<combo output='45125' card='40072' /><!-- kh_bill + Dollar Beers -->
 		<combo output='45125' card='40073' /><!-- kh_bill + Alamo Merch -->
 		<combo output='45125' card='10081' /><!-- kh_bill + New England Beaches -->
@@ -8881,6 +9229,10 @@
 		<combo output='45176' card='20048' /><!-- kh_boomhauer + Pantry Guns -->
 		<combo output='45176' card='40020' /><!-- kh_boomhauer + Rifle -->
 		<!-- Drunk -->
+		<combo output='45172' card='10087' /><!-- kh_boomhauer + Brewery Mascot -->
+		<combo output='45172' card='20079' /><!-- kh_boomhauer + Signature Cocktail -->
+		<combo output='45172' card='30096' /><!-- kh_boomhauer + Double Fisting -->
+		<combo output='45172' card='50095' /><!-- kh_boomhauer + Concert Keg -->
 		<combo output='45172' card='40072' /><!-- kh_boomhauer + Dollar Beers -->
 		<combo output='45172' card='40073' /><!-- kh_boomhauer + Alamo Merch -->
 		<combo output='45172' card='10081' /><!-- kh_boomhauer + New England Beaches -->
@@ -9003,7 +9355,7 @@
 		<combo output='45131' card='50053' /> <!-- kh_boomhauer + Doubles Ping Pong = Softball Boomhauer -->
 		<combo output='45131' card='10059' /> <!-- kh_boomhauer + Toxic Shock = Softball Boomhauer -->
 		<combo output='45131' card='20047' /> <!-- kh_boomhauer + The Bazooka Sharks = Softball Boomhauer -->
-		<combo output='45131' card='1200006' /> <!-- fg_quagmire + The Bazooka Sharks = Skydiver Quagmire -->
+		<combo output='45131' card='1200006' /> <!-- kh_boomhauer + The Bazooka Sharks = Skydiver Quagmire -->
 		<combo output='45131' card='30061' /> <!-- kh_boomhauer + Millie's Trampoline = Softball Boomhauer -->
 		<combo output='45131' card='40048' /> <!-- kh_boomhauer + Tom Landry Baseball Team = Softball Boomhauer -->
 		<!-- Educated -->
@@ -9135,6 +9487,10 @@
 		<combo output='45174' card='40076' /><!-- kh_bobby + Chip -->
 		<combo output='45174' card='10084' /><!-- kh_bobby + Rupert Recalls -->
 		<!-- Drunk -->
+		<combo output='45086' card='10087' /><!-- kh_bobby + Brewery Mascot -->
+		<combo output='45086' card='20079' /><!-- kh_bobby + Signature Cocktail -->
+		<combo output='45086' card='30096' /><!-- kh_bobby + Double Fisting -->
+		<combo output='45086' card='50095' /><!-- kh_bobby + Concert Keg -->
 		<combo output='45086' card='40072' /><!-- kh_bobby + Dollar Beers -->
 		<combo output='45086' card='40073' /><!-- kh_bobby + Alamo Merch -->
 		<combo output='45086' card='10081' /><!-- kh_bobby + New England Beaches -->
@@ -9294,7 +9650,7 @@
 		<combo output='45113' card='50053' /> <!-- kh_bobby + Doubles Ping Pong = Rodeo Bobby -->
 		<combo output='45113' card='10059' /> <!-- kh_bobby + Toxic Shock = Rodeo Bobby -->
 		<combo output='45113' card='20047' /> <!-- kh_bobby + The Bazooka Sharks = Rodeo Bobby -->
-		<combo output='45113' card='1200006' /> <!-- fg_quagmire + The Bazooka Sharks = Skydiver Quagmire -->
+		<combo output='45113' card='1200006' /> <!-- kh_bobby + The Bazooka Sharks = Skydiver Quagmire -->
 		<combo output='45113' card='30061' /> <!-- kh_bobby + Millie's Trampoline = Rodeo Bobby -->
 		<combo output='45113' card='40048' /> <!-- kh_bobby + Tom Landry Baseball Team = Rodeo Bobby -->
 		<combo output='45110' card='50034' /> <!-- kh_bobby + Doingg = Cupid Bobby -->
@@ -9309,6 +9665,14 @@
 		<combo output='45106' card='10046' /> <!-- kh_bobby + K Pop Video = Belly Drum -->
 		<combo output='45106' card='40036' /> <!-- kh_bobby + Big Mountain Fudge Cake = Belly Drum -->
 		<combo output='45106' card='20037' /> <!-- kh_bobby + Rubberneckers = Belly Drum -->
+		<!-- Artistic -->
+		<combo output='45100' card='20078' /><!-- kh_bobby + School of Arts and Crafts -->
+		<combo output='45100' card='30095' /><!-- kh_bobby + Landship Play -->
+		<combo output='45100' card='40089' /><!-- kh_bobby + Walking Man Exhibit -->
+		<combo output='45100' card='50094' /><!-- kh_bobby + Museum of Really Modern Art -->
+		<combo output='45100' card='20066' /><!-- kh_bobby + Tattoo Parlor -->
+		<combo output='45100' card='30079' /><!-- kh_bobby + Kidyatas -->
+		<combo output='45100' card='50080' /><!-- kh_bobby + Slurm Pop Art -->
 		<combo output='45100' card='40069' /><!-- kh_bobby + The Leg Room -->
 		<combo output='45100' card='10069' /><!-- kh_bobby + Jerome's Mother -->
 		<combo output='45100' card='20056' /><!-- kh_bobby + Graffiti Mural -->
@@ -9742,6 +10106,10 @@
 		<combo output='55167' card='30073' /><!-- ft_bender + Halloween Candy -->
 		<combo output='55167' card='20061' /><!-- ft_bender + Langley Soft Drug Store -->
 		<!-- Drunk -->
+		<combo output='55160' card='10087' /><!-- ft_bender + Brewery Mascot -->
+		<combo output='55160' card='20079' /><!-- ft_bender + Signature Cocktail -->
+		<combo output='55160' card='30096' /><!-- ft_bender + Double Fisting -->
+		<combo output='55160' card='50095' /><!-- ft_bender + Concert Keg -->
 		<combo output='55160' card='40072' /><!-- ft_bender + Dollar Beers -->
 		<combo output='55160' card='40073' /><!-- ft_bender + Alamo Merch -->
 		<combo output='55160' card='10081' /><!-- ft_bender + New England Beaches -->
@@ -9851,7 +10219,7 @@
 		<combo output='55112' card='50053' /> <!-- ft_bender + Doubles Ping Pong = Sewer Surfer Bender -->
 		<combo output='55112' card='10059' /> <!-- ft_bender + Toxic Shock = Sewer Surfer Bender -->
 		<combo output='55112' card='20047' /> <!-- ft_bender + The Bazooka Sharks = Sewer Surfer Bender -->
-		<combo output='55112' card='1200006' /> <!-- fg_quagmire + The Bazooka Sharks = Skydiver Quagmire -->
+		<combo output='55112' card='1200006' /> <!-- ft_bender + The Bazooka Sharks = Skydiver Quagmire -->
 		<combo output='55112' card='30061' /> <!-- ft_bender + Millie's Trampoline = Sewer Surfer Bender -->
 		<combo output='55112' card='40048' /> <!-- ft_bender + Tom Landry Baseball Team = Sewer Surfer Bender -->
 		<!-- Educated -->
@@ -9886,10 +10254,18 @@
 		<combo output='55101' card='30044' /> <!-- ft_bender + Jelly Bean Schnapps = Jose Servo -->
 		<combo output='55101' card='30045' /> <!-- ft_bender + Welcome Mojitos = Jose Servo -->
 		<combo output='55101' card='50049' /> <!-- ft_bender + Thunder Cocktails = Jose Servo -->
+		<!-- Artistic -->
+		<combo output='55098' card='30095' /><!-- ft_bender + Landship Play -->
+		<combo output='55098' card='20078' /><!-- ft_bender + School of Arts and Crafts -->
+		<combo output='55098' card='40089' /><!-- ft_bender + Walking Man Exhibit -->
+		<combo output='55098' card='50094' /><!-- ft_bender + Museum of Really Modern Art -->
+		<combo output='55098' card='20066' /><!-- ft_bender + Tattoo Parlor -->
+		<combo output='55098' card='30079' /><!-- ft_bender + Kidyatas -->
+		<combo output='55098' card='50080' /><!-- ft_bender + Slurm Pop Art -->
 		<combo output='55100' card='30043' /> <!-- ft_bender + Napkin Art = Chest Etching -->
 		<combo output='55100' card='40033' /> <!-- ft_bender + Holographic Washington = Chest Etching -->
 		<combo output='55100' card='40034' /> <!-- ft_bender + McMaynerbury Artist Colony = Chest Etching -->
-		<combo output='55098' card='40069' /><!-- fg_joe + The Leg Room -->
+		<combo output='55098' card='40069' /><!-- ft_bender + The Leg Room -->
 		<combo output='55098' card='10069' /><!-- ft_bender + Jerome's Mother -->
 		<combo output='55098' card='20056' /><!-- ft_bender + Graffiti Mural -->
 		<combo output='55098' card='40057' /><!-- ft_bender + Ark Sketch -->
@@ -10165,6 +10541,11 @@
 		<combo output='55156' card='1500005' /><!-- ft_farnsworth + Nibbler on the Roof -->
 		<combo output='55156' card='50041' /><!-- ft_farnsworth + Pimp My Sleigh -->
 		<combo output='55156' card='50051' /><!-- ft_farnsworth + Golden Fiddle -->
+		<!-- Artistic -->
+		<combo output='55176' card='30095' /><!-- ft_farnsworth + Landship Play -->
+		<combo output='55176' card='20078' /><!-- ft_farnsworth + School of Arts and Crafts -->
+		<combo output='55176' card='40089' /><!-- ft_farnsworth + Walking Man Exhibit -->
+		<combo output='55176' card='50094' /><!-- ft_farnsworth + Museum of Really Modern Art -->
 		<combo output='55154' card='10069' /><!-- ft_farnsworth + Jerome's Mother -->
 		<combo output='55154' card='20056' /><!-- ft_farnsworth + Graffiti Mural -->
 		<combo output='55154' card='10042' /><!-- ft_farnsworth + Christobel's Painting -->
@@ -10326,7 +10707,7 @@
 		<combo output='55135' card='50053' /> <!-- ft_farnsworth + Doubles Ping Pong = Coach Farnsworth -->
 		<combo output='55135' card='10059' /> <!-- ft_farnsworth + Toxic Shock = Coach Farnsworth -->
 		<combo output='55135' card='20047' /> <!-- ft_farnsworth + The Bazooka Sharks = Coach Farnsworth -->
-		<combo output='55135' card='1200006' /> <!-- fg_quagmire + The Bazooka Sharks = Skydiver Quagmire -->
+		<combo output='55135' card='1200006' /> <!-- ft_farnsworth + The Bazooka Sharks = Skydiver Quagmire -->
 		<combo output='55135' card='30061' /> <!-- ft_farnsworth + Millie's Trampoline = Coach Farnsworth -->
 		<combo output='55135' card='40048' /> <!-- ft_farnsworth + Tom Landry Baseball Team = Coach Farnsworth -->
 		<combo output='55118' card='50029' /> <!-- ft_farnsworth + Long Stick with Sharp Rock = Ready for Santa -->
@@ -10443,6 +10824,10 @@
 		<combo output='55162' card='50066' /><!-- ft_zoidberg + $300 Haircut -->
 		<combo output='55162' card='50067' /><!-- ft_zoidberg + Crack Mansion -->
 		<!-- Drunk -->
+		<combo output='55159' card='10087' /><!-- ft_zoidberg + Brewery Mascot -->
+		<combo output='55159' card='20079' /><!-- ft_zoidberg + Signature Cocktail -->
+		<combo output='55159' card='30096' /><!-- ft_zoidberg + Double Fisting -->
+		<combo output='55159' card='50095' /><!-- ft_zoidberg + Concert Keg -->
 		<combo output='55159' card='40072' /><!-- ft_zoidberg + Dollar Beers -->
 		<combo output='55159' card='40073' /><!-- ft_zoidberg + Alamo Merch -->
 		<combo output='55159' card='10081' /><!-- ft_zoidberg + New England Beaches -->
@@ -10461,7 +10846,15 @@
 		<combo output='55159' card='1400005' /><!-- ft_zoidberg + Mythic Brau Beer -->
 		<combo output='55159' card='50031' /><!-- ft_zoidberg + Lo Brau -->
 		<combo output='55159' card='50037' /><!-- ft_zoidberg + Oktober Brau -->
-		<combo output='55155' card='40069' /><!-- fg_joe + The Leg Room -->
+		<!-- Artistic -->
+		<combo output='55155' card='30095' /><!-- ft_zoidberg + Landship Play -->
+		<combo output='55155' card='20078' /><!-- ft_zoidberg + School of Arts and Crafts -->
+		<combo output='55155' card='40089' /><!-- ft_zoidberg + Walking Man Exhibit -->
+		<combo output='55155' card='50094' /><!-- ft_zoidberg + Museum of Really Modern Art -->
+		<combo output='55155' card='20066' /><!-- ft_zoidberg + Tattoo Parlor -->
+		<combo output='55155' card='30079' /><!-- ft_zoidberg + Kidyatas -->
+		<combo output='55155' card='50080' /><!-- ft_zoidberg + Slurm Pop Art -->
+		<combo output='55155' card='40069' /><!-- ft_zoidberg + The Leg Room -->
 		<combo output='55155' card='10069' /><!-- ft_zoidberg + Jerome's Mother -->
 		<combo output='55155' card='20056' /><!-- ft_zoidberg + Graffiti Mural -->
 		<combo output='55155' card='10042' /><!-- ft_zoidberg + Christobel's Painting -->
@@ -10583,7 +10976,7 @@
 		<combo output='55134' card='50053' /> <!-- ft_zoidberg + Doubles Ping Pong = Skiing Zoidberg -->
 		<combo output='55134' card='10059' /> <!-- ft_zoidberg + Toxic Shock = Skiing Zoidberg -->
 		<combo output='55134' card='20047' /> <!-- ft_zoidberg + The Bazooka Sharks = Skiing Zoidberg -->
-		<combo output='55134' card='1200006' /> <!-- fg_quagmire + The Bazooka Sharks = Skydiver Quagmire -->
+		<combo output='55134' card='1200006' /> <!-- ft_zoidberg + The Bazooka Sharks = Skydiver Quagmire -->
 		<combo output='55134' card='30061' /> <!-- ft_zoidberg + Millie's Trampoline = Skiing Zoidberg -->
 		<combo output='55134' card='40048' /> <!-- ft_zoidberg + Tom Landry Baseball Team = Skiing Zoidberg -->
 		<!-- Educated -->
@@ -10765,6 +11158,10 @@
 		<combo output='55056' card='40014' /><!-- ft_leela + Pro-Pain! -->
 		<combo output='55056' card='50012' /><!-- ft_leela + Mom's Homestyle X-Cube 360 -->
 		<!-- Artistic -->
+		<combo output='55176' card='30095' /><!-- ft_leela + Landship Play -->
+		<combo output='55176' card='20078' /><!-- ft_leela + School of Arts and Crafts -->
+		<combo output='55176' card='40089' /><!-- ft_leela + Walking Man Exhibit -->
+		<combo output='55176' card='50094' /><!-- ft_leela + Museum of Really Modern Art -->
 		<combo output='55176' card='50080' /><!-- ft_leela + Slurm Pop Art -->
 		<combo output='55176' card='20066' /><!-- ft_leela + Tattoo Parlor -->
 		<combo output='55176' card='40069' /><!-- ft_leela + The Leg Room -->
@@ -10907,7 +11304,7 @@
 		<combo output='55133' card='50053' /> <!-- ft_leela + Doubles Ping Pong = Skiing Leela -->
 		<combo output='55133' card='10059' /> <!-- ft_leela + Toxic Shock = Skiing Leela -->
 		<combo output='55133' card='20047' /> <!-- ft_leela + The Bazooka Sharks = Skiing Leela -->
-		<combo output='55133' card='1200006' /> <!-- fg_quagmire + The Bazooka Sharks = Skydiver Quagmire -->
+		<combo output='55133' card='1200006' /> <!-- ft_leela + The Bazooka Sharks = Skydiver Quagmire -->
 		<combo output='55133' card='30061' /> <!-- ft_leela + Millie's Trampoline = Skiing Leela -->
 		<combo output='55133' card='40048' /> <!-- ft_leela + Tom Landry Baseball Team = Skiing Leela -->
 		<combo output='55132' card='10068' /><!-- ft_leela + Quahog Preschool -->
@@ -10925,6 +11322,10 @@
 		<combo output='55132' card='10045' /> <!-- ft_leela + Preschool Grad Stewie = Babysitter Leela -->
 		<combo output='55132' card='30047' /> <!-- ft_leela + Erotic Friend Fiction = Babysitter Leela -->
 		<!-- Drunk -->
+		<combo output='55126' card='10087' /><!-- ft_leela + Brewery Mascot -->
+		<combo output='55126' card='20079' /><!-- ft_leela + Signature Cocktail -->
+		<combo output='55126' card='30096' /><!-- ft_leela + Double Fisting -->
+		<combo output='55126' card='50095' /><!-- ft_leela + Concert Keg -->
 		<combo output='55126' card='40072' /><!-- ft_leela + Dollar Beers -->
 		<combo output='55126' card='40073' /><!-- ft_leela + Alamo Merch -->
 		<combo output='55126' card='10081' /><!-- ft_leela + New England Beaches -->
@@ -11320,7 +11721,7 @@
 		<combo output='55111' card='50053' /> <!-- ft_amy + Doubles Ping Pong = Golfer Amy -->
 		<combo output='55111' card='10059' /> <!-- ft_amy + Toxic Shock = Golfer Amy -->
 		<combo output='55111' card='20047' /> <!-- ft_amy + The Bazooka Sharks = Golfer Amy -->
-		<combo output='55111' card='1200006' /> <!-- fg_quagmire + The Bazooka Sharks = Skydiver Quagmire -->
+		<combo output='55111' card='1200006' /> <!-- ft_amy + The Bazooka Sharks = Skydiver Quagmire -->
 		<combo output='55111' card='30061' /> <!-- ft_amy + Millie's Trampoline = Golfer Amy -->
 		<combo output='55111' card='40048' /> <!-- ft_amy + Tom Landry Baseball Team = Golfer Amy -->
 		<combo output='55111' card='10048' /> <!-- ft_amy + Softball Player Jerome = Golfer Amy -->
@@ -11332,6 +11733,10 @@
 		<combo output='55109' card='20038' /> <!-- ft_amy + Roger's Sexy Shorts = Water Nympho -->
 		<combo output='55109' card='50042' /> <!-- ft_amy + Lightspeed Briefs = Water Nympho -->
 		<!-- Drunk -->
+		<combo output='55102' card='10087' /><!-- ft_amy + Brewery Mascot -->
+		<combo output='55102' card='20079' /><!-- ft_amy + Signature Cocktail -->
+		<combo output='55102' card='30096' /><!-- ft_amy + Double Fisting -->
+		<combo output='55102' card='50095' /><!-- ft_amy + Concert Keg -->
 		<combo output='55102' card='10081' /><!-- ft_amy + New England Beaches -->
 		<combo output='55102' card='30082' /><!-- ft_amy + Soda Celebration -->
 		<combo output='55102' card='40072' /><!-- ft_amy + Dollar Beers -->
@@ -11458,6 +11863,30 @@
 		<combo output='55060' card='60007' /> <!-- ft_amy + Costume = Delivery Marmoset -->
 		<combo output='55060' card='60011' /> <!-- ft_amy + Aircraft = Delivery Marmoset -->
 		<combo output='55060' card='50025' /> <!-- ft_amy + Protective Suits = Delivery Marmoset -->
+		<!-- Artistic -->
+		<combo output='55047' card='10042' /><!-- ft_amy + Christobel's Painting -->
+		<combo output='55047' card='10050' /><!-- ft_amy + Peter's Drawing -->
+		<combo output='55047' card='10069' /><!-- ft_amy + Jerome's Mother -->
+		<combo output='55047' card='20043' /><!-- ft_amy + Miguel -->
+		<combo output='55047' card='20056' /><!-- ft_amy + Graffiti Mural -->
+		<combo output='55047' card='20066' /><!-- ft_amy + Tattoo Parlor -->
+		<combo output='55047' card='20078' /><!-- ft_amy + School of Arts and Crafts -->
+		<combo output='55047' card='30042' /><!-- ft_amy + Reflections -->
+		<combo output='55047' card='30043' /><!-- ft_amy + Napkin Art -->
+		<combo output='55047' card='30055' /><!-- ft_amy + Ghost Boy -->
+		<combo output='55047' card='30069' /><!-- ft_amy + Mutilated Therapy Dolls -->
+		<combo output='55047' card='30079' /><!-- ft_amy + Kidyatas -->
+		<combo output='55047' card='30095' /><!-- ft_amy + Landship Play -->
+		<combo output='55047' card='40033' /><!-- ft_amy + Holographic Washington -->
+		<combo output='55047' card='40034' /><!-- ft_amy + McMaynerbury Artist Colony -->
+		<combo output='55047' card='40042' /><!-- ft_amy + Mr. Twilley -->
+		<combo output='55047' card='40057' /><!-- ft_amy + Ark Sketch -->
+		<combo output='55047' card='40069' /><!-- ft_amy + The Leg Room -->
+		<combo output='55047' card='40089' /><!-- ft_amy + Walking Man Exhibit -->
+		<combo output='55047' card='50046' /><!-- ft_amy + Zapp Brannigan Portrait -->
+		<combo output='55047' card='50094' /><!-- ft_amy + Museum of Really Modern Art -->
+		<combo output='55047' card='50080' /><!-- ft_amy + Slurm Pop Art -->
+		<combo output='55047' card='50062' /><!-- ft_amy + Shakespeare Calculon -->
 		<combo output='55047' card='20017' /> <!-- ft_amy + Panther Cuddling Steve = The Thinker Ape -->
 		<combo output='55047' card='40017' /> <!-- ft_amy + Beef Filled Colon = The Thinker Ape -->
 		<combo output='55047' card='30019' /> <!-- ft_amy + Animal Anuses = The Thinker Ape -->
@@ -11504,6 +11933,14 @@
 		<combo output='55161' card='40060' /><!-- ft_fry + Dauterive Chateau -->
 		<combo output='55161' card='50066' /><!-- ft_fry + $300 Haircut -->
 		<combo output='55161' card='50067' /><!-- ft_fry + Crack Mansion -->
+		<!-- Artistic -->
+		<combo output='55153' card='30095' /><!-- ft_fry + Landship Play -->
+		<combo output='55153' card='20078' /><!-- ft_fry + School of Arts and Crafts -->
+		<combo output='55153' card='40089' /><!-- ft_fry + Walking Man Exhibit -->
+		<combo output='55153' card='50094' /><!-- ft_fry + Museum of Really Modern Art -->
+		<combo output='55153' card='20066' /><!-- ft_fry + Tattoo Parlor -->
+		<combo output='55153' card='30079' /><!-- ft_fry + Kidyatas -->
+		<combo output='55153' card='50080' /><!-- ft_fry + Slurm Pop Art -->
 		<combo output='55153' card='40069' /><!-- fg_joe + The Leg Room -->
 		<combo output='55153' card='10069' /><!-- ft_fry + Jerome's Mother -->
 		<combo output='55153' card='20056' /><!-- ft_fry + Graffiti Mural -->
@@ -11573,6 +12010,10 @@
 		<combo output='55088' card='40036' /> <!-- ft_fry + Big Mountain Fudge Cake = Super Dance Squad -->
 		<combo output='55088' card='50041' /> <!-- ft_fry + Pimp My Sleigh = Super Dance Squad -->
 		<!-- Drunk -->
+		<combo output='55201' card='10087' /><!-- ft_fry + Brewery Mascot -->
+		<combo output='55201' card='20079' /><!-- ft_fry + Signature Cocktail -->
+		<combo output='55201' card='30096' /><!-- ft_fry + Double Fisting -->
+		<combo output='55201' card='50095' /><!-- ft_fry + Concert Keg --> 
 		<combo output='55127' card='40073' /><!-- ft_fry + Alamo Merch -->
 		<combo output='55127' card='10081' /><!-- ft_fry + New England Beaches -->
 		<combo output='55127' card='30082' /><!-- ft_fry + Soda Celebration -->
@@ -11665,7 +12106,7 @@
 		<combo output='55113' card='50053' /> <!-- ft_fry + Doubles Ping Pong = Sewer Surfer Fry -->
 		<combo output='55113' card='10059' /> <!-- ft_fry + Toxic Shock = Sewer Surfer Fry -->
 		<combo output='55113' card='20047' /> <!-- ft_fry + The Bazooka Sharks = Sewer Surfer Fry -->
-		<combo output='55113' card='1200006' /> <!-- fg_quagmire + The Bazooka Sharks = Skydiver Quagmire -->
+		<combo output='55113' card='1200006' /> <!-- ft_fry + The Bazooka Sharks = Skydiver Quagmire -->
 		<combo output='55113' card='30061' /> <!-- ft_fry + Millie's Trampoline = Sewer Surfer Fry -->
 		<combo output='55113' card='40048' /> <!-- ft_fry + Tom Landry Baseball Team = Sewer Surfer Fry -->
 		<combo output='55110' card='30050' /> <!-- ft_fry + Jimmy Jr. Horse Costume = Frydo -->
@@ -12008,6 +12449,10 @@
 		<combo output='55164' card='50045' /><!-- ft_hermes + Big Ass Gun -->
 		<combo output='55164' card='50054' /><!-- ft_hermes + Mobile Oppression Palace -->
 		<!-- Drunk -->
+		<combo output='55158' card='10087' /><!-- ft_hermes + Brewery Mascot -->
+		<combo output='55158' card='20079' /><!-- ft_hermes + Signature Cocktail -->
+		<combo output='55158' card='30096' /><!-- ft_hermes + Double Fisting -->
+		<combo output='55158' card='50095' /><!-- ft_hermes + Concert Keg -->
 		<combo output='55158' card='40072' /><!-- ft_hermes + Dollar Beers -->
 		<combo output='55158' card='40073' /><!-- ft_hermes + Alamo Merch -->
 		<combo output='55158' card='10081' /><!-- ft_hermes + New England Beaches -->
@@ -12131,6 +12576,38 @@
 	</character>
 	<character>
 		<name>ft_zapp</name>
+		<!-- Artistic -->
+		<combo output='55200' card='20078' /><!-- ft_zapp + School of Arts and Crafts -->
+		<combo output='55200' card='30095' /><!-- ft_zapp + Landship Play -->
+		<combo output='55200' card='40089' /><!-- ft_zapp + Walking Man Exhibit -->
+		<combo output='55200' card='50094' /><!-- ft_zapp + Museum of Really Modern Art -->
+		<combo output='55200' card='20066' /><!-- ft_zapp + Tattoo Parlor -->
+		<combo output='55200' card='30079' /><!-- ft_zapp + Kidyatas -->
+		<combo output='55200' card='50080' /><!-- ft_zapp + Slurm Pop Art -->
+		<combo output='55200' card='10032' /><!-- ft_zapp + Dress Rehearsal -->
+		<combo output='55200' card='10035' /><!-- ft_zapp + Buzzsaw -->
+		<combo output='55200' card='10042' /><!-- ft_zapp + Christobel's Painting -->
+		<combo output='55200' card='10050' /><!-- ft_zapp + Peter's Drawing -->
+		<combo output='55200' card='10069' /><!-- ft_zapp + Jerome's Mother -->
+		<combo output='55200' card='20017' /><!-- ft_zapp + Panther Cuddling Steve -->
+		<combo output='55200' card='20056' /><!-- ft_zapp + Graffiti Mural -->
+		<combo output='55200' card='30019' /><!-- ft_zapp + Animal Anuses -->
+		<combo output='55200' card='30042' /><!-- ft_zapp + Reflections -->
+		<combo output='55200' card='30043' /><!-- ft_zapp + Napkin Art -->
+		<combo output='55200' card='30055' /><!-- ft_zapp + Ghost Boy -->
+		<combo output='55200' card='30069' /><!-- ft_zapp + Mutilated Therapy Dolls -->
+		<combo output='55200' card='40017' /><!-- ft_zapp + Beef Filled Colon -->
+		<combo output='55200' card='40033' /><!-- ft_zapp + Holographic Washington -->
+		<combo output='55200' card='40034' /><!-- ft_zapp + McMaynerbury Artist Colony -->
+		<combo output='55200' card='40042' /><!-- ft_zapp + Mr. Twilley -->
+		<combo output='55200' card='40057' /><!-- ft_zapp + Ark Sketch -->
+		<combo output='55200' card='40069' /><!-- ft_zapp + The Leg Room -->
+		<combo output='55200' card='20043' /><!-- ft_zapp + Miguel -->
+		<combo output='55200' card='50017' /><!-- ft_zapp + Vitruvian Man -->
+		<combo output='55200' card='50036' /><!-- ft_zapp + Sad Clown -->
+		<combo output='55200' card='50046' /><!-- ft_zapp + Zapp Brannigan Portrait -->
+		<combo output='55200' card='50062' /><!-- ft_zapp + Shakespeare Calculon -->
+		<combo output='55200' card='50079' /><!-- ft_zapp + Vitruvian Man -->
 		<!-- Fighter -->
 		<combo output='55192' card='20075' /><!-- ft_zapp + Presidential Fitness Toshi -->
 		<combo output='55192' card='30091' /><!-- ft_zapp + Float Kickers -->
@@ -12315,6 +12792,10 @@
 		<combo output='55182' card='50066' /><!-- ft_zapp + $300 Haircut -->
 		<combo output='55182' card='50067' /><!-- ft_zapp + Crack Mansion -->	
 		<!-- drunk -->
+		<combo output='55182' card='10087' /><!-- ft_zapp + Brewery Mascot -->
+		<combo output='55182' card='20079' /><!-- ft_zapp + Signature Cocktail -->
+		<combo output='55182' card='30096' /><!-- ft_zapp + Double Fisting -->
+		<combo output='55182' card='50095' /><!-- ft_zapp + Concert Keg -->
 		<combo output='55182' card='40072' /><!-- ft_zapp + Dollar Beers -->
 		<combo output='55182' card='40073' /><!-- ft_zapp + Alamo Merch -->
 		<combo output='55182' card='10081' /><!-- ft_zapp + New England Beaches -->
