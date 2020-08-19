@@ -2,6 +2,27 @@
 <root>
 	<character>
 		<name>fg_chris</name>
+		<!-- Rich -->
+		<combo output='15232' card='20080' /><!-- fg_chris + Oliver North's Gold -->
+		<combo output='15232' card='30097' /><!-- fg_chris + Diamond Ring -->
+		<combo output='15232' card='40090' /><!-- fg_chris + Jar of Change -->
+		<combo output='15232' card='50096' /><!-- fg_chris + Poker Winnings -->
+		<combo output='15232' card='10015' /><!-- fg_chris + Lottery Winnings -->
+		<combo output='15232' card='10031' /><!-- fg_chris + Bag of Nickels -->
+		<combo output='15232' card='10072' /><!-- fg_chris + Pewterschmidt Mansion -->
+		<combo output='15232' card='10073' /><!-- fg_chris + Carter Pewterschmidt -->
+		<combo output='15232' card='20008' /><!-- fg_chris + Golden Turd -->
+		<combo output='15232' card='20059' /><!-- fg_chris + Rusty -->
+		<combo output='15232' card='30072' /><!-- fg_chris + Mr. Fischoeder -->
+		<combo output='15232' card='30083' /><!-- fg_chris + Fischoeder Mansion -->
+		<combo output='15232' card='40010' /><!-- fg_chris + Million Dollar Beer Can -->
+		<combo output='15232' card='40060' /><!-- fg_chris + Dauterive Chateau -->
+		<combo output='15232' card='40075' /><!-- fg_chris + Michael Savage -->
+		<combo output='15232' card='50013' /><!-- fg_chris + 20 Big Boys -->
+		<combo output='15232' card='50066' /><!-- fg_chris + $300 Haircut -->
+		<combo output='15232' card='50083' /><!-- fg_chris + Money Counting Room -->
+		<combo output='15232' card='50067' /><!-- fg_chris + Crack Mansion -->
+		<combo output='15232' card='50084' /><!-- fg_chris + Wong Casino -->
 		<!-- Disguised -->
 		<combo output='15226' card='10085' /><!-- fg_chris + Golden Goose -->
 		<combo output='15226' card='30092' /><!-- fg_chris + Totally Normal Pants -->
@@ -74,6 +95,10 @@
 		<combo output='15197' card='30073' /><!-- fg_chris + Halloween Candy -->
 		<combo output='15197' card='20061' /><!-- fg_chris + Langley Soft Drug Store -->
 		<!-- Musical -->
+		<combo output='15186' card='10088' /><!-- fg_chris + Karaoke Principle -->
+		<combo output='15186' card='30098' /><!-- fg_chris + DJ Elev8 -->
+		<combo output='15186' card='40091' /><!-- fg_chris + Mariachi Band -->
+		<combo output='15186' card='50097' /><!-- fg_chris + Alien Bagpipes -->
 		<combo output='15022' card='20072' /><!-- fg_chris + Roger Epstein Music -->
 		<combo output='15022' card='30087' /><!-- fg_chris + 3 Is More Than 4 -->
 		<combo output='15022' card='40078' /><!-- fg_chris + CD Warehouse -->
@@ -369,6 +394,10 @@
 		<combo output='15196' card='30073' /><!-- fg_stewie + Halloween Candy -->
 		<combo output='15196' card='20061' /><!-- fg_stewie + Langley Soft Drug Store -->
 		<!-- Rich -->
+		<combo output='15191' card='20080' /><!-- fg_stewie + Oliver North's Gold -->
+		<combo output='15191' card='30097' /><!-- fg_stewie + Diamond Ring -->
+		<combo output='15191' card='40090' /><!-- fg_stewie + Jar of Change -->
+		<combo output='15191' card='50096' /><!-- fg_stewie + Poker Winnings -->
 		<combo output='15191' card='50084' /><!-- fg_stewie + Wong Casino -->
 		<combo output='15191' card='30083' /><!-- fg_stewie + Fishoeder Mansion -->
 		<combo output='15191' card='40075' /><!-- fg_stewie + Michael Savage -->
@@ -506,6 +535,10 @@
 		<combo output='15160' card='10044' /> <!-- fg_stewie + Principal Shepard = Art of War -->
 		<combo output='15160' card='10045' /> <!-- fg_stewie + Preschool Grad Stewie = Art of War -->
 		<!-- Musical -->
+		<combo output='15157' card='10088' /><!-- fg_stewie + Karaoke Principle -->
+		<combo output='15157' card='30098' /><!-- fg_stewie + DJ Elev8 -->
+		<combo output='15157' card='40091' /><!-- fg_stewie + Mariachi Band -->
+		<combo output='15157' card='50097' /><!-- fg_stewie + Alien Bagpipes -->
 		<combo output='15157' card='20072' /><!-- fg_stewie + Roger Epstein Music -->
 		<combo output='15157' card='30087' /><!-- fg_stewie + 3 Is More Than 4 -->
 		<combo output='15157' card='40078' /><!-- fg_stewie + CD Warehouse -->
@@ -860,6 +893,10 @@
 		<combo output='15164' card='40049' /> <!-- fg_quagmire + Heat Packing Priest = Army Quagmire -->
 		<combo output='15164' card='1400006' /> <!-- fg_quagmire + Heat Packing Priest = Army Quagmire -->
 		<!-- Musical -->
+		<combo output='15158' card='10088' /><!-- fg_quagmire + Karaoke Principle -->
+		<combo output='15158' card='30098' /><!-- fg_quagmire + DJ Elev8 -->
+		<combo output='15158' card='40091' /><!-- fg_quagmire + Mariachi Band -->
+		<combo output='15158' card='50097' /><!-- fg_quagmire + Alien Bagpipes -->
 		<combo output='15158' card='20072' /><!-- fg_quagmire + Roger Epstein Music -->
 		<combo output='15158' card='30087' /><!-- fg_quagmire + 3 Is More Than 4 -->
 		<combo output='15158' card='40078' /><!-- fg_quagmire + CD Warehouse -->
@@ -1068,6 +1105,10 @@
 		<combo output='15148' card='40080' /><!-- fg_peter + Armed Booby Traps -->
 		<combo output='15148' card='50088' /><!-- fg_peter + Surface Air Telegram -->
 		<!-- Musical -->
+		<combo output='15218' card='10088' /><!-- fg_peter + Karaoke Principle -->
+		<combo output='15218' card='30098' /><!-- fg_peter + DJ Elev8 -->
+		<combo output='15218' card='40091' /><!-- fg_peter + Mariachi Band -->
+		<combo output='15218' card='50097' /><!-- fg_peter + Alien Bagpipes -->
 		<combo output='15218' card='20072' /><!-- fg_peter + Roger Epstein Music -->
 		<combo output='15218' card='30087' /><!-- fg_peter + 3 Is More Than 4 -->
 		<combo output='15218' card='40078' /><!-- fg_peter + CD Warehouse -->
@@ -1101,6 +1142,10 @@
 		<combo output='15210' card='40066' /><!-- fg_peter + Giant Pandas -->
 		<combo output='15210' card='50075' /><!-- fg_peter + Robot Fox -->
 		<!-- Rich -->
+		<combo output='15192' card='20080' /><!-- fg_peter + Oliver North's Gold -->
+		<combo output='15192' card='30097' /><!-- fg_peter + Diamond Ring -->
+		<combo output='15192' card='40090' /><!-- fg_peter + Jar of Change -->
+		<combo output='15192' card='50096' /><!-- fg_peter + Poker Winnings -->
 		<combo output='15192' card='50084' /><!-- fg_peter + Wong Casino -->
 		<combo output='15192' card='30083' /><!-- fg_peter + Fishoeder Mansion -->
 		<combo output='15192' card='40075' /><!-- fg_peter + Michael Savage -->
@@ -1455,6 +1500,27 @@
 	</character>
 	<character>
 		<name>fg_meg</name>
+		<!-- Rich -->
+		<combo output='15231' card='20080' /><!-- fg_meg + Oliver North's Gold -->
+		<combo output='15231' card='30097' /><!-- fg_meg + Diamond Ring -->
+		<combo output='15231' card='40090' /><!-- fg_meg + Jar of Change -->
+		<combo output='15231' card='50096' /><!-- fg_meg + Poker Winnings -->
+		<combo output='15231' card='10015' /><!-- fg_meg + Lottery Winnings -->
+		<combo output='15231' card='10031' /><!-- fg_meg + Bag of Nickels -->
+		<combo output='15231' card='10072' /><!-- fg_meg + Pewterschmidt Mansion -->
+		<combo output='15231' card='10073' /><!-- fg_meg + Carter Pewterschmidt -->
+		<combo output='15231' card='20008' /><!-- fg_meg + Golden Turd -->
+		<combo output='15231' card='20059' /><!-- fg_meg + Rusty -->
+		<combo output='15231' card='30072' /><!-- fg_meg + Mr. Fischoeder -->
+		<combo output='15231' card='30083' /><!-- fg_meg + Fischoeder Mansion -->
+		<combo output='15231' card='40010' /><!-- fg_meg + Million Dollar Beer Can -->
+		<combo output='15231' card='40060' /><!-- fg_meg + Dauterive Chateau -->
+		<combo output='15231' card='40075' /><!-- fg_meg + Michael Savage -->
+		<combo output='15231' card='50013' /><!-- fg_meg + 20 Big Boys -->
+		<combo output='15231' card='50066' /><!-- fg_meg + $300 Haircut -->
+		<combo output='15231' card='50083' /><!-- fg_meg + Money Counting Room -->
+		<combo output='15231' card='50067' /><!-- fg_meg + Crack Mansion -->
+		<combo output='15231' card='50084' /><!-- fg_meg + Wong Casino -->
 		<!-- Armed -->
 		<combo output='15194' card='30088' /><!-- fg_meg + Film Scissors -->
 		<combo output='15194' card='20073' /><!-- fg_meg + Bazooka Shark Bomber -->
@@ -1631,6 +1697,10 @@
 		<combo output='15161' card='10044' /> <!-- fg_meg + Principal Shepard = Lab Student Meg -->
 		<combo output='15161' card='10045' /> <!-- fg_meg + Preschool Grad Stewie = Lab Student Meg -->
 		<!-- Musical -->
+		<combo output='15159' card='10088' /><!-- fg_meg + Karaoke Principle -->
+		<combo output='15159' card='30098' /><!-- fg_meg + DJ Elev8 -->
+		<combo output='15159' card='40091' /><!-- fg_meg + Mariachi Band -->
+		<combo output='15159' card='50097' /><!-- fg_meg + Alien Bagpipes -->
 		<combo output='15140' card='20072' /><!-- fg_meg + Roger Epstein Music -->
 		<combo output='15140' card='30087' /><!-- fg_meg + 3 Is More Than 4 -->
 		<combo output='15140' card='40078' /><!-- fg_meg + CD Warehouse -->
@@ -1889,6 +1959,10 @@
 		<combo output='15193' card='50045' /><!-- fg_lois + Big Ass Gun -->
 		<combo output='15193' card='50054' /><!-- fg_lois + Mobile Oppression Palace -->
 		<!-- Rich -->
+		<combo output='15190' card='20080' /><!-- fg_lois + Oliver North's Gold -->
+		<combo output='15190' card='30097' /><!-- fg_lois + Diamond Ring -->
+		<combo output='15190' card='40090' /><!-- fg_lois + Jar of Change -->
+		<combo output='15190' card='50096' /><!-- fg_lois + Poker Winnings -->
 		<combo output='15190' card='50084' /><!-- fg_lois + Wong Casino -->
 		<combo output='15190' card='30083' /><!-- fg_lois + Fishoeder Mansion -->
 		<combo output='15190' card='40075' /><!-- fg_lois + Michael Savage -->
@@ -1902,6 +1976,12 @@
 		<combo output='15190' card='50066' /><!-- fg_lois + $300 Haircut -->
 		<combo output='15190' card='50067' /><!-- fg_lois + Crack Mansion -->
 		<!-- Musical -->
+		<combo output='15185' card='10088' /><!-- fg_lois + Karaoke Principle -->
+		<combo output='15185' card='30098' /><!-- fg_lois + DJ Elev8 -->
+		<combo output='15185' card='40091' /><!-- fg_lois + Mariachi Band -->
+		<combo output='15185' card='50097' /><!-- fg_lois + Alien Bagpipes -->
+		<combo output='15185' card='20006' /><!-- fg_lois + Boyz 12 -->
+		<combo output='15185' card='50008' /><!-- fg_lois + Holophonor Hits -->
 		<combo output='15185' card='20072' /><!-- fg_lois + Roger Epstein Music -->
 		<combo output='15185' card='30087' /><!-- fg_lois + 3 Is More Than 4 -->
 		<combo output='15185' card='40078' /><!-- fg_lois + CD Warehouse -->
@@ -2162,6 +2242,10 @@
 		<combo output='15090' card='40014' /><!-- fg_brian + Pro-Pain! -->
 		<combo output='15090' card='50012' /><!-- fg_brian + Mom's Homestyle X-Cube 360 -->
 		<!-- Rich -->
+		<combo output='15215' card='20080' /><!-- fg_brian + Oliver North's Gold -->
+		<combo output='15215' card='30097' /><!-- fg_brian + Diamond Ring -->
+		<combo output='15215' card='40090' /><!-- fg_brian + Jar of Change -->
+		<combo output='15215' card='50096' /><!-- fg_brian + Poker Winnings -->
 		<combo output='15215' card='10015' /><!-- fg_brian + Lottery Winnings -->
 		<combo output='15215' card='10031' /><!-- fg_brian + Bag of Nickels -->
 		<combo output='15215' card='10072' /><!-- fg_brian + Pewterschmidt Mansion -->
@@ -2248,6 +2332,10 @@
 		<combo output='15188' card='50049' /><!-- fg_brian + Thunder Cocktails -->
 		<combo output='15188' card='50050' /><!-- fg_brian + Wine Bucket -->	
 		<!-- Musical -->
+		<combo output='15187' card='10088' /><!-- fg_brian + Karaoke Principle -->
+		<combo output='15187' card='30098' /><!-- fg_brian + DJ Elev8 -->
+		<combo output='15187' card='40091' /><!-- fg_brian + Mariachi Band -->
+		<combo output='15187' card='50097' /><!-- fg_brian + Alien Bagpipes -->
 		<combo output='15187' card='20072' /><!-- fg_brian + Roger Epstein Music -->
 		<combo output='15187' card='30087' /><!-- fg_brian + 3 Is More Than 4 -->
 		<combo output='15187' card='40078' /><!-- fg_brian + CD Warehouse -->
@@ -2524,6 +2612,10 @@
 		<combo output='15221' card='50054' /><!-- fg_joe + Mobile Oppression Palace -->
 		<combo output='15221' card='50068' /><!-- fg_joe + Ship Armory -->
 		<!-- Musical -->
+		<combo output='15219' card='10088' /><!-- fg_joe + Karaoke Principle -->
+		<combo output='15219' card='30098' /><!-- fg_joe + DJ Elev8 -->
+		<combo output='15219' card='40091' /><!-- fg_joe + Mariachi Band -->
+		<combo output='15219' card='50097' /><!-- fg_joe + Alien Bagpipes -->
 		<combo output='15219' card='20072' /><!-- fg_joe + Roger Epstein Music -->
 		<combo output='15219' card='30087' /><!-- fg_joe + 3 Is More Than 4 -->
 		<combo output='15219' card='40078' /><!-- fg_joe + CD Warehouse -->
@@ -2793,6 +2885,10 @@
 		<combo output='35049' card='40076' /><!-- bb_tina + Chip -->
 		<combo output='35049' card='10084' /><!-- bb_tina + Rupert Recalls -->
 		<!-- Rich -->
+		<combo output='35185' card='20080' /><!-- bb_tina + Oliver North's Gold -->
+		<combo output='35185' card='30097' /><!-- bb_tina + Diamond Ring -->
+		<combo output='35185' card='40090' /><!-- bb_tina + Jar of Change -->
+		<combo output='35185' card='50096' /><!-- bb_tina + Poker Winnings -->
 		<combo output='35185' card='50083' /><!-- bb_tina + Money Counting Room -->
 		<combo output='35185' card='40075' /><!-- bb_tina + Michael Savage -->
 		<combo output='35185' card='50084' /><!-- bb_tina + Wong Casino -->
@@ -2847,6 +2943,10 @@
 		<combo output='35172' card='40063' /><!-- bb_tina + Boggle Contraband -->
 		<combo output='35172' card='30073' /><!-- bb_tina + Halloween Candy -->
 		<!-- Musical -->
+		<combo output='35162' card='10088' /><!-- bb_tina + Karaoke Principle -->
+		<combo output='35162' card='30098' /><!-- bb_tina + DJ Elev8 -->
+		<combo output='35162' card='40091' /><!-- bb_tina + Mariachi Band -->
+		<combo output='35162' card='50097' /><!-- bb_tina + Alien Bagpipes -->
 		<combo output='35162' card='20072' /><!-- bb_tina + Roger Epstein Music -->
 		<combo output='35162' card='30087' /><!-- bb_tina + 3 Is More Than 4 -->
 		<combo output='35162' card='40078' /><!-- bb_tina + CD Warehouse -->
@@ -3230,6 +3330,10 @@
 		<combo output='45166' card='10075' /><!-- kh_peggy + Quahog Public Golf Course -->
 		<combo output='45166' card='20013' /><!-- kh_peggy + Wrestling -->
 		<!-- Rich -->
+		<combo output='45155' card='20080' /><!-- kh_peggy + Oliver North's Gold -->
+		<combo output='45155' card='30097' /><!-- kh_peggy + Diamond Ring -->
+		<combo output='45155' card='40090' /><!-- kh_peggy + Jar of Change -->
+		<combo output='45155' card='50096' /><!-- kh_peggy + Poker Winnings -->
 		<combo output='45155' card='50084' /><!-- kh_peggy + Wong Casino -->
 		<combo output='45155' card='30083' /><!-- kh_peggy + Fishoeder Mansion -->
 		<combo output='45155' card='40075' /><!-- kh_peggy + Michael Savage -->
@@ -3307,6 +3411,10 @@
 		<combo output='45104' card='40047' /> <!-- kh_peggy + Student Lucky = Sex Ed Teacher -->
 		<combo output='45104' card='50052' /> <!-- kh_peggy + Dr. Cahill = Sex Ed Teacher -->
 		<!-- Musical -->
+		<combo output='45127' card='10088' /><!-- kh_peggy + Karaoke Principle -->
+		<combo output='45127' card='30098' /><!-- kh_peggy + DJ Elev8 -->
+		<combo output='45127' card='40091' /><!-- kh_peggy + Mariachi Band -->
+		<combo output='45127' card='50097' /><!-- kh_peggy + Alien Bagpipes -->
 		<combo output='45127' card='20072' /><!-- kh_peggy + Roger Epstein Music -->
 		<combo output='45127' card='30087' /><!-- kh_peggy + 3 Is More Than 4 -->
 		<combo output='45127' card='40078' /><!-- kh_peggy + CD Warehouse -->
@@ -3555,6 +3663,10 @@
 		<combo output='25188' card='40080' /><!-- ad_steve + Armed Booby Traps -->
 		<combo output='25188' card='50088' /><!-- ad_steve + Surface Air Telegram -->
 		<!-- Musical -->
+		<combo output='25187' card='10088' /><!-- ad_steve + Karaoke Principle -->
+		<combo output='25187' card='30098' /><!-- ad_steve + DJ Elev8 -->
+		<combo output='25187' card='40091' /><!-- ad_steve + Mariachi Band -->
+		<combo output='25187' card='50097' /><!-- ad_steve + Alien Bagpipes -->
 		<combo output='25187' card='20072' /><!-- ad_steve + Roger Epstein Music -->
 		<combo output='25187' card='30087' /><!-- ad_steve + 3 Is More Than 4 -->
 		<combo output='25187' card='40078' /><!-- ad_steve + CD Warehouse -->
@@ -3601,6 +3713,10 @@
 		<combo output='25178' card='50014' /><!-- ad_steve + Blernsball -->
 		<combo output='25178' card='50053' /><!-- ad_steve + Doubles Ping Pong -->
 		<!-- Rich -->
+		<combo output='25167' card='20080' /><!-- ad_steve + Oliver North's Gold -->
+		<combo output='25167' card='30097' /><!-- ad_steve + Diamond Ring -->
+		<combo output='25167' card='40090' /><!-- ad_steve + Jar of Change -->
+		<combo output='25167' card='50096' /><!-- ad_steve + Poker Winnings -->
 		<combo output='25167' card='50084' /><!-- ad_steve + Wong Casino -->
 		<combo output='25167' card='30083' /><!-- ad_steve + Fishoeder Mansion -->
 		<combo output='25167' card='40075' /><!-- ad_steve + Michael Savage -->
@@ -3906,6 +4022,10 @@
 		<combo output='25146' card='40080' /><!-- ad_klaus + Armed Booby Traps -->
 		<combo output='25146' card='50088' /><!-- ad_klaus + Surface Air Telegram -->
 		<!-- Rich -->
+		<combo output='25183' card='20080' /><!-- ad_klaus + Oliver North's Gold -->
+		<combo output='25183' card='30097' /><!-- ad_klaus + Diamond Ring -->
+		<combo output='25183' card='40090' /><!-- ad_klaus + Jar of Change -->
+		<combo output='25183' card='50096' /><!-- ad_klaus + Poker Winnings -->
 		<combo output='25183' card='10015' /><!-- ad_klaus + Lottery Winnings -->
 		<combo output='25183' card='10031' /><!-- ad_klaus + Bag of Nickels -->
 		<combo output='25183' card='10072' /><!-- ad_klaus + Pewterschmidt Mansion -->
@@ -3938,6 +4058,10 @@
 		<combo output='25177' card='40006' /><!-- ad_klaus + Cougar Football Team -->
 		<combo output='25177' card='50014' /><!-- ad_klaus + Blernsball -->
 		<!-- Musical -->
+		<combo output='25163' card='10088' /><!-- ad_klaus + Karaoke Principle -->
+		<combo output='25163' card='30098' /><!-- ad_klaus + DJ Elev8 -->
+		<combo output='25163' card='40091' /><!-- ad_klaus + Mariachi Band -->
+		<combo output='25163' card='50097' /><!-- ad_klaus + Alien Bagpipes -->
 		<combo output='25163' card='20072' /><!-- ad_klaus + Roger Epstein Music -->
 		<combo output='25163' card='30087' /><!-- ad_klaus + 3 Is More Than 4 -->
 		<combo output='25163' card='40078' /><!-- ad_klaus + CD Warehouse -->
@@ -4255,6 +4379,10 @@
 		<combo output='25146' card='40080' /><!-- ad_hayley + Armed Booby Traps -->
 		<combo output='25146' card='50088' /><!-- ad_hayley + Surface Air Telegram -->
 		<!-- Musical -->
+		<combo output='25186' card='10088' /><!-- ad_hayley + Karaoke Principle -->
+		<combo output='25186' card='30098' /><!-- ad_hayley + DJ Elev8 -->
+		<combo output='25186' card='40091' /><!-- ad_hayley + Mariachi Band -->
+		<combo output='25186' card='50097' /><!-- ad_hayley + Alien Bagpipes -->
 		<combo output='25186' card='20072' /><!-- ad_hayley + Roger Epstein Music -->
 		<combo output='25186' card='30087' /><!-- ad_hayley + 3 Is More Than 4 -->
 		<combo output='25186' card='40078' /><!-- ad_hayley + CD Warehouse -->
@@ -4549,6 +4677,10 @@
 		<combo output='25068' card='10014' /> <!-- ad_hayley + Fairy Godmother = Space Queen -->
 		<combo output='25068' card='60007' starting_combo='1' start_ip_req='2' /> <!-- ad_hayley + Costume = Space Queen -->
 		<!-- Rich -->
+		<combo output='25063' card='20080' /><!-- ad_hayley + Oliver North's Gold -->
+		<combo output='25063' card='30097' /><!-- ad_hayley + Diamond Ring -->
+		<combo output='25063' card='40090' /><!-- ad_hayley + Jar of Change -->
+		<combo output='25063' card='50096' /><!-- ad_hayley + Poker Winnings -->
 		<combo output='25063' card='50084' /><!-- ad_hayley + Wong Casino -->
 		<combo output='25063' card='30083' /><!-- ad_hayley + Fishoeder Mansion -->
 		<combo output='25063' card='40075' /><!-- ad_hayley + Michael Savage -->
@@ -4648,6 +4780,10 @@
 		<combo output='25170' card='50027' /><!-- ad_stan + Robot Santa -->
 		<combo output='25170' card='50029' /><!-- ad_stan + Long Stick with Sharp Rock -->
 		<!-- Rich -->
+		<combo output='25166' card='20080' /><!-- ad_stan + Oliver North's Gold -->
+		<combo output='25166' card='30097' /><!-- ad_stan + Diamond Ring -->
+		<combo output='25166' card='40090' /><!-- ad_stan + Jar of Change -->
+		<combo output='25166' card='50096' /><!-- ad_stan + Poker Winnings -->
 		<combo output='25166' card='50084' /><!-- ad_stan + Wong Casino -->
 		<combo output='25166' card='30083' /><!-- ad_stan + Fishoeder Mansion -->
 		<combo output='25166' card='40075' /><!-- ad_stan + Michael Savage -->
@@ -4741,6 +4877,10 @@
 		<combo output='25142' card='50052' /> <!-- ad_stan + Dr. Cahill = CIA Student -->
 		<combo output='25142' card='20036' /> <!-- ad_stan + Professor Baxter = CIA Student -->
 		<!-- Musical -->
+		<combo output='25139' card='10088' /><!-- ad_stan + Karaoke Principle -->
+		<combo output='25139' card='30098' /><!-- ad_stan + DJ Elev8 -->
+		<combo output='25139' card='40091' /><!-- ad_stan + Mariachi Band -->
+		<combo output='25139' card='50097' /><!-- ad_stan + Alien Bagpipes -->
 		<combo output='25139' card='20072' /><!-- ad_stan + Roger Epstein Music -->
 		<combo output='25139' card='30087' /><!-- ad_stan + 3 Is More Than 4 -->
 		<combo output='25139' card='40078' /><!-- ad_stan + CD Warehouse -->
@@ -5108,6 +5248,10 @@
 		<combo output='25096' card='20040' /> <!-- ad_bullock + Snot Rocket = Martial Arts Bullock -->
 		<combo output='25096' card='30053' /> <!-- ad_bullock + Fashion Wrestling = Martial Arts Bullock -->
 		<!-- Musical -->
+		<combo output='25101' card='10088' /><!-- ad_bullock + Karaoke Principle -->
+		<combo output='25101' card='30098' /><!-- ad_bullock + DJ Elev8 -->
+		<combo output='25101' card='40091' /><!-- ad_bullock + Mariachi Band -->
+		<combo output='25101' card='50097' /><!-- ad_bullock + Alien Bagpipes -->
 		<combo output='25101' card='20072' /><!-- ad_bullock + Roger Epstein Music -->
 		<combo output='25101' card='30087' /><!-- ad_bullock + 3 Is More Than 4 -->
 		<combo output='25101' card='40078' /><!-- ad_bullock + CD Warehouse -->
@@ -5222,6 +5366,10 @@
 		<combo output='25079' card='40037' /> <!-- ad_bullock + Ski Mask = Secret Asian Man -->
 		<combo output='25079' card='10047' /> <!-- ad_bullock + Bedtime Stories = Secret Asian Man -->
 		<!-- Rich -->
+		<combo output='25080' card='20080' /><!-- ad_bullock + Oliver North's Gold -->
+		<combo output='25080' card='30097' /><!-- ad_bullock + Diamond Ring -->
+		<combo output='25080' card='40090' /><!-- ad_bullock + Jar of Change -->
+		<combo output='25080' card='50096' /><!-- ad_bullock + Poker Winnings -->
 		<combo output='25080' card='50084' /><!-- ad_bullock + Wong Casino -->
 		<combo output='25080' card='30083' /><!-- ad_bullock + Fishoeder Mansion -->
 		<combo output='25080' card='40075' /><!-- ad_bullock + Michael Savage -->
@@ -5294,6 +5442,10 @@
 		<combo output='25173' card='30073' /><!-- ad_roger + Halloween Candy -->
 		<combo output='25173' card='20061' /><!-- ad_roger + Langley Soft Drug Store -->
 		<!-- Rich -->
+		<combo output='25168' card='20080' /><!-- ad_roger + Oliver North's Gold -->
+		<combo output='25168' card='30097' /><!-- ad_roger + Diamond Ring -->
+		<combo output='25168' card='40090' /><!-- ad_roger + Jar of Change -->
+		<combo output='25168' card='50096' /><!-- ad_roger + Poker Winnings -->
 		<combo output='25168' card='50084' /><!-- ad_roger + Wong Casino -->
 		<combo output='25168' card='30083' /><!-- ad_roger + Fishoeder Mansion -->
 		<combo output='25168' card='40075' /><!-- ad_roger + Michael Savage -->
@@ -5420,6 +5572,10 @@
 		<combo output='25121' card='30051' /> <!-- ad_roger + Synchronized Swimming = Criss Cross Applesauce -->
 		<combo output='25121' card='30052' /> <!-- ad_roger + Horse Camp = Criss Cross Applesauce -->
 		<!-- Musical -->
+		<combo output='25200' card='10088' /><!-- ad_roger + Karaoke Principle -->
+		<combo output='25200' card='30098' /><!-- ad_roger + DJ Elev8 -->
+		<combo output='25200' card='40091' /><!-- ad_roger + Mariachi Band -->
+		<combo output='25200' card='50097' /><!-- ad_roger + Alien Bagpipes -->
 		<combo output='25038' card='20072' /><!-- ad_roger + Roger Epstein Music -->
 		<combo output='25038' card='30087' /><!-- ad_roger + 3 Is More Than 4 -->
 		<combo output='25038' card='40078' /><!-- ad_roger + CD Warehouse -->
@@ -5787,6 +5943,10 @@
 		<combo output='25164' card='50049' /><!-- ad_francine + Thunder Cocktails -->
 		<combo output='25164' card='50050' /><!-- ad_francine + Wine Bucket -->
 		<!-- Musical -->
+		<combo output='25162' card='10088' /><!-- ad_francine + Karaoke Principle -->
+		<combo output='25162' card='30098' /><!-- ad_francine + DJ Elev8 -->
+		<combo output='25162' card='40091' /><!-- ad_francine + Mariachi Band -->
+		<combo output='25162' card='50097' /><!-- ad_francine + Alien Bagpipes -->
 		<combo output='25162' card='20072' /><!-- ad_francine + Roger Epstein Music -->
 		<combo output='25162' card='30087' /><!-- ad_francine + 3 Is More Than 4 -->
 		<combo output='25162' card='40078' /><!-- ad_francine + CD Warehouse -->
@@ -5940,6 +6100,10 @@
 		<combo output='25021' card='10014' /> <!-- ad_francine + Fairy Godmother = Stewardess Francine -->
 		<combo output='25021' card='60007' /> <!-- ad_francine + Costume = Stewardess Francine -->
 		<!-- Rich -->
+		<combo output='25064' card='20080' /><!-- ad_francine + Oliver North's Gold -->
+		<combo output='25064' card='30097' /><!-- ad_francine + Diamond Ring -->
+		<combo output='25064' card='40090' /><!-- ad_francine + Jar of Change -->
+		<combo output='25064' card='50096' /><!-- ad_francine + Poker Winnings -->
 		<combo output='25064' card='50084' /><!-- ad_francine + Wong Casino -->
 		<combo output='25064' card='30083' /><!-- ad_francine + Fishoeder Mansion -->
 		<combo output='25064' card='40075' /><!-- ad_francine + Michael Savage -->
@@ -6213,6 +6377,10 @@
 		<combo output='35146' card='40028' /> <!-- bb_teddy + Unexpected Weapon = Shark Killer -->
 		<combo output='35146' card='20041' /> <!-- bb_teddy + Candy Cane Gun = Shark Killer -->
 		<!-- Musical -->
+		<combo output='35139' card='10088' /><!-- bb_teddy + Karaoke Principle -->
+		<combo output='35139' card='30098' /><!-- bb_teddy + DJ Elev8 -->
+		<combo output='35139' card='40091' /><!-- bb_teddy + Mariachi Band -->
+		<combo output='35139' card='50097' /><!-- bb_teddy + Alien Bagpipes -->
 		<combo output='35139' card='20072' /><!-- bb_teddy + Roger Epstein Music -->
 		<combo output='35139' card='30087' /><!-- bb_teddy + 3 Is More Than 4 -->
 		<combo output='35139' card='40078' /><!-- bb_teddy + CD Warehouse -->
@@ -6393,6 +6561,10 @@
 		<combo output='35119' card='50025' /><!-- bb_gene + Protective Suits -->
 		<combo output='35119' card='50042' /><!-- bb_gene + Lightspeed Briefs -->
 		<!-- Rich -->
+		<combo output='35166' card='20080' /><!-- bb_gene + Oliver North's Gold -->
+		<combo output='35166' card='30097' /><!-- bb_gene + Diamond Ring -->
+		<combo output='35166' card='40090' /><!-- bb_gene + Jar of Change -->
+		<combo output='35166' card='50096' /><!-- bb_gene + Poker Winnings -->
 		<combo output='35166' card='50084' /><!-- bb_gene + Wong Casino -->
 		<combo output='35166' card='30083' /><!-- bb_gene + Fishoeder Mansion -->
 		<combo output='35166' card='40075' /><!-- bb_gene + Michael Savage -->
@@ -6474,6 +6646,10 @@
 		<combo output='35143' card='10048' /> <!-- bb_gene + Softball Player Jerome = Gaga Ball -->
 		<combo output='35143' card='30051' /> <!-- bb_gene + Synchronized Swimming = Gaga Ball -->
 		<!-- Musical -->
+		<combo output='35208' card='10088' /><!-- bb_gene + Karaoke Principle -->
+		<combo output='35208' card='30098' /><!-- bb_gene + DJ Elev8 -->
+		<combo output='35208' card='40091' /><!-- bb_gene + Mariachi Band -->
+		<combo output='35208' card='50097' /><!-- bb_gene + Alien Bagpipes -->
 		<combo output='35137' card='20072' /><!-- bb_gene + Roger Epstein Music -->
 		<combo output='35137' card='30087' /><!-- bb_gene + 3 Is More Than 4 -->
 		<combo output='35137' card='40078' /><!-- bb_gene + CD Warehouse -->
@@ -6797,6 +6973,10 @@
 		<combo output='35169' card='10074' /><!-- bb_linda + Nanny Natalia -->
 		<combo output='35169' card='50035' /><!-- bb_linda + Doomsday Device -->
 		<!-- Rich -->
+		<combo output='35167' card='20080' /><!-- bb_linda + Oliver North's Gold -->
+		<combo output='35167' card='30097' /><!-- bb_linda + Diamond Ring -->
+		<combo output='35167' card='40090' /><!-- bb_linda + Jar of Change -->
+		<combo output='35167' card='50096' /><!-- bb_linda + Poker Winnings -->
 		<combo output='35167' card='50084' /><!-- bb_linda + Wong Casino -->
 		<combo output='35167' card='30083' /><!-- bb_linda + Fishoeder Mansion -->
 		<combo output='35167' card='40075' /><!-- bb_linda + Michael Savage -->
@@ -6824,6 +7004,10 @@
 		<combo output='35164' card='50049' /><!-- bb_linda + Thunder Cocktails -->
 		<combo output='35164' card='50050' /><!-- bb_linda + Wine Bucket -->
 		<!-- Musical -->
+		<combo output='35163' card='10088' /><!-- bb_linda + Karaoke Principle -->
+		<combo output='35163' card='30098' /><!-- bb_linda + DJ Elev8 -->
+		<combo output='35163' card='40091' /><!-- bb_linda + Mariachi Band -->
+		<combo output='35163' card='50097' /><!-- bb_linda + Alien Bagpipes -->
 		<combo output='35163' card='20072' /><!-- bb_linda + Roger Epstein Music -->
 		<combo output='35163' card='30087' /><!-- bb_linda + 3 Is More Than 4 -->
 		<combo output='35163' card='40078' /><!-- bb_linda + CD Warehouse -->
@@ -7284,6 +7468,10 @@
 		<combo output='35123' card='30053' /> <!-- bb_bob + Fashion Wrestling = Christmas Punchout -->
 		<combo output='35123' card='20040' /> <!-- bb_bob + Snot Rocket = Christmas Punchout -->
 		<!-- Musical -->
+		<combo output='35207' card='10088' /><!-- bb_bob + Karaoke Principle -->
+		<combo output='35207' card='30098' /><!-- bb_bob + DJ Elev8 -->
+		<combo output='35207' card='40091' /><!-- bb_bob + Mariachi Band -->
+		<combo output='35207' card='50097' /><!-- bb_bob + Alien Bagpipes -->
 		<combo output='35117' card='20072' /><!-- bb_bob + Roger Epstein Music -->
 		<combo output='35117' card='30087' /><!-- bb_bob + 3 Is More Than 4 -->
 		<combo output='35117' card='40078' /><!-- bb_bob + CD Warehouse -->
@@ -7381,6 +7569,10 @@
 		<combo output='35032' card='10010' /> <!-- bb_bob + McBurgertown = Bobsterfest -->
 		<combo output='35032' card='60008' /> <!-- bb_bob + Restaurant = Bobsterfest -->
 		<!-- Rich -->
+		<combo output='35025' card='20080' /><!-- bb_bob + Oliver North's Gold -->
+		<combo output='35025' card='30097' /><!-- bb_bob + Diamond Ring -->
+		<combo output='35025' card='40090' /><!-- bb_bob + Jar of Change -->
+		<combo output='35025' card='50096' /><!-- bb_bob + Poker Winnings -->
 		<combo output='35025' card='50084' /><!-- bb_bob + Wong Casino -->
 		<combo output='35025' card='30083' /><!-- bb_bob + Fishoeder Mansion -->
 		<combo output='35025' card='40075' /><!-- bb_bob + Michael Savage -->
@@ -7570,6 +7762,10 @@
 		<combo output='35151' card='30037' /><!-- bb_louise + Butterscotch Cookies -->
 		<combo output='35151' card='40015' /><!-- bb_louise + Manitoba Cigarettes -->
 		<!-- Musical -->
+		<combo output='35138' card='10088' /><!-- bb_louise + Karaoke Principle -->
+		<combo output='35138' card='30098' /><!-- bb_louise + DJ Elev8 -->
+		<combo output='35138' card='40091' /><!-- bb_louise + Mariachi Band -->
+		<combo output='35138' card='50097' /><!-- bb_louise + Alien Bagpipes -->
 		<combo output='35138' card='20072' /><!-- bb_louise + Roger Epstein Music -->
 		<combo output='35138' card='30087' /><!-- bb_louise + 3 Is More Than 4 -->
 		<combo output='35138' card='40078' /><!-- bb_louise + CD Warehouse -->
@@ -7771,6 +7967,10 @@
 		<combo output='35034' card='10010' /> <!-- bb_louise + McBurgertown = The Child Molestor -->
 		<combo output='35034' card='60008' /> <!-- bb_louise + Restaurant = The Child Molestor -->
 		<!-- Rich -->
+		<combo output='35028' card='20080' /><!-- bb_louise + Oliver North's Gold -->
+		<combo output='35028' card='30097' /><!-- bb_louise + Diamond Ring -->
+		<combo output='35028' card='40090' /><!-- bb_louise + Jar of Change -->
+		<combo output='35028' card='50096' /><!-- bb_louise + Poker Winnings -->
 		<combo output='35028' card='50084' /><!-- bb_louise + Wong Casino -->
 		<combo output='35028' card='30083' /><!-- bb_louise + Fishoeder Mansion -->
 		<combo output='35028' card='40075' /><!-- bb_louise + Michael Savage -->
@@ -7937,6 +8137,27 @@
 	</character>
 	<character>
 		<name>bb_jimmyjr</name>
+		<!-- Rich -->
+		<combo output='35206' card='20080' /><!-- bb_jimmyjr + Oliver North's Gold -->
+		<combo output='35206' card='30097' /><!-- bb_jimmyjr + Diamond Ring -->
+		<combo output='35206' card='40090' /><!-- bb_jimmyjr + Jar of Change -->
+		<combo output='35206' card='50096' /><!-- bb_jimmyjr + Poker Winnings -->
+		<combo output='35206' card='10015' /><!-- bb_jimmyjr + Lottery Winnings -->
+		<combo output='35206' card='10031' /><!-- bb_jimmyjr + Bag of Nickels -->
+		<combo output='35206' card='10072' /><!-- bb_jimmyjr + Pewterschmidt Mansion -->
+		<combo output='35206' card='10073' /><!-- bb_jimmyjr + Carter Pewterschmidt -->
+		<combo output='35206' card='20008' /><!-- bb_jimmyjr + Golden Turd -->
+		<combo output='35206' card='20059' /><!-- bb_jimmyjr + Rusty -->
+		<combo output='35206' card='30072' /><!-- bb_jimmyjr + Mr. Fischoeder -->
+		<combo output='35206' card='30083' /><!-- bb_jimmyjr + Fischoeder Mansion -->
+		<combo output='35206' card='40010' /><!-- bb_jimmyjr + Million Dollar Beer Can -->
+		<combo output='35206' card='40060' /><!-- bb_jimmyjr + Dauterive Chateau -->
+		<combo output='35206' card='40075' /><!-- bb_jimmyjr + Michael Savage -->
+		<combo output='35206' card='50013' /><!-- bb_jimmyjr + 20 Big Boys -->
+		<combo output='35206' card='50066' /><!-- bb_jimmyjr + $300 Haircut -->
+		<combo output='35206' card='50083' /><!-- bb_jimmyjr + Money Counting Room -->
+		<combo output='35206' card='50067' /><!-- bb_jimmyjr + Crack Mansion -->
+		<combo output='35206' card='50084' /><!-- bb_jimmyjr + Wong Casino -->
 		<!-- Drunk -->
 		<combo output='35205' card='10087' /><!-- bb_jimmyjr + Brewery Mascot -->
 		<combo output='35205' card='20079' /><!-- bb_jimmyjr + Signature Cocktail -->
@@ -8106,6 +8327,10 @@
 		<combo output='35191' card='50069' /><!-- bb_JimmyJr + Human Horn -->
 		<combo output='35191' card='50070' /><!-- bb_JimmyJr + Jacked on Bots -->
 		<!-- Musical -->
+		<combo output='35200' card='10088' /><!-- bb_jimmyjr + Karaoke Principle -->
+		<combo output='35200' card='30098' /><!-- bb_jimmyjr + DJ Elev8 -->
+		<combo output='35200' card='40091' /><!-- bb_jimmyjr + Mariachi Band -->
+		<combo output='35200' card='50097' /><!-- bb_jimmyjr + Alien Bagpipes -->
 		<combo output='35192' card='10011' /><!-- bb_JimmyJr + Lois' Piano -->
 		<combo output='35192' card='10029' /><!-- bb_JimmyJr + Red Shirt Blue Shirt -->
 		<combo output='35192' card='10038' /><!-- bb_JimmyJr + Barbershop Vasectomy -->
@@ -8230,6 +8455,10 @@
 		<combo output='45163' card='30021' /><!-- kh_hank + Capoeira -->
 		<combo output='45163' card='40021' /><!-- kh_hank + Women's Self Defense -->
 		<!-- Rich -->
+		<combo output='45156' card='20080' /><!-- kh_hank + Oliver North's Gold -->
+		<combo output='45156' card='30097' /><!-- kh_hank + Diamond Ring -->
+		<combo output='45156' card='40090' /><!-- kh_hank + Jar of Change -->
+		<combo output='45156' card='50096' /><!-- kh_hank + Poker Winnings -->
 		<combo output='45156' card='50084' /><!-- kh_hank + Wong Casino -->
 		<combo output='45156' card='30083' /><!-- kh_hank + Fishoeder Mansion -->
 		<combo output='45156' card='40075' /><!-- kh_hank + Michael Savage -->
@@ -8348,6 +8577,10 @@
 		<combo output='45133' card='40049' /> <!-- kh_hank + Heat Packing Priest = Paintball Hank -->
 		<combo output='45133' card='1400006' /> <!-- kh_hank + Heat Packing Priest = Paintball Hank -->
 		<!-- Musical -->
+		<combo output='45182' card='10088' /><!-- kh_hank + Karaoke Principle -->
+		<combo output='45182' card='30098' /><!-- kh_hank + DJ Elev8 -->
+		<combo output='45182' card='40091' /><!-- kh_hank + Mariachi Band -->
+		<combo output='45182' card='50097' /><!-- kh_hank + Alien Bagpipes -->
 		<combo output='45126' card='20072' /><!-- kh_hank + Roger Epstein Music -->
 		<combo output='45126' card='30087' /><!-- kh_hank + 3 Is More Than 4 -->
 		<combo output='45126' card='40078' /><!-- kh_hank + CD Warehouse -->
@@ -8650,6 +8883,10 @@
 		<combo output='45152' card='50049' /><!-- kh_dale + Thunder Cocktails -->
 		<combo output='45152' card='50050' /><!-- kh_dale + Wine Bucket -->
 		<!-- Musical -->
+		<combo output='45151' card='10088' /><!-- kh_dale + Karaoke Principle -->
+		<combo output='45151' card='30098' /><!-- kh_dale + DJ Elev8 -->
+		<combo output='45151' card='40091' /><!-- kh_dale + Mariachi Band -->
+		<combo output='45151' card='50097' /><!-- kh_dale + Alien Bagpipes -->
 		<combo output='45151' card='20072' /><!-- kh_dale + Roger Epstein Music -->
 		<combo output='45151' card='30087' /><!-- kh_dale + 3 Is More Than 4 -->
 		<combo output='45151' card='40078' /><!-- kh_dale + CD Warehouse -->
@@ -9133,6 +9370,10 @@
 		<combo output='45102' card='20035' /> <!-- kh_bill + Spring Break Shots = Dressed Up Bill -->
 		<combo output='45102' card='30045' /> <!-- kh_bill + Welcome Mojitos = Dressed Up Bill -->
 		<!-- Musical -->
+		<combo output='45089' card='10088' /><!-- kh_bill + Karaoke Principle -->
+		<combo output='45089' card='30098' /><!-- kh_bill + DJ Elev8 -->
+		<combo output='45089' card='40091' /><!-- kh_bill + Mariachi Band -->
+		<combo output='45089' card='50097' /><!-- kh_bill + Alien Bagpipes -->
 		<combo output='45089' card='20072' /><!-- kh_bill + Roger Epstein Music -->
 		<combo output='45089' card='30087' /><!-- kh_bill + 3 Is More Than 4 -->
 		<combo output='45089' card='40078' /><!-- kh_bill + CD Warehouse -->
@@ -9435,6 +9676,7 @@
 		<combo output='45093' card='10012' /> <!-- kh_boomhauer + Pawtucket Patriot Ale = River Burned -->
 		<combo output='45093' card='40012' /> <!-- kh_boomhauer + Alamo Beer = River Burned -->
 		<combo output='45093' card='50011' /> <!-- kh_boomhauer + Olde Fortran Malt Liquor = River Burned -->
+		<!-- Musical -->
 		<combo output='45063' card='20006' /> <!-- kh_boomhauer + Boyz 12 = Banjo Boomhauer -->
 		<combo output='45063' card='40007' /> <!-- kh_boomhauer + Bluegrass = Banjo Boomhauer -->
 		<combo output='45063' card='30010' /> <!-- kh_boomhauer + Fart School for the Gifted = Banjo Boomhauer -->
@@ -9530,6 +9772,10 @@
 		<combo output='45157' card='10074' /><!-- kh_bobby + Nanny Natalia -->
 		<combo output='45157' card='30038' /><!-- kh_bobby + Gingerbread Guns -->
 		<!-- Musical -->
+		<combo output='45183' card='10088' /><!-- kh_bobby + Karaoke Principle -->
+		<combo output='45183' card='30098' /><!-- kh_bobby + DJ Elev8 -->
+		<combo output='45183' card='40091' /><!-- kh_bobby + Mariachi Band -->
+		<combo output='45183' card='50097' /><!-- kh_bobby + Alien Bagpipes -->
 		<combo output='45149' card='20072' /><!-- kh_bobby + Roger Epstein Music -->
 		<combo output='45149' card='30087' /><!-- kh_bobby + 3 Is More Than 4 -->
 		<combo output='45149' card='40078' /><!-- kh_bobby + CD Warehouse -->
@@ -9830,6 +10076,10 @@
 		<combo output='45048' card='30030' /> <!-- kh_bobby + Flare Gun = Sharpshooter Bobby -->
 		<combo output='45048' card='50027' /> <!-- kh_bobby + Robot Santa = Sharpshooter Bobby -->
 		<!-- Rich -->
+		<combo output='45173' card='20080' /><!-- kh_bobby + Oliver North's Gold -->
+		<combo output='45173' card='30097' /><!-- kh_bobby + Diamond Ring -->
+		<combo output='45173' card='40090' /><!-- kh_bobby + Jar of Change -->
+		<combo output='45173' card='50096' /><!-- kh_bobby + Poker Winnings -->
 		<combo output='45173' card='50083' /><!-- kh_bobby + Money Counting Room -->
 		<combo output='45173' card='40075' /><!-- kh_bobby + Michael Savage -->
 		<combo output='45173' card='50084' /><!-- kh_bobby + Wong Casino -->
@@ -9858,6 +10108,27 @@
 	</character>
 	<character>
 		<name>kh_luanne</name>
+		<!-- Rich -->
+		<combo output='45181' card='20080' /><!-- kh_luanne + Oliver North's Gold -->
+		<combo output='45181' card='30097' /><!-- kh_luanne + Diamond Ring -->
+		<combo output='45181' card='40090' /><!-- kh_luanne + Jar of Change -->
+		<combo output='45181' card='50096' /><!-- kh_luanne + Poker Winnings -->
+		<combo output='45181' card='10015' /><!-- kh_luanne + Lottery Winnings -->
+		<combo output='45181' card='10031' /><!-- kh_luanne + Bag of Nickels -->
+		<combo output='45181' card='10072' /><!-- kh_luanne + Pewterschmidt Mansion -->
+		<combo output='45181' card='10073' /><!-- kh_luanne + Carter Pewterschmidt -->
+		<combo output='45181' card='20008' /><!-- kh_luanne + Golden Turd -->
+		<combo output='45181' card='20059' /><!-- kh_luanne + Rusty -->
+		<combo output='45181' card='30072' /><!-- kh_luanne + Mr. Fischoeder -->
+		<combo output='45181' card='30083' /><!-- kh_luanne + Fischoeder Mansion -->
+		<combo output='45181' card='40010' /><!-- kh_luanne + Million Dollar Beer Can -->
+		<combo output='45181' card='40060' /><!-- kh_luanne + Dauterive Chateau -->
+		<combo output='45181' card='40075' /><!-- kh_luanne + Michael Savage -->
+		<combo output='45181' card='50013' /><!-- kh_luanne + 20 Big Boys -->
+		<combo output='45181' card='50066' /><!-- kh_luanne + $300 Haircut -->
+		<combo output='45181' card='50083' /><!-- kh_luanne + Money Counting Room -->
+		<combo output='45181' card='50067' /><!-- kh_luanne + Crack Mansion -->
+		<combo output='45181' card='50084' /><!-- kh_luanne + Wong Casino -->
 		<!-- Toy -->
 		<combo output='45058' card='50085' /><!-- kh_luanne + Fantasy Figurines -->
 		<combo output='45058' card='30085' /><!-- kh_luanne + Bouncy Fun Castle -->
@@ -9908,6 +10179,10 @@
 		<combo output='45159' card='30073' /><!-- kh_luanne + Halloween Candy -->
 		<combo output='45159' card='20061' /><!-- kh_luanne + Langley Soft Drug Store -->
 		<!-- Musical -->
+		<combo output='45150' card='10088' /><!-- kh_luanne + Karaoke Principle -->
+		<combo output='45150' card='30098' /><!-- kh_luanne + DJ Elev8 -->
+		<combo output='45150' card='40091' /><!-- kh_luanne + Mariachi Band -->
+		<combo output='45150' card='50097' /><!-- kh_luanne + Alien Bagpipes -->
 		<combo output='45150' card='20072' /><!-- kh_luanne + Roger Epstein Music -->
 		<combo output='45150' card='30087' /><!-- kh_luanne + 3 Is More Than 4 -->
 		<combo output='45150' card='40078' /><!-- kh_luanne + CD Warehouse -->
@@ -10289,6 +10564,10 @@
 		<combo output='55096' card='50045' /> <!-- ft_bender + Big Ass Gun = Bender's Weapons -->
 		<combo output='55096' card='10049' /> <!-- ft_bender + Katana Trisha Takanawa = Bender's Weapons -->
 		<!-- Musical -->
+		<combo output='55090' card='10088' /><!-- ft_bender + Karaoke Principle -->
+		<combo output='55090' card='30098' /><!-- ft_bender + DJ Elev8 -->
+		<combo output='55090' card='40091' /><!-- ft_bender + Mariachi Band -->
+		<combo output='55090' card='50097' /><!-- ft_bender + Alien Bagpipes -->
 		<combo output='55090' card='20072' /><!-- ft_bender + Roger Epstein Music -->
 		<combo output='55090' card='30087' /><!-- ft_bender + 3 Is More Than 4 -->
 		<combo output='55090' card='40078' /><!-- ft_bender + CD Warehouse -->
@@ -10355,6 +10634,10 @@
 		<combo output='55073' card='40039' /> <!-- ft_bender + Arlen YMCA = The Gender Bender -->
 		<combo output='55073' card='20039' /> <!-- ft_bender + Brian The Home Invader Lewis = The Gender Bender -->
 		<!-- Rich -->
+		<combo output='55202' card='20080' /><!-- ft_bender + Oliver North's Gold -->
+		<combo output='55202' card='30097' /><!-- ft_bender + Diamond Ring -->
+		<combo output='55202' card='40090' /><!-- ft_bender + Jar of Change -->
+		<combo output='55202' card='50096' /><!-- ft_bender + Poker Winnings -->
 		<combo output='55028' card='50084' /><!-- ft_bender + Wong Casino -->
 		<combo output='55028' card='30083' /><!-- ft_bender + Fishoeder Mansion -->
 		<combo output='55028' card='40075' /><!-- ft_bender + Michael Savage -->
@@ -10458,6 +10741,27 @@
 	</character>
 	<character>
 		<name>ft_farnsworth</name>
+		<!-- Rich -->
+		<combo output='55203' card='20080' /><!-- ft_farnsworth + Oliver North's Gold -->
+		<combo output='55203' card='30097' /><!-- ft_farnsworth + Diamond Ring -->
+		<combo output='55203' card='40090' /><!-- ft_farnsworth + Jar of Change -->
+		<combo output='55203' card='50096' /><!-- ft_farnsworth + Poker Winnings -->
+		<combo output='55203' card='10015' /><!-- ft_farnsworth + Lottery Winnings -->
+		<combo output='55203' card='10031' /><!-- ft_farnsworth + Bag of Nickels -->
+		<combo output='55203' card='10072' /><!-- ft_farnsworth + Pewterschmidt Mansion -->
+		<combo output='55203' card='10073' /><!-- ft_farnsworth + Carter Pewterschmidt -->
+		<combo output='55203' card='20008' /><!-- ft_farnsworth + Golden Turd -->
+		<combo output='55203' card='20059' /><!-- ft_farnsworth + Rusty -->
+		<combo output='55203' card='30072' /><!-- ft_farnsworth + Mr. Fischoeder -->
+		<combo output='55203' card='30083' /><!-- ft_farnsworth + Fischoeder Mansion -->
+		<combo output='55203' card='40010' /><!-- ft_farnsworth + Million Dollar Beer Can -->
+		<combo output='55203' card='40060' /><!-- ft_farnsworth + Dauterive Chateau -->
+		<combo output='55203' card='40075' /><!-- ft_farnsworth + Michael Savage -->
+		<combo output='55203' card='50013' /><!-- ft_farnsworth + 20 Big Boys -->
+		<combo output='55203' card='50066' /><!-- ft_farnsworth + $300 Haircut -->
+		<combo output='55203' card='50083' /><!-- ft_farnsworth + Money Counting Room -->
+		<combo output='55203' card='50067' /><!-- ft_farnsworth + Crack Mansion -->
+		<combo output='55203' card='50084' /><!-- ft_farnsworth + Wong Casino -->
 		<!-- Toy -->
 		<combo output='55186' card='50085' /><!-- ft_farnsworth + Fantasy Figurines -->
 		<combo output='55186' card='30085' /><!-- ft_farnsworth + Bouncy Fun Castle -->
@@ -10811,6 +11115,10 @@
 		<combo output='55166' card='30073' /><!-- ft_zoidberge + Halloween Candy -->
 		<combo output='55166' card='20061' /><!-- ft_zoidberg + Langley Soft Drug Store -->
 		<!-- Rich -->
+		<combo output='55162' card='20080' /><!-- ft_zoidberg + Oliver North's Gold -->
+		<combo output='55162' card='30097' /><!-- ft_zoidberg + Diamond Ring -->
+		<combo output='55162' card='40090' /><!-- ft_zoidberg + Jar of Change -->
+		<combo output='55162' card='50096' /><!-- ft_zoidberg + Poker Winnings -->
 		<combo output='55162' card='50084' /><!-- ft_zoidberg + Wong Casino -->
 		<combo output='55162' card='30083' /><!-- ft_zoidberg + Fishoeder Mansion -->
 		<combo output='55162' card='40075' /><!-- ft_zoidberg + Michael Savage -->
@@ -10846,6 +11154,15 @@
 		<combo output='55159' card='1400005' /><!-- ft_zoidberg + Mythic Brau Beer -->
 		<combo output='55159' card='50031' /><!-- ft_zoidberg + Lo Brau -->
 		<combo output='55159' card='50037' /><!-- ft_zoidberg + Oktober Brau -->
+		<combo output='55125' card='50030' /> <!-- ft_zoidberg + Klein's Beer = Bloody Mary Zoidberg -->
+		<combo output='55125' card='50050' /> <!-- ft_zoidberg + Wine Bucket = Bloody Mary Zoidberg -->
+		<combo output='55125' card='10054' /> <!-- ft_zoidberg + Vodka Beer = Bloody Mary Zoidberg -->
+		<combo output='55125' card='20045' /> <!-- ft_zoidberg + Wine Trio = Bloody Mary Zoidberg -->
+		<combo output='55125' card='30029' /> <!-- ft_zoidberg + Best Swamp Parties = Bloody Mary Zoidberg -->
+		<combo output='55125' card='50049' /> <!-- ft_zoidberg + Thunder Cocktails = Bloody Mary Zoidberg -->
+		<combo output='55125' card='30045' /> <!-- ft_zoidberg + Welcome Mojitos = Bloody Mary Zoidberg -->
+		<combo output='55125' card='30044' /> <!-- ft_zoidberg + Jelly Bean Schnapps = Bloody Mary Zoidberg -->
+		<combo output='55125' card='20035' /> <!-- ft_zoidberg + Spring Break Shots = Bloody Mary Zoidberg -->
 		<!-- Artistic -->
 		<combo output='55155' card='30095' /><!-- ft_zoidberg + Landship Play -->
 		<combo output='55155' card='20078' /><!-- ft_zoidberg + School of Arts and Crafts -->
@@ -11006,6 +11323,10 @@
 		<combo output='55130' card='50039' /> <!-- ft_zoidberg + Wozniak Nerd Academy = Mission Doctor -->
 		<combo output='55130' card='50040' /> <!-- ft_zoidberg + Bending School = Mission Doctor -->
 		<!-- Musical -->
+		<combo output='55128' card='10088' /><!-- ft_zoidberg + Karaoke Principle -->
+		<combo output='55128' card='30098' /><!-- ft_zoidberg + DJ Elev8 -->
+		<combo output='55128' card='40091' /><!-- ft_zoidberg + Mariachi Band -->
+		<combo output='55128' card='50097' /><!-- ft_zoidberg + Alien Bagpipes -->
 		<combo output='55128' card='20072' /><!-- ft_zoidberg + Roger Epstein Music -->
 		<combo output='55128' card='30087' /><!-- ft_zoidberg + 3 Is More Than 4 -->
 		<combo output='55128' card='40078' /><!-- ft_zoidberg + CD Warehouse -->
@@ -11016,15 +11337,6 @@
 		<combo output='55128' card='10055' /> <!-- ft_zoidberg + K Pop Cleveland = Dancing Cans -->
 		<combo output='55128' card='30059' /> <!-- ft_zoidberg + Fart School Jimmy Jr. = Dancing Cans -->
 		<combo output='55128' card='40046' /> <!-- ft_zoidberg + Earl's Guitars = Dancing Cans -->
-		<combo output='55125' card='50030' /> <!-- ft_zoidberg + Klein's Beer = Bloody Mary Zoidberg -->
-		<combo output='55125' card='50050' /> <!-- ft_zoidberg + Wine Bucket = Bloody Mary Zoidberg -->
-		<combo output='55125' card='10054' /> <!-- ft_zoidberg + Vodka Beer = Bloody Mary Zoidberg -->
-		<combo output='55125' card='20045' /> <!-- ft_zoidberg + Wine Trio = Bloody Mary Zoidberg -->
-		<combo output='55125' card='30029' /> <!-- ft_zoidberg + Best Swamp Parties = Bloody Mary Zoidberg -->
-		<combo output='55125' card='50049' /> <!-- ft_zoidberg + Thunder Cocktails = Bloody Mary Zoidberg -->
-		<combo output='55125' card='30045' /> <!-- ft_zoidberg + Welcome Mojitos = Bloody Mary Zoidberg -->
-		<combo output='55125' card='30044' /> <!-- ft_zoidberg + Jelly Bean Schnapps = Bloody Mary Zoidberg -->
-		<combo output='55125' card='20035' /> <!-- ft_zoidberg + Spring Break Shots = Bloody Mary Zoidberg -->
 		<!-- Animal -->
 		<combo output='55122' card='10086' /><!-- ft_zoidberg + President Polar Bear -->
 		<combo output='55122' card='20076' /><!-- ft_zoidberg + Reverend Ping Ping -->
@@ -11222,6 +11534,10 @@
 		<combo output='55165' card='40028' /><!-- ft_leela + Unexpected Weapon -->
 		<combo output='55165' card='50029' /><!-- ft_leela + Long Stick with Sharp Rock -->
 		<!-- Rich -->
+		<combo output='55163' card='20080' /><!-- ft_leela + Oliver North's Gold -->
+		<combo output='55163' card='30097' /><!-- ft_leela + Diamond Ring -->
+		<combo output='55163' card='40090' /><!-- ft_leela + Jar of Change -->
+		<combo output='55163' card='50096' /><!-- ft_leela + Poker Winnings -->
 		<combo output='55163' card='50084' /><!-- ft_leela + Wong Casino -->
 		<combo output='55163' card='30083' /><!-- ft_leela + Fishoeder Mansion -->
 		<combo output='55163' card='40075' /><!-- ft_leela + Michael Savage -->
@@ -11576,6 +11892,10 @@
 		<combo output='55178' card='40024' /><!-- ft_amy + Disco Murder Mystery -->
 		<combo output='55178' card='50024' /><!-- ft_amy + Pimparoo -->
 		<!-- Musical -->
+		<combo output='55157' card='10088' /><!-- ft_amy + Karaoke Principle -->
+		<combo output='55157' card='30098' /><!-- ft_amy + DJ Elev8 -->
+		<combo output='55157' card='40091' /><!-- ft_amy + Mariachi Band -->
+		<combo output='55157' card='50097' /><!-- ft_amy + Alien Bagpipes -->
 		<combo output='55157' card='20072' /><!-- ft_amy + Roger Epstein Music -->
 		<combo output='55157' card='30087' /><!-- ft_amy + 3 Is More Than 4 -->
 		<combo output='55157' card='40078' /><!-- ft_amy + CD Warehouse -->
@@ -11776,6 +12096,10 @@
 		<combo output='55041' card='60012' /> <!-- ft_amy + Land Vehicle = Party Board -->
 		<combo output='55041' card='30036' /> <!-- ft_amy + Golf Ball Escape = Party Board -->
 		<!-- Rich -->
+		<combo output='55067' card='20080' /><!-- ft_amy + Oliver North's Gold -->
+		<combo output='55067' card='30097' /><!-- ft_amy + Diamond Ring -->
+		<combo output='55067' card='40090' /><!-- ft_amy + Jar of Change -->
+		<combo output='55067' card='50096' /><!-- ft_amy + Poker Winnings -->
 		<combo output='55067' card='50084' /><!-- ft_amy + Wong Casino -->
 		<combo output='55067' card='30083' /><!-- ft_amy + Fishoeder Mansion -->
 		<combo output='55067' card='40075' /><!-- ft_amy + Michael Savage -->
@@ -11921,6 +12245,10 @@
 		<combo output='55110' card='10047' /><!-- ft_fry + Bedtime Stories -->
 		<combo output='55110' card='20033' /><!-- ft_fry + Stan's Haunted House -->
 		<!-- Rich -->
+		<combo output='55161' card='20080' /><!-- ft_fry + Oliver North's Gold -->
+		<combo output='55161' card='30097' /><!-- ft_fry + Diamond Ring -->
+		<combo output='55161' card='40090' /><!-- ft_fry + Jar of Change -->
+		<combo output='55161' card='50096' /><!-- ft_fry + Poker Winnings -->
 		<combo output='55161' card='50084' /><!-- ft_fry + Wong Casino -->
 		<combo output='55161' card='30083' /><!-- ft_fry + Fishoeder Mansion -->
 		<combo output='55161' card='40075' /><!-- ft_fry + Michael Savage -->
@@ -11985,6 +12313,10 @@
 		<combo output='55140' card='50022' /><!-- ft_fry + Arcturan Kung Fu -->
 		<combo output='55140' card='50055' /><!-- ft_fry + Himalayan Observatory Monks -->
 		<!-- Musical -->
+		<combo output='55205' card='10088' /><!-- ft_fry + Karaoke Principle -->
+		<combo output='55205' card='30098' /><!-- ft_fry + DJ Elev8 -->
+		<combo output='55205' card='40091' /><!-- ft_fry + Mariachi Band -->
+		<combo output='55205' card='50097' /><!-- ft_fry + Alien Bagpipes -->
 		<combo output='55129' card='20072' /><!-- ft_fry + Roger Epstein Music -->
 		<combo output='55129' card='30087' /><!-- ft_fry + 3 Is More Than 4 -->
 		<combo output='55129' card='40078' /><!-- ft_fry + CD Warehouse -->
@@ -12305,6 +12637,10 @@
 		<combo output='55191' card='50069' /><!-- ft_hermes + Human Horn -->
 		<combo output='55191' card='40051' /><!-- ft_hermes + Stems and Seeds -->
 		<!-- Musical -->
+		<combo output='55189' card='10088' /><!-- ft_hermes + Karaoke Principle -->
+		<combo output='55189' card='30098' /><!-- ft_hermes + DJ Elev8 -->
+		<combo output='55189' card='40091' /><!-- ft_hermes + Mariachi Band -->
+		<combo output='55189' card='50097' /><!-- ft_hermes + Alien Bagpipes -->
 		<combo output='55189' card='20072' /><!-- ft_hermes + Roger Epstein Music -->
 		<combo output='55189' card='30087' /><!-- ft_hermes + 3 Is More Than 4 -->
 		<combo output='55189' card='40078' /><!-- ft_hermes + CD Warehouse -->
@@ -12513,6 +12849,10 @@
 		<combo output='55148' card='40053' /><!-- ft_hermes + Hottyz Salon -->
 		<combo output='55148' card='50009' /><!-- ft_hermes + Marmoset Pajamas -->
 		<!-- Rich -->
+		<combo output='55204' card='20080' /><!-- ft_hermes + Oliver North's Gold -->
+		<combo output='55204' card='30097' /><!-- ft_hermes + Diamond Ring -->
+		<combo output='55204' card='40090' /><!-- ft_hermes + Jar of Change -->
+		<combo output='55204' card='50096' /><!-- ft_hermes + Poker Winnings -->
 		<combo output='55068' card='50084' /><!-- ft_hermes + Wong Casino -->
 		<combo output='55068' card='30083' /><!-- ft_hermes + Fishoeder Mansion -->
 		<combo output='55068' card='40075' /><!-- ft_hermes + Michael Savage -->
@@ -12635,6 +12975,10 @@
 		<combo output='55192' card='50044' /><!-- ft_zapp + Diamond Crusher -->
 		<combo output='55192' card='50022' /><!-- ft_zapp + Arcturan Kung Fu -->
 		<!-- Musical -->
+		<combo output='55188' card='10088' /><!-- ft_zapp + Karaoke Principle -->
+		<combo output='55188' card='30098' /><!-- ft_zapp + DJ Elev8 -->
+		<combo output='55188' card='40091' /><!-- ft_zapp + Mariachi Band -->
+		<combo output='55188' card='50097' /><!-- ft_zapp + Alien Bagpipes -->
 		<combo output='55188' card='20072' /><!-- ft_zapp + Roger Epstein Music -->
 		<combo output='55188' card='30087' /><!-- ft_zapp + 3 Is More Than 4 -->
 		<combo output='55188' card='40078' /><!-- ft_zapp + CD Warehouse -->
@@ -12775,6 +13119,10 @@
 		<combo output='55181' card='50042' /><!-- ft_zapp + Lightspeed Briefs -->
 		<combo output='55181' card='50059' /><!-- ft_zapp + The Borax Kid -->		
 		<!-- rich -->
+		<combo output='55182' card='20080' /><!-- ft_zapp + Oliver North's Gold -->
+		<combo output='55182' card='30097' /><!-- ft_zapp + Diamond Ring -->
+		<combo output='55182' card='40090' /><!-- ft_zapp + Jar of Change -->
+		<combo output='55182' card='50096' /><!-- ft_zapp + Poker Winnings -->
 		<combo output='55182' card='50084' /><!-- ft_zapp + Wong Casino -->
 		<combo output='55182' card='30083' /><!-- ft_zapp + Fishoeder Mansion -->
 		<combo output='55182' card='40075' /><!-- ft_zapp + Michael Savage -->
