@@ -37,6 +37,10 @@
 		<combo output='15166' card='40080' /><!-- fg_chris + Armed Booby Traps -->
 		<combo output='15166' card='50088' /><!-- fg_chris + Surface Air Telegram -->
 		<!-- Toy -->
+		<combo output='15062' card='10089' /><!-- fg_chris + Recall Replacement -->
+		<combo output='15062' card='20081' /><!-- fg_chris + Mini Car Racing -->
+		<combo output='15062' card='30099' /><!-- fg_chris + Wood Chuck -->
+		<combo output='15062' card='50098' /><!-- fg_chris + Lovey Bears -->
 		<combo output='15062' card='50085' /><!-- fg_chris + Fantasy Figurines -->
 		<combo output='15062' card='30085' /><!-- fg_chris + Bouncy Fun Castle -->
 		<combo output='15062' card='40076' /><!-- fg_chris + Chip -->
@@ -359,6 +363,10 @@
 		<combo output='15165' card='40080' /><!-- fg_stewie + Armed Booby Traps -->
 		<combo output='15165' card='50088' /><!-- fg_stewie + Surface Air Telegram -->
 		<!-- Toy -->
+		<combo output='15234' card='10089' /><!-- fg_stewie + Recall Replacement -->
+		<combo output='15234' card='20081' /><!-- fg_stewie + Mini Car Racing -->
+		<combo output='15234' card='30099' /><!-- fg_stewie + Wood Chuck -->
+		<combo output='15234' card='50098' /><!-- fg_stewie + Lovey Bears -->
 		<combo output='15063' card='50085' /><!-- fg_stewie + Fantasy Figurines -->
 		<combo output='15063' card='30085' /><!-- fg_stewie + Bouncy Fun Castle -->
 		<combo output='15063' card='40076' /><!-- fg_stewie + Chip -->
@@ -757,6 +765,10 @@
 		<combo output='15164' card='40080' /><!-- fg_quagmire + Armed Booby Traps -->
 		<combo output='15164' card='50088' /><!-- fg_quagmire + Surface Air Telegram -->
 		<!-- Toy -->
+		<combo output='15216' card='10089' /><!-- fg_quagmire + Recall Replacement -->
+		<combo output='15216' card='20081' /><!-- fg_quagmire + Mini Car Racing -->
+		<combo output='15216' card='30099' /><!-- fg_quagmire + Wood Chuck -->
+		<combo output='15216' card='50098' /><!-- fg_quagmire + Lovey Bears -->
 		<combo output='15216' card='50085' /><!-- fg_quagmire + Fantasy Figurines -->
 		<combo output='15216' card='30085' /><!-- fg_quagmire + Bouncy Fun Castle -->
 		<combo output='15216' card='40076' /><!-- fg_quagmire + Chip -->
@@ -1121,6 +1133,10 @@
 		<combo output='15218' card='50032' /><!-- fg_peter + Nibbler on the Roof -->
 		<combo output='15218' card='50041' /><!-- fg_peter + Pimp My Sleigh -->
 		<!-- Toy -->
+		<combo output='15093' card='10089' /><!-- fg_peter + Recall Replacement -->
+		<combo output='15093' card='20081' /><!-- fg_peter + Mini Car Racing -->
+		<combo output='15093' card='30099' /><!-- fg_peter + Wood Chuck -->
+		<combo output='15093' card='50098' /><!-- fg_peter + Lovey Bears -->
 		<combo output='15093' card='50085' /><!-- fg_peter + Fantasy Figurines -->
 		<combo output='15093' card='30085' /><!-- fg_peter + Bouncy Fun Castle -->
 		<combo output='15093' card='40076' /><!-- fg_peter + Chip -->
@@ -1527,6 +1543,10 @@
 		<combo output='15194' card='40080' /><!-- fg_meg + Armed Booby Traps -->
 		<combo output='15194' card='50088' /><!-- fg_meg + Surface Air Telegram -->
 		<!-- Toy -->
+		<combo output='15217' card='10089' /><!-- fg_meg + Recall Replacement -->
+		<combo output='15217' card='20081' /><!-- fg_meg + Mini Car Racing -->
+		<combo output='15217' card='30099' /><!-- fg_meg + Wood Chuck -->
+		<combo output='15217' card='50098' /><!-- fg_meg + Lovey Bears -->
 		<combo output='15217' card='50085' /><!-- fg_meg + Fantasy Figurines -->
 		<combo output='15217' card='30085' /><!-- fg_meg + Bouncy Fun Castle -->
 		<combo output='15217' card='40076' /><!-- fg_meg + Chip -->
@@ -2880,6 +2900,10 @@
 		<combo output='35145' card='40080' /><!-- bb_tina + Armed Booby Traps -->
 		<combo output='35145' card='50088' /><!-- bb_tina + Surface Air Telegram -->
 		<!-- Toy -->
+		<combo output='35049' card='10089' /><!-- bb_tina + Recall Replacement -->
+		<combo output='35049' card='20081' /><!-- bb_tina + Mini Car Racing -->
+		<combo output='35049' card='30099' /><!-- bb_tina + Wood Chuck -->
+		<combo output='35049' card='50098' /><!-- bb_tina + Lovey Bears -->
 		<combo output='35049' card='50085' /><!-- bb_tina + Fantasy Figurines -->
 		<combo output='35049' card='30085' /><!-- bb_tina + Bouncy Fun Castle -->
 		<combo output='35049' card='40076' /><!-- bb_tina + Chip -->
@@ -3269,6 +3293,10 @@
 	<character>
 		<name>kh_peggy</name>
 		<!-- Toy -->
+		<combo output='45003' card='10089' /><!-- kh_peggy + Recall Replacement -->
+		<combo output='45003' card='20081' /><!-- kh_peggy + Mini Car Racing -->
+		<combo output='45003' card='30099' /><!-- kh_peggy + Wood Chuck -->
+		<combo output='45003' card='50098' /><!-- kh_peggy + Lovey Bears -->
 		<combo output='45003' card='50085' /><!-- kh_peggy + Fantasy Figurines -->
 		<combo output='45003' card='30085' /><!-- kh_peggy + Bouncy Fun Castle -->
 		<combo output='45003' card='40076' /><!-- kh_peggy + Chip -->
@@ -3672,6 +3700,10 @@
 		<combo output='25187' card='40078' /><!-- ad_steve + CD Warehouse -->
 		<combo output='25187' card='50087' /><!-- ad_steve + Robot Devil Band -->
 		<!-- Toy -->
+		<combo output='25185' card='10089' /><!-- ad_steve + Recall Replacement -->
+		<combo output='25185' card='20081' /><!-- ad_steve + Mini Car Racing -->
+		<combo output='25185' card='30099' /><!-- ad_steve + Wood Chuck -->
+		<combo output='25185' card='50098' /><!-- ad_steve + Lovey Bears -->
 		<combo output='25185' card='50085' /><!-- ad_steve + Fantasy Figurines -->
 		<combo output='25185' card='30085' /><!-- ad_steve + Bouncy Fun Castle -->
 		<combo output='25185' card='40076' /><!-- ad_steve + Chip -->
@@ -4016,6 +4048,28 @@
 	</character>
 	<character>
 		<name>ad_klaus</name>
+		<!-- Toy -->
+		<combo output='25208' card='10089' /><!-- ad_klaus + Recall Replacement -->
+		<combo output='25208' card='20081' /><!-- ad_klaus + Mini Car Racing -->
+		<combo output='25208' card='30099' /><!-- ad_klaus + Wood Chuck -->
+		<combo output='25208' card='50098' /><!-- ad_klaus + Lovey Bears -->
+		<combo output='25208' card='10004' /><!-- ad_klaus + Gamer -->
+		<combo output='25208' card='10008' /><!-- ad_klaus + Rupert -->
+		<combo output='25208' card='10084' /><!-- ad_klaus + Rupert Recalls -->
+		<combo output='25208' card='20018' /><!-- ad_klaus + Steve's Toys -->
+		<combo output='25208' card='30013' /><!-- ad_klaus + Kuchi Kopi -->
+		<combo output='25208' card='30017' /><!-- ad_klaus + Burgerboss -->
+		<combo output='25208' card='30034' /><!-- ad_klaus + Wireless Audio Transmitter -->
+		<combo output='25208' card='30086' /><!-- ad_klaus + Bouncy Fun Castle -->
+		<combo output='25208' card='30085' /><!-- ad_klaus + Bouncy Fun Castle -->
+		<combo output='25208' card='40014' /><!-- ad_klaus + Pro-Pain! -->
+		<combo output='25208' card='40019' /><!-- ad_klaus + Manger Babies -->
+		<combo output='25208' card='40077' /><!-- ad_klaus + Chip -->
+		<combo output='25208' card='40076' /><!-- ad_klaus + Chip -->
+		<combo output='25208' card='50012' /><!-- ad_klaus + Mom's Homestyle X-Cube 360 -->
+		<combo output='25208' card='50086' /><!-- ad_klaus + Fantasy Figurines -->
+		<combo output='25208' card='50085' /><!-- ad_klaus + Fantasy Figurines -->
+		<combo output='25208' card='60013' /><!-- ad_klaus + Toy -->
 		<!-- Armed -->
 		<combo output='25146' card='30088' /><!-- ad_klaus + Film Scissors -->
 		<combo output='25146' card='20073' /><!-- ad_klaus + Bazooka Shark Bomber -->
@@ -4405,6 +4459,10 @@
 		<combo output='25186' card='50051' /><!-- ad_hayley + Golden Fiddle -->
 		<combo output='25186' card='50064' /><!-- ad_hayley + Karaoke Morbo -->
 		<!-- Toy -->
+		<combo output='25184' card='10089' /><!-- ad_hayley + Recall Replacement -->
+		<combo output='25184' card='20081' /><!-- ad_hayley + Mini Car Racing -->
+		<combo output='25184' card='30099' /><!-- ad_hayley + Wood Chuck -->
+		<combo output='25184' card='50098' /><!-- ad_hayley + Lovey Bears -->
 		<combo output='25184' card='50085' /><!-- ad_hayley + Fantasy Figurines -->
 		<combo output='25184' card='30085' /><!-- ad_hayley + Bouncy Fun Castle -->
 		<combo output='25184' card='40076' /><!-- ad_hayley + Chip -->
@@ -4739,6 +4797,10 @@
 		<combo output='25194' card='30032' /><!-- ad_stan + Bunny Costume -->
 		<combo output='25194' card='40037' /><!-- ad_stan + Ski Mask -->
 		<!-- Toy -->
+		<combo output='25030' card='10089' /><!-- ad_stan + Recall Replacement -->
+		<combo output='25030' card='20081' /><!-- ad_stan + Mini Car Racing -->
+		<combo output='25030' card='30099' /><!-- ad_stan + Wood Chuck -->
+		<combo output='25030' card='50098' /><!-- ad_stan + Lovey Bears -->
 		<combo output='25030' card='50085' /><!-- ad_stan + Fantasy Figurines -->
 		<combo output='25030' card='30085' /><!-- ad_stan + Bouncy Fun Castle -->
 		<combo output='25030' card='40076' /><!-- ad_stan + Chip -->
@@ -5413,6 +5475,10 @@
 		<combo output='25126' card='40080' /><!-- ad_roger + Armed Booby Traps -->
 		<combo output='25126' card='50088' /><!-- ad_roger + Surface Air Telegram -->
 		<!-- Toy -->
+		<combo output='25207' card='10089' /><!-- ad_roger + Recall Replacement -->
+		<combo output='25207' card='20081' /><!-- ad_roger + Mini Car Racing -->
+		<combo output='25207' card='30099' /><!-- ad_roger + Wood Chuck -->
+		<combo output='25207' card='50098' /><!-- ad_roger + Lovey Bears -->
 		<combo output='25067' card='50085' /><!-- ad_roger + Fantasy Figurines -->
 		<combo output='25067' card='30085' /><!-- ad_roger + Bouncy Fun Castle -->
 		<combo output='25067' card='40076' /><!-- ad_roger + Chip -->
@@ -6169,6 +6235,28 @@
 	</character>
 	<character>
 		<name>bb_teddy</name>
+		<!-- Toy -->
+		<combo output='35209' card='10089' /><!-- bb_teddy + Recall Replacement -->
+		<combo output='35209' card='20081' /><!-- bb_teddy + Mini Car Racing -->
+		<combo output='35209' card='30099' /><!-- bb_teddy + Wood Chuck -->
+		<combo output='35209' card='50098' /><!-- bb_teddy + Lovey Bears -->
+		<combo output='35209' card='10004' /><!-- bb_teddy + Gamer -->
+		<combo output='35209' card='10008' /><!-- bb_teddy + Rupert -->
+		<combo output='35209' card='10084' /><!-- bb_teddy + Rupert Recalls -->
+		<combo output='35209' card='20018' /><!-- bb_teddy + Steve's Toys -->
+		<combo output='35209' card='30013' /><!-- bb_teddy + Kuchi Kopi -->
+		<combo output='35209' card='30017' /><!-- bb_teddy + Burgerboss -->
+		<combo output='35209' card='30034' /><!-- bb_teddy + Wireless Audio Transmitter -->
+		<combo output='35209' card='30086' /><!-- bb_teddy + Bouncy Fun Castle -->
+		<combo output='35209' card='30085' /><!-- bb_teddy + Bouncy Fun Castle -->
+		<combo output='35209' card='40014' /><!-- bb_teddy + Pro-Pain! -->
+		<combo output='35209' card='40019' /><!-- bb_teddy + Manger Babies -->
+		<combo output='35209' card='40077' /><!-- bb_teddy + Chip -->
+		<combo output='35209' card='40076' /><!-- bb_teddy + Chip -->
+		<combo output='35209' card='50012' /><!-- bb_teddy + Mom's Homestyle X-Cube 360 -->
+		<combo output='35209' card='50086' /><!-- bb_teddy + Fantasy Figurines -->
+		<combo output='35209' card='50085' /><!-- bb_teddy + Fantasy Figurines -->
+		<combo output='35209' card='60013' /><!-- bb_teddy + Toy -->
 		<!-- Armed -->
 		<combo output='35188' card='20073' /><!-- bb_teddy + Bazooka Shark Bomber -->
 		<combo output='35188' card='30088' /><!-- bb_teddy + Film Scissors -->
@@ -6542,6 +6630,10 @@
 		<combo output='35194' card='50044' /><!-- bb_gene + Diamond Crusher -->
 		<combo output='35194' card='50022' /><!-- bb_gene + Arcturan Kung Fu -->
 		<!-- Toy -->
+		<combo output='35080' card='10089' /><!-- bb_gene + Recall Replacement -->
+		<combo output='35080' card='20081' /><!-- bb_gene + Mini Car Racing -->
+		<combo output='35080' card='30099' /><!-- bb_gene + Wood Chuck -->
+		<combo output='35080' card='50098' /><!-- bb_gene + Lovey Bears -->
 		<combo output='35080' card='50085' /><!-- bb_gene + Fantasy Figurines -->
 		<combo output='35080' card='30085' /><!-- bb_gene + Bouncy Fun Castle -->
 		<combo output='35080' card='40076' /><!-- bb_gene + Chip -->
@@ -6920,6 +7012,10 @@
 		<combo output='35197' card='50042' /><!-- bb_linda + Lightspeed Briefs -->
 		<combo output='35197' card='50059' /><!-- bb_linda + The Borax Kid -->
 		<!-- Toy -->
+		<combo output='35187' card='10089' /><!-- bb_linda + Recall Replacement -->
+		<combo output='35187' card='20081' /><!-- bb_linda + Mini Car Racing -->
+		<combo output='35187' card='30099' /><!-- bb_linda + Wood Chuck -->
+		<combo output='35187' card='50098' /><!-- bb_linda + Lovey Bears -->
 		<combo output='35187' card='50085' /><!-- bb_linda + Fantasy Figurines -->
 		<combo output='35187' card='30085' /><!-- bb_linda + Bouncy Fun Castle -->
 		<combo output='35187' card='40076' /><!-- bb_linda + Chip -->
@@ -7286,6 +7382,10 @@
 	<character>
 		<name>bb_bob</name>
 		<!-- Toy -->
+		<combo output='35051' card='10089' /><!-- bb_bob + Recall Replacement -->
+		<combo output='35051' card='20081' /><!-- bb_bob + Mini Car Racing -->
+		<combo output='35051' card='30099' /><!-- bb_bob + Wood Chuck -->
+		<combo output='35051' card='50098' /><!-- bb_bob + Lovey Bears -->
 		<combo output='35023' card='50085' /><!-- bb_bob + Fantasy Figurines -->
 		<combo output='35023' card='30085' /><!-- bb_bob + Bouncy Fun Castle -->
 		<combo output='35023' card='40076' /><!-- bb_bob + Chip -->
@@ -7679,6 +7779,10 @@
 	<character>
 		<name>bb_louise</name>
 		<!-- Toy -->
+		<combo output='35186' card='10089' /><!-- bb_louise + Recall Replacement -->
+		<combo output='35186' card='20081' /><!-- bb_louise + Mini Car Racing -->
+		<combo output='35186' card='30099' /><!-- bb_louise + Wood Chuck -->
+		<combo output='35186' card='50098' /><!-- bb_louise + Lovey Bears -->
 		<combo output='35186' card='50085' /><!-- bb_louise + Fantasy Figurines -->
 		<combo output='35186' card='30085' /><!-- bb_louise + Bouncy Fun Castle -->
 		<combo output='35186' card='40076' /><!-- bb_louise + Chip -->
@@ -8137,6 +8241,28 @@
 	</character>
 	<character>
 		<name>bb_jimmyjr</name>
+		<!-- Toy -->
+		<combo output='35210' card='10089' /><!-- bb_jimmyjr + Recall Replacement -->
+		<combo output='35210' card='20081' /><!-- bb_jimmyjr + Mini Car Racing -->
+		<combo output='35210' card='30099' /><!-- bb_jimmyjr + Wood Chuck -->
+		<combo output='35210' card='50098' /><!-- bb_jimmyjr + Lovey Bears -->
+		<combo output='35210' card='10004' /><!-- bb_jimmyjr + Gamer -->
+		<combo output='35210' card='10008' /><!-- bb_jimmyjr + Rupert -->
+		<combo output='35210' card='10084' /><!-- bb_jimmyjr + Rupert Recalls -->
+		<combo output='35210' card='20018' /><!-- bb_jimmyjr + Steve's Toys -->
+		<combo output='35210' card='30013' /><!-- bb_jimmyjr + Kuchi Kopi -->
+		<combo output='35210' card='30017' /><!-- bb_jimmyjr + Burgerboss -->
+		<combo output='35210' card='30034' /><!-- bb_jimmyjr + Wireless Audio Transmitter -->
+		<combo output='35210' card='30086' /><!-- bb_jimmyjr + Bouncy Fun Castle -->
+		<combo output='35210' card='30085' /><!-- bb_jimmyjr + Bouncy Fun Castle -->
+		<combo output='35210' card='40014' /><!-- bb_jimmyjr + Pro-Pain! -->
+		<combo output='35210' card='40019' /><!-- bb_jimmyjr + Manger Babies -->
+		<combo output='35210' card='40077' /><!-- bb_jimmyjr + Chip -->
+		<combo output='35210' card='40076' /><!-- bb_jimmyjr + Chip -->
+		<combo output='35210' card='50012' /><!-- bb_jimmyjr + Mom's Homestyle X-Cube 360 -->
+		<combo output='35210' card='50086' /><!-- bb_jimmyjr + Fantasy Figurines -->
+		<combo output='35210' card='50085' /><!-- bb_jimmyjr + Fantasy Figurines -->
+		<combo output='35210' card='60013' /><!-- bb_jimmyjr + Toy -->
 		<!-- Rich -->
 		<combo output='35206' card='20080' /><!-- bb_jimmyjr + Oliver North's Gold -->
 		<combo output='35206' card='30097' /><!-- bb_jimmyjr + Diamond Ring -->
@@ -8404,6 +8530,10 @@
 	<character>
 		<name>kh_hank</name>
 		<!-- Toy -->
+		<combo output='45184' card='10089' /><!-- kh_hank + Recall Replacement -->
+		<combo output='45184' card='20081' /><!-- kh_hank + Mini Car Racing -->
+		<combo output='45184' card='30099' /><!-- kh_hank + Wood Chuck -->
+		<combo output='45184' card='50098' /><!-- kh_hank + Lovey Bears -->
 		<combo output='45022' card='50085' /><!-- kh_hank + Fantasy Figurines -->
 		<combo output='45022' card='30085' /><!-- kh_hank + Bouncy Fun Castle -->
 		<combo output='45022' card='40076' /><!-- kh_hank + Chip -->
@@ -8793,6 +8923,10 @@
 	<character>
 		<name>kh_dale</name>
 		<!-- Toy -->
+		<combo output='45067' card='10089' /><!-- kh_dale + Recall Replacement -->
+		<combo output='45067' card='20081' /><!-- kh_dale + Mini Car Racing -->
+		<combo output='45067' card='30099' /><!-- kh_dale + Wood Chuck -->
+		<combo output='45067' card='50098' /><!-- kh_dale + Lovey Bears -->
 		<combo output='45067' card='50085' /><!-- kh_dale + Fantasy Figurines -->
 		<combo output='45067' card='30085' /><!-- kh_dale + Bouncy Fun Castle -->
 		<combo output='45067' card='40076' /><!-- kh_dale + Chip -->
@@ -9176,6 +9310,10 @@
 		<combo output='45175' card='20048' /><!-- kh_bill + Pantry Guns -->
 		<combo output='45175' card='40020' /><!-- kh_bill + Rifle -->
 		<!-- Toy -->
+		<combo output='45002' card='10089' /><!-- kh_bill + Recall Replacement -->
+		<combo output='45002' card='20081' /><!-- kh_bill + Mini Car Racing -->
+		<combo output='45002' card='30099' /><!-- kh_bill + Wood Chuck -->
+		<combo output='45002' card='50098' /><!-- kh_bill + Lovey Bears -->
 		<combo output='45002' card='50085' /><!-- kh_bill + Fantasy Figurines -->
 		<combo output='45002' card='30085' /><!-- kh_bill + Bouncy Fun Castle -->
 		<combo output='45002' card='40076' /><!-- kh_bill + Chip -->
@@ -9460,6 +9598,28 @@
 	</character>
 	<character>
 		<name>kh_boomhauer</name>
+		<!-- Toy -->
+		<combo output='45185' card='10089' /><!-- kh_boomhauer + Recall Replacement -->
+		<combo output='45185' card='20081' /><!-- kh_boomhauer + Mini Car Racing -->
+		<combo output='45185' card='30099' /><!-- kh_boomhauer + Wood Chuck -->
+		<combo output='45185' card='50098' /><!-- kh_boomhauer + Lovey Bears -->
+		<combo output='45185' card='10004' /><!-- kh_boomhauer + Gamer -->
+		<combo output='45185' card='10008' /><!-- kh_boomhauer + Rupert -->
+		<combo output='45185' card='10084' /><!-- kh_boomhauer + Rupert Recalls -->
+		<combo output='45185' card='20018' /><!-- kh_boomhauer + Steve's Toys -->
+		<combo output='45185' card='30013' /><!-- kh_boomhauer + Kuchi Kopi -->
+		<combo output='45185' card='30017' /><!-- kh_boomhauer + Burgerboss -->
+		<combo output='45185' card='30034' /><!-- kh_boomhauer + Wireless Audio Transmitter -->
+		<combo output='45185' card='30086' /><!-- kh_boomhauer + Bouncy Fun Castle -->
+		<combo output='45185' card='30085' /><!-- kh_boomhauer + Bouncy Fun Castle -->
+		<combo output='45185' card='40014' /><!-- kh_boomhauer + Pro-Pain! -->
+		<combo output='45185' card='40019' /><!-- kh_boomhauer + Manger Babies -->
+		<combo output='45185' card='40077' /><!-- kh_boomhauer + Chip -->
+		<combo output='45185' card='40076' /><!-- kh_boomhauer + Chip -->
+		<combo output='45185' card='50012' /><!-- kh_boomhauer + Mom's Homestyle X-Cube 360 -->
+		<combo output='45185' card='50086' /><!-- kh_boomhauer + Fantasy Figurines -->
+		<combo output='45185' card='50085' /><!-- kh_boomhauer + Fantasy Figurines -->
+		<combo output='45185' card='60013' /><!-- kh_boomhauer + Toy -->
 		<!-- Armed -->
 		<combo output='45176' card='20073' /><!-- kh_boomhauer + Bazooka Shark Bomber -->
 		<combo output='45176' card='30088' /><!-- kh_boomhauer + Film Scissors -->
@@ -9724,6 +9884,10 @@
 	<character>
 		<name>kh_bobby</name>
 		<!-- Toy -->
+		<combo output='45174' card='10089' /><!-- kh_bobby + Recall Replacement -->
+		<combo output='45174' card='20081' /><!-- kh_bobby + Mini Car Racing -->
+		<combo output='45174' card='30099' /><!-- kh_bobby + Wood Chuck -->
+		<combo output='45174' card='50098' /><!-- kh_bobby + Lovey Bears -->
 		<combo output='45174' card='50085' /><!-- kh_bobby + Fantasy Figurines -->
 		<combo output='45174' card='30085' /><!-- kh_bobby + Bouncy Fun Castle -->
 		<combo output='45174' card='40076' /><!-- kh_bobby + Chip -->
@@ -10130,6 +10294,10 @@
 		<combo output='45181' card='50067' /><!-- kh_luanne + Crack Mansion -->
 		<combo output='45181' card='50084' /><!-- kh_luanne + Wong Casino -->
 		<!-- Toy -->
+		<combo output='45058' card='10089' /><!-- kh_luanne + Recall Replacement -->
+		<combo output='45058' card='20081' /><!-- kh_luanne + Mini Car Racing -->
+		<combo output='45058' card='30099' /><!-- kh_luanne + Wood Chuck -->
+		<combo output='45058' card='50098' /><!-- kh_luanne + Lovey Bears -->
 		<combo output='45058' card='50085' /><!-- kh_luanne + Fantasy Figurines -->
 		<combo output='45058' card='30085' /><!-- kh_luanne + Bouncy Fun Castle -->
 		<combo output='45058' card='40076' /><!-- kh_luanne + Chip -->
@@ -10366,6 +10534,10 @@
 		<combo output='55195' card='40025' /><!-- ft_bender + Witch Costume -->
 		<combo output='55195' card='40037' /><!-- ft_bender + Ski Mask -->
 		<!-- Toy -->
+		<combo output='55185' card='10089' /><!-- ft_bender + Recall Replacement -->
+		<combo output='55185' card='20081' /><!-- ft_bender + Mini Car Racing -->
+		<combo output='55185' card='30099' /><!-- ft_bender + Wood Chuck -->
+		<combo output='55185' card='50098' /><!-- ft_bender + Lovey Bears -->
 		<combo output='55185' card='50085' /><!-- ft_bender + Fantasy Figurines -->
 		<combo output='55185' card='30085' /><!-- ft_bender + Bouncy Fun Castle -->
 		<combo output='55185' card='40076' /><!-- ft_bender + Chip -->
@@ -10763,6 +10935,10 @@
 		<combo output='55203' card='50067' /><!-- ft_farnsworth + Crack Mansion -->
 		<combo output='55203' card='50084' /><!-- ft_farnsworth + Wong Casino -->
 		<!-- Toy -->
+		<combo output='55186' card='10089' /><!-- ft_farnsworth + Recall Replacement -->
+		<combo output='55186' card='20081' /><!-- ft_farnsworth + Mini Car Racing -->
+		<combo output='55186' card='30099' /><!-- ft_farnsworth + Wood Chuck -->
+		<combo output='55186' card='50098' /><!-- ft_farnsworth + Lovey Bears -->
 		<combo output='55186' card='50085' /><!-- ft_farnsworth + Fantasy Figurines -->
 		<combo output='55186' card='30085' /><!-- ft_farnsworth + Bouncy Fun Castle -->
 		<combo output='55186' card='40076' /><!-- ft_farnsworth + Chip -->
@@ -11091,6 +11267,10 @@
 	<character>
 		<name>ft_zoidberg</name>
 		<!-- Toy -->
+		<combo output='55054' card='10089' /><!-- ft_zoidberg + Recall Replacement -->
+		<combo output='55054' card='20081' /><!-- ft_zoidberg + Mini Car Racing -->
+		<combo output='55054' card='30099' /><!-- ft_zoidberg + Wood Chuck -->
+		<combo output='55054' card='50098' /><!-- ft_zoidberg + Lovey Bears -->
 		<combo output='55054' card='50085' /><!-- ft_zoidberg + Fantasy Figurines -->
 		<combo output='55054' card='30085' /><!-- ft_zoidberg + Bouncy Fun Castle -->
 		<combo output='55054' card='40076' /><!-- ft_zoidberg + Chip -->
@@ -11461,6 +11641,10 @@
 	<character>
 		<name>ft_leela</name>
 		<!-- Toy -->
+		<combo output='55206' card='10089' /><!-- ft_leela + Recall Replacement -->
+		<combo output='55206' card='20081' /><!-- ft_leela + Mini Car Racing -->
+		<combo output='55206' card='30099' /><!-- ft_leela + Wood Chuck -->
+		<combo output='55206' card='50098' /><!-- ft_leela + Lovey Bears -->
 		<combo output='55056' card='10084' /><!-- ft_leela + Rupert Recalls -->
 		<combo output='55056' card='30085' /><!-- ft_leela + Bouncy Fun Castle -->
 		<combo output='55056' card='40076' /><!-- ft_leela + Chip -->
@@ -11868,6 +12052,10 @@
 		<combo output='55193' card='40039' /><!-- ft_amy + Arlen YMCA -->
 		<combo output='55193' card='30074' /><!-- ft_amy + Bernadette Baker -->
 		<!-- Toy -->
+		<combo output='55053' card='10089' /><!-- ft_amy + Recall Replacement -->
+		<combo output='55053' card='20081' /><!-- ft_amy + Mini Car Racing -->
+		<combo output='55053' card='30099' /><!-- ft_amy + Wood Chuck -->
+		<combo output='55053' card='50098' /><!-- ft_amy + Lovey Bears -->
 		<combo output='55053' card='50085' /><!-- ft_amy + Fantasy Figurines -->
 		<combo output='55053' card='30085' /><!-- ft_amy + Bouncy Fun Castle -->
 		<combo output='55053' card='40076' /><!-- ft_amy + Chip -->
@@ -12228,6 +12416,10 @@
 	<character>
 		<name>ft_fry</name>
 		<!-- Toy -->
+		<combo output='55187' card='10089' /><!-- ft_fry + Recall Replacement -->
+		<combo output='55187' card='20081' /><!-- ft_fry + Mini Car Racing -->
+		<combo output='55187' card='30099' /><!-- ft_fry + Wood Chuck -->
+		<combo output='55187' card='50098' /><!-- ft_fry + Lovey Bears -->
 		<combo output='55187' card='50085' /><!-- ft_fry + Fantasy Figurines -->
 		<combo output='55187' card='30085' /><!-- ft_fry + Bouncy Fun Castle -->
 		<combo output='55187' card='40076' /><!-- ft_fry + Chip -->
@@ -12666,6 +12858,10 @@
 		<combo output='55189' card='30023' /><!-- ft_hermes + Boyz 4 Now -->
 		<combo output='55189' card='40030' /><!-- ft_hermes + Karaoke Khan -->
 		<!-- Toy -->
+		<combo output='55052' card='10089' /><!-- ft_hermes + Recall Replacement -->
+		<combo output='55052' card='20081' /><!-- ft_hermes + Mini Car Racing -->
+		<combo output='55052' card='30099' /><!-- ft_hermes + Wood Chuck -->
+		<combo output='55052' card='50098' /><!-- ft_hermes + Lovey Bears -->
 		<combo output='55052' card='50085' /><!-- ft_hermes + Fantasy Figurines -->
 		<combo output='55052' card='30085' /><!-- ft_hermes + Bouncy Fun Castle -->
 		<combo output='55052' card='40076' /><!-- ft_hermes + Chip -->
@@ -13010,6 +13206,10 @@
 		<combo output='55188' card='40007' /><!-- ft_zapp + Bluegrass -->
 		<combo output='55188' card='20006' /><!-- ft_zapp + Boyz 12 -->
 		<!-- toy -->
+		<combo output='55184' card='10089' /><!-- ft_zapp + Recall Replacement -->
+		<combo output='55184' card='20081' /><!-- ft_zapp + Mini Car Racing -->
+		<combo output='55184' card='30099' /><!-- ft_zapp + Wood Chuck -->
+		<combo output='55184' card='50098' /><!-- ft_zapp + Lovey Bears -->
 		<combo output='55184' card='50085' /><!-- ft_zapp + Fantasy Figurines -->
 		<combo output='55184' card='30085' /><!-- ft_zapp + Bouncy Fun Castle -->
 		<combo output='55184' card='40076' /><!-- ft_zapp + Chip -->
