@@ -3,7 +3,7 @@
 	<character>
 		<name>fg_chris</name>
 		<!-- Rich -->
-		<combo output='15232' card='20080' /><!-- fg_chris + Oliver North's Gold -->
+		<combo output='15232' card='20080' /><!-- fg_chris + Oliver North's Gold   -->
 		<combo output='15232' card='30097' /><!-- fg_chris + Diamond Ring -->
 		<combo output='15232' card='40090' /><!-- fg_chris + Jar of Change -->
 		<combo output='15232' card='50096' /><!-- fg_chris + Poker Winnings -->
@@ -24,6 +24,10 @@
 		<combo output='15232' card='50067' /><!-- fg_chris + Crack Mansion -->
 		<combo output='15232' card='50084' /><!-- fg_chris + Wong Casino -->
 		<!-- Disguised -->
+		<combo output='15226' card='10090' /><!-- fg_chris + Wedding Dress -->
+		<combo output='15226' card='30100' /><!-- fg_chris + Costume Construction -->
+		<combo output='15226' card='40092' /><!-- fg_chris + Fashion Board -->
+		<combo output='15226' card='50099' /><!-- fg_chris + Replacement Shell -->
 		<combo output='15226' card='10085' /><!-- fg_chris + Golden Goose -->
 		<combo output='15226' card='30092' /><!-- fg_chris + Totally Normal Pants -->
 		<combo output='15226' card='40086' /><!-- fg_chris + Hibachi Hat -->
@@ -89,6 +93,10 @@
 		<combo output='15199' card='50022' /><!-- fg_chris + Arcturan Kung Fu -->
 		<combo output='15199' card='50044' /><!-- fg_chris + Diamond Crusher -->
 		<!-- Addicted -->
+		<combo output='15197' card='20083' /><!-- fg_chris + Barry's Meds -->
+		<combo output='15197' card='30101' /><!-- fg_chris + Candy Tornado -->
+		<combo output='15197' card='30102' /><!-- fg_chris + Chunky Blastoffs Candy -->
+		<combo output='15197' card='40093' /><!-- fg_chris + Ice Cream Addict -->
 		<combo output='15197' card='20074' /><!-- fg_chris + Anti-Seizure Meds -->
 		<combo output='15197' card='30090' /><!-- fg_chris + Medicated Eye Drops -->
 		<combo output='15197' card='40081' /><!-- fg_chris + Unlabeled Pills -->
@@ -392,6 +400,10 @@
 		<combo output='15202' card='30061' /><!-- fg_stewie + Millie's Trampoline -->
 		<combo output='15202' card='50053' /><!-- fg_stewie + Doubles Ping Pong -->
 		<!-- Addicted -->
+		<combo output='15196' card='20083' /><!-- fg_stewie + Barry's Meds -->
+		<combo output='15196' card='30101' /><!-- fg_stewie + Candy Tornado -->
+		<combo output='15196' card='30102' /><!-- fg_stewie + Chunky Blastoffs Candy -->
+		<combo output='15196' card='40093' /><!-- fg_stewie + Ice Cream Addict -->
 		<combo output='15196' card='20074' /><!-- fg_stewie + Anti-Seizure Meds -->
 		<combo output='15196' card='30090' /><!-- fg_stewie + Medicated Eye Drops -->
 		<combo output='15196' card='40081' /><!-- fg_stewie + Unlabeled Pills -->
@@ -479,6 +491,10 @@
 		<combo output='15178' card='50048' /><!-- fg_stewie + Sacrificial Robot Goat -->
 		<combo output='15178' card='50060' /><!-- fg_stewie + Spirit -->
 		<!-- Disguised -->
+		<combo output='15235' card='10090' /><!-- fg_stewie + Wedding Dress -->
+		<combo output='15235' card='30100' /><!-- fg_stewie + Costume Construction -->
+		<combo output='15235' card='40092' /><!-- fg_stewie + Fashion Board -->
+		<combo output='15235' card='50099' /><!-- fg_stewie + Replacement Shell -->
 		<combo output='15141' card='10085' /><!-- fg_stewie + Golden Goose -->
 		<combo output='15141' card='30092' /><!-- fg_stewie + Totally Normal Pants -->
 		<combo output='15141' card='40086' /><!-- fg_stewie + Hibachi Hat -->
@@ -839,6 +855,10 @@
 		<combo output='15137' card='50061' /><!-- fg_quagmire + Dr. Banjo -->
 		<combo output='15137' card='50040' /><!-- fg_quagmire + Bending School -->
 		<!-- Disguised -->
+		<combo output='15114' card='10090' /><!-- fg_quagmire + Wedding Dress -->
+		<combo output='15114' card='30100' /><!-- fg_quagmire + Costume Construction -->
+		<combo output='15114' card='40092' /><!-- fg_quagmire + Fashion Board -->
+		<combo output='15114' card='50099' /><!-- fg_quagmire + Replacement Shell -->
 		<combo output='15114' card='10085' /><!-- fg_quagmire + Golden Goose -->
 		<combo output='15114' card='30092' /><!-- fg_quagmire + Totally Normal Pants -->
 		<combo output='15114' card='40086' /><!-- fg_quagmire + Hibachi Hat -->
@@ -1054,6 +1074,11 @@
 		<combo output='15084' card='10011' /> <!-- fg_quagmire + Lois' Piano = Griffin and Quagmire -->
 		<combo output='15084' card='60009' starting_combo='1' start_ip_req='1' /> <!-- fg_quagmire + Music = Griffin and Quagmire -->
 		<combo output='15084' card='10029' /> <!-- fg_quagmire + Red Shirt Blue Shirt = Griffin and Quagmire -->
+		<!-- Addicted -->
+		<combo output='15085' card='20083' /><!-- fg_quagmire + Barry's Meds -->
+		<combo output='15085' card='30101' /><!-- fg_quagmire + Candy Tornado -->
+		<combo output='15085' card='30102' /><!-- fg_quagmire + Chunky Blastoffs Candy -->
+		<combo output='15085' card='40093' /><!-- fg_quagmire + Ice Cream Addict -->
 		<combo output='15085' card='20061' /><!-- fg_quagmire + Langley Soft Drug Store -->
 		<combo output='15085' card='30073' /><!-- fg_quagmire + Halloween Candy -->
 		<combo output='15085' card='40063' /><!-- fg_quagmire + Boggle Contraband -->
@@ -1244,6 +1269,10 @@
 		<combo output='15126' card='50042' /><!-- fg_peter + Lightspeed Briefs -->
 		<combo output='15126' card='50059' /><!-- fg_peter + The Borax Kid -->
 		<!-- Addicted -->
+		<combo output='15170' card='20083' /><!-- fg_peter + Barry's Meds -->
+		<combo output='15170' card='30101' /><!-- fg_peter + Candy Tornado -->
+		<combo output='15170' card='30102' /><!-- fg_peter + Chunky Blastoffs Candy -->
+		<combo output='15170' card='40093' /><!-- fg_peter + Ice Cream Addict -->
 		<combo output='15170' card='20074' /><!-- fg_peter + Anti-Seizure Meds -->
 		<combo output='15170' card='30090' /><!-- fg_peter + Medicated Eye Drops -->
 		<combo output='15170' card='40081' /><!-- fg_peter + Unlabeled Pills -->
@@ -1409,6 +1438,10 @@
 		<combo output='15124' card='20029' /> <!-- fg_peter + Samurai Toshi = Round House -->
 		<combo output='15124' card='10037' /> <!-- fg_peter + No Mercy Dojo = Round House -->
 		<!-- Disguised -->
+		<combo output='15236' card='10090' /><!-- fg_peter + Wedding Dress -->
+		<combo output='15236' card='30100' /><!-- fg_peter + Costume Construction -->
+		<combo output='15236' card='40092' /><!-- fg_peter + Fashion Board -->
+		<combo output='15236' card='50099' /><!-- fg_peter + Replacement Shell -->
 		<combo output='15126' card='10085' /><!-- fg_peter + Golden Goose -->
 		<combo output='15126' card='30092' /><!-- fg_peter + Totally Normal Pants -->
 		<combo output='15126' card='40086' /><!-- fg_peter + Hibachi Hat -->
@@ -1641,6 +1674,10 @@
 		<combo output='15176' card='50048' /><!-- fg_meg + Sacrificial Robot Goat -->
 		<combo output='15176' card='50060' /><!-- fg_meg + Spirit -->
 		<!-- Disguised -->
+		<combo output='15174' card='10090' /><!-- fg_meg + Wedding Dress -->
+		<combo output='15174' card='30100' /><!-- fg_meg + Costume Construction -->
+		<combo output='15174' card='40092' /><!-- fg_meg + Fashion Board -->
+		<combo output='15174' card='50099' /><!-- fg_meg + Replacement Shell -->
 		<combo output='15174' card='10085' /><!-- fg_meg + Golden Goose -->
 		<combo output='15174' card='30092' /><!-- fg_meg + Totally Normal Pants -->
 		<combo output='15174' card='40086' /><!-- fg_meg + Hibachi Hat -->
@@ -1667,6 +1704,10 @@
 		<combo output='15174' card='40037' /><!-- fg_meg + Ski Mask -->
 		<combo output='15174' card='50024' /><!-- fg_meg + Pimparoo -->	
 		<!-- Addicted -->
+		<combo output='15223' card='20083' /><!-- fg_meg + Barry's Meds -->
+		<combo output='15223' card='30101' /><!-- fg_meg + Candy Tornado -->
+		<combo output='15223' card='30102' /><!-- fg_meg + Chunky Blastoffs Candy -->
+		<combo output='15223' card='40093' /><!-- fg_meg + Ice Cream Addict -->
 		<combo output='15223' card='20074' /><!-- fg_meg + Anti-Seizure Meds -->
 		<combo output='15223' card='30090' /><!-- fg_meg + Medicated Eye Drops -->
 		<combo output='15223' card='40081' /><!-- fg_meg + Unlabeled Pills -->
@@ -2058,6 +2099,10 @@
 		<combo output='15177' card='50048' /><!-- fg_lois + Sacrificial Robot Goat -->
 		<combo output='15177' card='50060' /><!-- fg_lois + Spirit -->
 		<!-- Disguised -->
+		<combo output='15173' card='10090' /><!-- fg_lois + Wedding Dress -->
+		<combo output='15173' card='30100' /><!-- fg_lois + Costume Construction -->
+		<combo output='15173' card='40092' /><!-- fg_lois + Fashion Board -->
+		<combo output='15173' card='50099' /><!-- fg_lois + Replacement Shell -->
 		<combo output='15173' card='10085' /><!-- fg_lois + Golden Goose -->
 		<combo output='15173' card='30092' /><!-- fg_lois + Totally Normal Pants -->
 		<combo output='15173' card='40086' /><!-- fg_lois + Hibachi Hat -->
@@ -2077,6 +2122,10 @@
 		<combo output='15173' card='40025' /><!-- fg_lois + Witch Costume -->
 		<combo output='15173' card='50034' /><!-- fg_lois + Doingg -->
 		<!-- Addicted -->
+		<combo output='15171' card='20083' /><!-- fg_lois + Barry's Meds -->
+		<combo output='15171' card='30101' /><!-- fg_lois + Candy Tornado -->
+		<combo output='15171' card='30102' /><!-- fg_lois + Chunky Blastoffs Candy -->
+		<combo output='15171' card='40093' /><!-- fg_lois + Ice Cream Addict -->
 		<combo output='15171' card='20074' /><!-- fg_lois + Anti-Seizure Meds -->
 		<combo output='15171' card='30090' /><!-- fg_lois + Medicated Eye Drops -->
 		<combo output='15171' card='40081' /><!-- fg_lois + Unlabeled Pills -->
@@ -2219,6 +2268,10 @@
 	<character>
 		<name>fg_brian</name>
 		<!-- Addicted -->
+		<combo output='15222' card='20083' /><!-- fg_brian + Barry's Meds -->
+		<combo output='15222' card='30101' /><!-- fg_brian + Candy Tornado -->
+		<combo output='15222' card='30102' /><!-- fg_brian + Chunky Blastoffs Candy -->
+		<combo output='15222' card='40093' /><!-- fg_brian + Ice Cream Addict -->
 		<combo output='15222' card='20074' /><!-- fg_brian + Anti-Seizure Meds -->
 		<combo output='15222' card='30090' /><!-- fg_brian + Medicated Eye Drops -->
 		<combo output='15222' card='40081' /><!-- fg_brian + Unlabeled Pills -->
@@ -2406,6 +2459,10 @@
 		<combo output='15179' card='50040' /><!-- fg_brian + Bending School -->
 		<combo output='15179' card='50061' /><!-- fg_brian + Dr. Banjo -->
 		<!-- Disguised -->
+		<combo output='15175' card='10090' /><!-- fg_brian + Wedding Dress -->
+		<combo output='15175' card='30100' /><!-- fg_brian + Costume Construction -->
+		<combo output='15175' card='40092' /><!-- fg_brian + Fashion Board -->
+		<combo output='15175' card='50099' /><!-- fg_brian + Replacement Shell -->
 		<combo output='15175' card='10085' /><!-- fg_brian + Golden Goose -->
 		<combo output='15175' card='30092' /><!-- fg_brian + Totally Normal Pants -->
 		<combo output='15175' card='40086' /><!-- fg_brian + Hibachi Hat -->
@@ -2593,6 +2650,34 @@
 	</character>
 	<character>
 		<name>fg_joe</name>
+		<!-- Addicted -->
+		<combo output='15237' card='20083' /><!-- fg_joe + Barry's Meds -->
+		<combo output='15237' card='30102' /><!-- fg_joe + Chunky Blastoffs Candy -->
+		<combo output='15237' card='30101' /><!-- fg_joe + Candy Tornado -->
+		<combo output='15237' card='40093' /><!-- fg_joe + Ice Cream Addict -->
+		<combo output='15237' card='20074' /><!-- fg_joe + Anti-Seizure Meds -->
+		<combo output='15237' card='30090' /><!-- fg_joe + Medicated Eye Drops -->
+		<combo output='15237' card='40081' /><!-- fg_joe + Unlabeled Pills -->
+		<combo output='15237' card='40082' /><!-- fg_joe + Mexican Drug Dealer -->
+		<combo output='15237' card='20051' /><!-- fg_joe + Prescription Weed -->
+		<combo output='15237' card='30018' /><!-- fg_joe + Painkillers -->
+		<combo output='15237' card='40015' /><!-- fg_joe + Manitoba Cigarettes -->
+		<combo output='15237' card='40052' /><!-- fg_joe + Leon Petard -->
+		<combo output='15237' card='50056' /><!-- fg_joe + Hypnotoad -->
+		<combo output='15237' card='50057' /><!-- fg_joe + Refreshing Crack -->
+		<combo output='15237' card='10063' /><!-- fg_joe + Toad Licking -->
+		<combo output='15237' card='10003' /><!-- fg_joe + Toad Licking -->
+		<combo output='15237' card='10064' /><!-- fg_joe + Baked Evil Monkey -->
+		<combo output='15237' card='10065' /><!-- fg_joe + Olive Addict -->
+		<combo output='15237' card='20014' /><!-- fg_joe + Crack -->
+		<combo output='15237' card='20061' /><!-- fg_joe + Langley Soft Drug Store -->
+		<combo output='15237' card='30037' /><!-- fg_joe + Butterscotch Cookies -->
+		<combo output='15237' card='30064' /><!-- fg_joe + Chinchilla Addict Wayne -->
+		<combo output='15237' card='30073' /><!-- fg_joe + Halloween Candy -->
+		<combo output='15237' card='40051' /><!-- fg_joe + Stems and Seeds -->
+		<combo output='15237' card='40063' /><!-- fg_joe + Boggle Contraband -->
+		<combo output='15237' card='50069' /><!-- fg_joe + Human Horn -->
+		<combo output='15237' card='50070' /><!-- fg_joe + Jacked on Bots -->
 		<!-- Armed -->
 		<combo output='15221' card='20073' /><!-- fg_joe + Bazooka Shark Bomber -->
 		<combo output='15221' card='30088' /><!-- fg_joe + Film Scissors -->
@@ -2701,6 +2786,10 @@
 		<combo output='15211' card='40056' /><!-- fg_joe + Professor Lerner -->
 		<combo output='15211' card='40047' /><!-- fg_joe + Student Lucky -->
 		<!-- Disguised -->
+		<combo output='15204' card='10090' /><!-- fg_joe + Wedding Dress -->
+		<combo output='15204' card='30100' /><!-- fg_joe + Costume Construction -->
+		<combo output='15204' card='40092' /><!-- fg_joe + Fashion Board -->
+		<combo output='15204' card='50099' /><!-- fg_joe + Replacement Shell -->
 		<combo output='15204' card='10085' /><!-- fg_joe + Golden Goose -->
 		<combo output='15204' card='30092' /><!-- fg_joe + Totally Normal Pants -->
 		<combo output='15204' card='40086' /><!-- fg_joe + Hibachi Hat -->
@@ -2918,6 +3007,10 @@
 		<combo output='35185' card='50084' /><!-- bb_tina + Wong Casino -->
 		<combo output='35185' card='30083' /><!-- bb_tina + Fishoeder Mansion -->
 		<!-- Disguised -->
+		<combo output='35211' card='10090' /><!-- bb_tina + Wedding Dress -->
+		<combo output='35211' card='30100' /><!-- bb_tina + Costume Construction -->
+		<combo output='35211' card='40092' /><!-- bb_tina + Fashion Board -->
+		<combo output='35211' card='50099' /><!-- bb_tina + Replacement Shell -->
 		<combo output='35152' card='10085' /><!-- bb_tina + Golden Goose -->
 		<combo output='35152' card='30092' /><!-- bb_tina + Totally Normal Pants -->
 		<combo output='35152' card='40086' /><!-- bb_tina + Hibachi Hat -->
@@ -2946,6 +3039,10 @@
 		<combo output='35174' card='50071' /><!-- bb_tina + Triple Mom Slap -->
 		<combo output='35174' card='50072' /><!-- bb_tina + Big Boy Karate -->
 		<!-- Addicted -->
+		<combo output='35172' card='20083' /><!-- bb_tina + Barry's Meds -->
+		<combo output='35172' card='30101' /><!-- bb_tina + Candy Tornado -->
+		<combo output='35172' card='30102' /><!-- bb_tina + Chunky Blastoffs Candy -->
+		<combo output='35172' card='40093' /><!-- bb_tina + Ice Cream Addict -->
 		<combo output='35172' card='20074' /><!-- bb_tina + Anti-Seizure Meds -->
 		<combo output='35172' card='30090' /><!-- bb_tina + Medicated Eye Drops -->
 		<combo output='35172' card='40081' /><!-- bb_tina + Unlabeled Pills -->
@@ -3308,6 +3405,10 @@
 		<combo output='45003' card='40019' /><!-- kh_peggy + Manger Babies -->
 		<combo output='45003' card='60013' /><!-- kh_peggy + Toy -->
 		<!-- Disguised -->
+		<combo output='45095' card='10090' /><!-- kh_peggy + Wedding Dress -->
+		<combo output='45095' card='30100' /><!-- kh_peggy + Costume Construction -->
+		<combo output='45095' card='40092' /><!-- kh_peggy + Fashion Board -->
+		<combo output='45095' card='50099' /><!-- kh_peggy + Replacement Shell -->
 		<combo output='45095' card='10085' /><!-- kh_peggy + Golden Goose -->
 		<combo output='45095' card='30092' /><!-- kh_peggy + Totally Normal Pants -->
 		<combo output='45095' card='40086' /><!-- kh_peggy + Hibachi Hat -->
@@ -3382,6 +3483,10 @@
 		<combo output='45078' card='30066' /><!-- kh_peggy + Shrimp Dress -->
 		<combo output='45078' card='30065' /><!-- kh_peggy + Shrimpy Shrimps -->
 		<!-- Addicted -->	
+		<combo output='45187' card='20083' /><!-- kh_peggy + Barry's Meds -->
+		<combo output='45187' card='30102' /><!-- kh_peggy + Chunky Blastoffs Candy -->
+		<combo output='45187' card='30101' /><!-- kh_peggy + Candy Tornado -->
+		<combo output='45187' card='40093' /><!-- kh_peggy + Ice Cream Addict -->
 		<combo output='45136' card='20074' /><!-- kh_peggy + Anti-Seizure Meds -->
 		<combo output='45136' card='30090' /><!-- kh_peggy + Medicated Eye Drops -->
 		<combo output='45136' card='40081' /><!-- kh_peggy + Unlabeled Pills -->
@@ -3851,6 +3956,10 @@
 		<combo output='25118' card='30066' /><!-- ad_steve + Shrimp Dress -->
 		<combo output='25118' card='30065' /><!-- ad_steve + Shrimpy Shrimps -->
 		<!-- Addicted -->
+		<combo output='25212' card='40093' /><!-- ad_steve + Ice Cream Addict -->
+		<combo output='25212' card='30101' /><!-- ad_steve + Candy Tornado -->
+		<combo output='25212' card='30102' /><!-- ad_steve + Chunky Blastoffs Candy -->
+		<combo output='25212' card='20083' /><!-- ad_steve + Barry's Meds -->
 		<combo output='25152' card='20074' /><!-- ad_steve + Anti-Seizure Meds -->
 		<combo output='25152' card='30090' /><!-- ad_steve + Medicated Eye Drops -->
 		<combo output='25152' card='40081' /><!-- ad_steve + Unlabeled Pills -->
@@ -4172,6 +4281,10 @@
 		<combo output='25159' card='40035' /><!-- ad_klaus + Chemistry Teacher Peggy -->
 		<combo output='25159' card='40047' /><!-- ad_klaus + Student Lucky -->
 		<!-- Disguised -->
+		<combo output='25153' card='10090' /><!-- ad_klaus + Wedding Dress -->
+		<combo output='25153' card='30100' /><!-- ad_klaus + Costume Construction -->
+		<combo output='25153' card='40092' /><!-- ad_klaus + Fashion Board -->
+		<combo output='25153' card='50099' /><!-- ad_klaus + Replacement Shell -->
 		<combo output='25153' card='10085' /><!-- ad_klaus + Golden Goose -->
 		<combo output='25153' card='30092' /><!-- ad_klaus + Totally Normal Pants -->
 		<combo output='25153' card='40086' /><!-- ad_klaus + Hibachi Hat -->
@@ -4388,6 +4501,15 @@
 		<combo output='25052' card='60009' /> <!-- ad_klaus + Music = DJ Klaus -->
 		<combo output='25052' card='10029' /> <!-- ad_klaus + Red Shirt Blue Shirt = DJ Klaus -->
 		<combo output='25052' card='20037' /> <!-- ad_klaus + Rubberneckers = DJ Klaus -->
+		<!-- Addicted -->
+		<combo output='25210' card='20083' /><!-- ad_klaus + Barry's Meds -->
+		<combo output='25210' card='30102' /><!-- ad_klaus + Chunky Blastoffs Candy -->
+		<combo output='25210' card='30101' /><!-- ad_klaus + Candy Tornado -->
+		<combo output='25210' card='40093' /><!-- ad_klaus + Ice Cream Addict -->
+		<combo output='25210' card='20074' /><!-- ad_klaus + Anti-Seizure Meds -->
+		<combo output='25210' card='30090' /><!-- ad_klaus + Medicated Eye Drops -->
+		<combo output='25210' card='40081' /><!-- ad_klaus + Unlabeled Pills -->
+		<combo output='25210' card='40082' /><!-- ad_klaus + Mexican Drug Dealer -->
 		<combo output='25065' card='20061' /><!-- ad_klaus + Langley Soft Drug Store -->
 		<combo output='25065' card='30073' /><!-- ad_klaus + Halloween Candy -->
 		<combo output='25065' card='40063' /><!-- ad_klaus + Boggle Contraband -->
@@ -4478,6 +4600,17 @@
 		<combo output='25184' card='50012' /><!-- ad_hayley + Mom's Homestyle X-Cube 360 -->
 		<combo output='25184' card='60013' /><!-- ad_hayley + Toy -->
 		<!-- Disguised -->
+		<combo output='25209' card='10090' /><!-- ad_hayley + Wedding Dress -->
+		<combo output='25209' card='30100' /><!-- ad_hayley + Costume Construction -->
+		<combo output='25209' card='40092' /><!-- ad_hayley + Fashion Board -->
+		<combo output='25209' card='50099' /><!-- ad_hayley + Replacement Shell -->
+		<combo output='25209' card='20038' /><!-- ad_hayley + Roger's Sexy Shorts -->
+		<combo output='25209' card='30032' /><!-- ad_hayley + Bunny Costume -->
+		<combo output='25209' card='30040' /><!-- ad_hayley + Equestranaut Costume -->
+		<combo output='25209' card='40037' /><!-- ad_hayley + Ski Mask -->
+		<combo output='25209' card='50024' /><!-- ad_hayley + Pimparoo -->
+		<combo output='25209' card='50034' /><!-- ad_hayley + Doingg -->
+		<combo output='25209' card='50042' /><!-- ad_hayley + Lightspeed Briefs -->
 		<combo output='25088' card='10085' /><!-- ad_hayley + Golden Goose -->
 		<combo output='25088' card='30092' /><!-- ad_hayley + Totally Normal Pants -->
 		<combo output='25088' card='40086' /><!-- ad_hayley + Hibachi Hat -->
@@ -4545,6 +4678,10 @@
 		<combo output='25088' card='30066' /><!-- ad_hayley + Shrimp Dress -->
 		<combo output='25088' card='30065' /><!-- ad_hayley + Shrimpy Shrimps -->
 		<!-- Addicted -->
+		<combo output='25189' card='20083' /><!-- ad_hayley + Barry's Meds -->
+		<combo output='25189' card='30101' /><!-- ad_hayley + Candy Tornado -->
+		<combo output='25189' card='30102' /><!-- ad_hayley + Chunky Blastoffs Candy -->
+		<combo output='25189' card='40093' /><!-- ad_hayley + Ice Cream Addict -->
 		<combo output='25189' card='20074' /><!-- ad_hayley + Anti-Seizure Meds -->
 		<combo output='25189' card='30090' /><!-- ad_hayley + Medicated Eye Drops -->
 		<combo output='25189' card='40081' /><!-- ad_hayley + Unlabeled Pills -->
@@ -4789,6 +4926,10 @@
 	<character>
 		<name>ad_stan</name>
 		<!-- Disguised -->
+		<combo output='25194' card='10090' /><!-- ad_stan + Wedding Dress -->
+		<combo output='25194' card='30100' /><!-- ad_stan + Costume Construction -->
+		<combo output='25194' card='40092' /><!-- ad_stan + Fashion Board -->
+		<combo output='25194' card='50099' /><!-- ad_stan + Replacement Shell -->
 		<combo output='25194' card='10085' /><!-- ad_stan + Golden Goose -->
 		<combo output='25194' card='30092' /><!-- ad_stan + Totally Normal Pants -->
 		<combo output='25194' card='40086' /><!-- ad_stan + Hibachi Hat -->
@@ -4819,6 +4960,10 @@
 		<combo output='25182' card='40089' /><!-- ad_stan + Walking Man Exhibit -->
 		<combo output='25182' card='50094' /><!-- ad_stan + Museum of Really Modern Art -->
 		<!-- Addicted -->
+		<combo output='25172' card='20083' /><!-- ad_stan + Barry's Meds -->
+		<combo output='25172' card='30101' /><!-- ad_stan + Candy Tornado -->
+		<combo output='25172' card='30102' /><!-- ad_stan + Chunky Blastoffs Candy -->
+		<combo output='25172' card='40093' /><!-- ad_stan + Ice Cream Addict -->
 		<combo output='25172' card='20074' /><!-- ad_stan + Anti-Seizure Meds -->
 		<combo output='25172' card='30090' /><!-- ad_stan + Medicated Eye Drops -->
 		<combo output='25172' card='40081' /><!-- ad_stan + Unlabeled Pills -->
@@ -5197,6 +5342,10 @@
 		<combo output='25175' card='30021' /><!-- ad_bullock + Capoeira -->
 		<combo output='25175' card='50022' /><!-- ad_bullock + Arcturan Kung Fu -->
 		<!-- Disguised -->
+		<combo output='25154' card='10090' /><!-- ad_bullock + Wedding Dress -->
+		<combo output='25154' card='30100' /><!-- ad_bullock + Costume Construction -->
+		<combo output='25154' card='40092' /><!-- ad_bullock + Fashion Board -->
+		<combo output='25154' card='50099' /><!-- ad_bullock + Replacement Shell -->
 		<combo output='25154' card='10085' /><!-- ad_bullock + Golden Goose -->
 		<combo output='25154' card='30092' /><!-- ad_bullock + Totally Normal Pants -->
 		<combo output='25154' card='40086' /><!-- ad_bullock + Hibachi Hat -->
@@ -5389,6 +5538,10 @@
 		<combo output='25077' card='20030' /> <!-- ad_bullock + Beerwater = Drunk Bullock -->
 		<combo output='25077' card='50031' /> <!-- ad_bullock + Lo Brau = Drunk Bullock -->
 		<!-- Addicted -->
+		<combo output='25078' card='20083' /><!-- ad_bullock + Barry's Meds -->
+		<combo output='25078' card='30101' /><!-- ad_bullock + Candy Tornado -->
+		<combo output='25078' card='30102' /><!-- ad_bullock + Chunky Blastoffs Candy -->
+		<combo output='25078' card='40093' /><!-- ad_bullock + Ice Cream Addict -->
 		<combo output='25078' card='20074' /><!-- ad_bullock + Anti-Seizure Meds -->
 		<combo output='25078' card='30090' /><!-- ad_bullock + Medicated Eye Drops -->
 		<combo output='25078' card='40081' /><!-- ad_bullock + Unlabeled Pills -->
@@ -5498,6 +5651,10 @@
 		<combo output='25180' card='40066' /><!-- ad_roger + Giant Pandas -->
 		<combo output='25180' card='50075' /><!-- ad_roger + Robot Fox -->
 		<!-- Addicted -->
+		<combo output='25173' card='20083' /><!-- ad_roger + Barry's Meds -->
+		<combo output='25173' card='30101' /><!-- ad_roger + Candy Tornado -->
+		<combo output='25173' card='30102' /><!-- ad_roger + Chunky Blastoffs Candy -->
+		<combo output='25173' card='40093' /><!-- ad_roger + Ice Cream Addict -->
 		<combo output='25173' card='20074' /><!-- ad_roger + Anti-Seizure Meds -->
 		<combo output='25173' card='30090' /><!-- ad_roger + Medicated Eye Drops -->
 		<combo output='25173' card='40081' /><!-- ad_roger + Unlabeled Pills -->
@@ -5532,6 +5689,10 @@
 		<combo output='25112' card='40042' /><!-- ad_roger + Mr. Twilley -->
 		<combo output='25112' card='10035' /><!-- ad_roger + Buzzsaw -->
 		<!-- Disguised -->
+		<combo output='25106' card='10090' /><!-- ad_roger + Wedding Dress -->
+		<combo output='25106' card='30100' /><!-- ad_roger + Costume Construction -->
+		<combo output='25106' card='40092' /><!-- ad_roger + Fashion Board -->
+		<combo output='25106' card='50099' /><!-- ad_roger + Replacement Shell -->
 		<combo output='25087' card='10085' /><!-- ad_roger + Golden Goose -->
 		<combo output='25087' card='30092' /><!-- ad_roger + Totally Normal Pants -->
 		<combo output='25087' card='40086' /><!-- ad_roger + Hibachi Hat -->
@@ -5867,6 +6028,10 @@
 	<character>
 		<name>ad_francine</name>
 		<!-- Disguised -->
+		<combo output='25193' card='10090' /><!-- ad_francine + Wedding Dress -->
+		<combo output='25193' card='30100' /><!-- ad_francine + Costume Construction -->
+		<combo output='25193' card='40092' /><!-- ad_francine + Fashion Board -->
+		<combo output='25193' card='50099' /><!-- ad_francine + Replacement Shell -->
 		<combo output='25193' card='10085' /><!-- ad_francine + Golden Goose -->
 		<combo output='25193' card='30092' /><!-- ad_francine + Totally Normal Pants -->
 		<combo output='25193' card='40086' /><!-- ad_francine + Hibachi Hat -->
@@ -5954,6 +6119,10 @@
 		<combo output='25174' card='50044' /><!-- ad_francine + Diamond Crusher -->
 		<combo output='25174' card='50055' /><!-- ad_francine + Himalayan Observatory Monks -->
 		<!-- Addicted -->
+		<combo output='25211' card='20083' /><!-- ad_francine + Barry's Meds -->
+		<combo output='25211' card='30102' /><!-- ad_francine + Chunky Blastoffs Candy -->
+		<combo output='25211' card='30101' /><!-- ad_francine + Candy Tornado -->
+		<combo output='25211' card='40093' /><!-- ad_francine + Ice Cream Addict -->
 		<combo output='25171' card='20074' /><!-- ad_francine + Anti-Seizure Meds -->
 		<combo output='25171' card='30090' /><!-- ad_francine + Medicated Eye Drops -->
 		<combo output='25171' card='40081' /><!-- ad_francine + Unlabeled Pills -->
@@ -6234,6 +6403,193 @@
 		<combo output='25048' card='30033' /> <!-- ad_francine + Turkey Trot = Motocross Bicyclist Francine -->
 	</character>
 	<character>
+		<name>ad_snot</name>
+		<!-- Musical -->
+		<combo output='25201' card='10011' /><!-- ad_snot + Lois' Piano -->
+		<combo output='25201' card='10029' /><!-- ad_snot + Red Shirt Blue Shirt -->
+		<combo output='25201' card='10038' /><!-- ad_snot + Barbershop Vasectomy -->
+		<combo output='25201' card='10046' /><!-- ad_snot + K Pop Video -->
+		<combo output='25201' card='10055' /><!-- ad_snot + K Pop Cleveland -->
+		<combo output='25201' card='10070' /><!-- ad_snot + K Pop Joe -->
+		<combo output='25201' card='10088' /><!-- ad_snot + Karaoke Principal -->
+		<combo output='25201' card='20006' /><!-- ad_snot + Boyz 12 -->
+		<combo output='25201' card='20031' /><!-- ad_snot + Turnin Jeff -->
+		<combo output='25201' card='20037' /><!-- ad_snot + Rubberneckers -->
+		<combo output='25201' card='20057' /><!-- ad_snot + Troubadour Jeff -->
+		<combo output='25201' card='20072' /><!-- ad_snot + Roger Epstein Music -->
+		<combo output='25201' card='30010' /><!-- ad_snot + Fart School for the Gifted -->
+		<combo output='25201' card='30023' /><!-- ad_snot + Boyz 4 Now -->
+		<combo output='25201' card='30049' /><!-- ad_snot + Oldies with Goodies -->
+		<combo output='25201' card='30058' /><!-- ad_snot + Courtney's Dad -->
+		<combo output='25201' card='30059' /><!-- ad_snot + Fart School Jimmy Jr. -->
+		<combo output='25201' card='30070' /><!-- ad_snot + Roller Disco Courtney -->
+		<combo output='25201' card='30087' /><!-- ad_snot + 3 Is More Than 4 -->
+		<combo output='25201' card='30098' /><!-- ad_snot + DJ Elev8 -->
+		<combo output='25201' card='40007' /><!-- ad_snot + Bluegrass -->
+		<combo output='25201' card='40030' /><!-- ad_snot + Karaoke Khan -->
+		<combo output='25201' card='40036' /><!-- ad_snot + Big Mountain Fudge Cake -->
+		<combo output='25201' card='40046' /><!-- ad_snot + Earl's Guitars -->
+		<combo output='25201' card='40058' /><!-- ad_snot + 4 Skore -->
+		<combo output='25201' card='40078' /><!-- ad_snot + CD Warehouse -->
+		<combo output='25201' card='40091' /><!-- ad_snot + Mariachi Band -->
+		<combo output='25201' card='50008' /><!-- ad_snot + Holophonor Hits -->
+		<combo output='25201' card='50032' /><!-- ad_snot + Nibbler on the Roof -->
+		<combo output='25201' card='50041' /><!-- ad_snot + Pimp My Sleigh -->
+		<combo output='25201' card='50051' /><!-- ad_snot + Golden Fiddle -->
+		<combo output='25201' card='50064' /><!-- ad_snot + Karaoke Morbo -->
+		<combo output='25201' card='50087' /><!-- ad_snot + Robot Devil Band -->
+		<combo output='25201' card='50097' /><!-- ad_snot + Alien Bagpipes -->
+		<!-- Fighter -->
+		<combo output='25202' card='10037' /><!-- ad_snot + No Mercy Dojo -->
+		<combo output='25202' card='10061' /><!-- ad_snot + Quahog Martial Arts Academy -->
+		<combo output='25202' card='20021' /><!-- ad_snot + Dojo Biden -->
+		<combo output='25202' card='20029' /><!-- ad_snot + Samurai Toshi -->
+		<combo output='25202' card='20039' /><!-- ad_snot + Brian The Home Invader Lewis -->
+		<combo output='25202' card='20040' /><!-- ad_snot + Snot Rocket -->
+		<combo output='25202' card='20050' /><!-- ad_snot + Capoeira Reginald -->
+		<combo output='25202' card='20062' /><!-- ad_snot + Goth Dance Fighting -->
+		<combo output='25202' card='20075' /><!-- ad_snot + Presidential Fitness Toshi -->
+		<combo output='25202' card='30021' /><!-- ad_snot + Capoeira -->
+		<combo output='25202' card='30053' /><!-- ad_snot + Fashion Wrestling -->
+		<combo output='25202' card='30063' /><!-- ad_snot + That's My Parfait -->
+		<combo output='25202' card='30074' /><!-- ad_snot + Bernadette Baker -->
+		<combo output='25202' card='30091' /><!-- ad_snot + Float Kickers -->
+		<combo output='25202' card='40021' /><!-- ad_snot + Women's Self Defense -->
+		<combo output='25202' card='40039' /><!-- ad_snot + Arlen YMCA -->
+		<combo output='25202' card='40050' /><!-- ad_snot + Stop Hittin' Yourself -->
+		<combo output='25202' card='40064' /><!-- ad_snot + Sensei Ed's Karate Dojo -->
+		<combo output='25202' card='40083' /><!-- ad_snot + Stickin' Khan -->
+		<combo output='25202' card='50022' /><!-- ad_snot + Arcturan Kung Fu -->
+		<combo output='25202' card='50044' /><!-- ad_snot + Diamond Crusher -->
+		<combo output='25202' card='50055' /><!-- ad_snot + Himalayan Observatory Monks -->
+		<combo output='25202' card='50071' /><!-- ad_snot + Triple Mom Slap -->
+		<combo output='25202' card='50072' /><!-- ad_snot + Big Boy Karate -->
+		<combo output='25202' card='50089' /><!-- ad_snot + Clone Fight -->
+		<!-- Disguised -->
+		<combo output='25203' card='10014' /><!-- ad_snot + Fairy Godmother -->
+		<combo output='25203' card='10040' /><!-- ad_snot + Cupid Cleveland -->
+		<combo output='25203' card='10047' /><!-- ad_snot + Bedtime Stories -->
+		<combo output='25203' card='10085' /><!-- ad_snot + Golden Goose -->
+		<combo output='25203' card='10090' /><!-- ad_snot + Wedding Dress -->
+		<combo output='25203' card='20010' /><!-- ad_snot + Roger's Closet -->
+		<combo output='25203' card='20024' /><!-- ad_snot + Scary Mask -->
+		<combo output='25203' card='20033' /><!-- ad_snot + Stan's Haunted House -->
+		<combo output='25203' card='20038' /><!-- ad_snot + Roger's Sexy Shorts -->
+		<combo output='25203' card='20052' /><!-- ad_snot + Furry Convention -->
+		<combo output='25203' card='20069' /><!-- ad_snot + Flower Boys -->
+		<combo output='25203' card='30009' /><!-- ad_snot + Burger Suit -->
+		<combo output='25203' card='30031' /><!-- ad_snot + Book of Spells -->
+		<combo output='25203' card='30032' /><!-- ad_snot + Bunny Costume -->
+		<combo output='25203' card='30040' /><!-- ad_snot + Equestranaut Costume -->
+		<combo output='25203' card='30050' /><!-- ad_snot + Jimmy Jr. Horse Costume -->
+		<combo output='25203' card='30065' /><!-- ad_snot + Shrimpy Shrimps -->
+		<combo output='25203' card='30066' /><!-- ad_snot + Shrimp Dress -->
+		<combo output='25203' card='30080' /><!-- ad_snot + Winthrop Manor -->
+		<combo output='25203' card='30081' /><!-- ad_snot + Wagstaff Whaler -->
+		<combo output='25203' card='30092' /><!-- ad_snot + Totally Normal Pants -->
+		<combo output='25203' card='40024' /><!-- ad_snot + Disco Murder Mystery -->
+		<combo output='25203' card='40025' /><!-- ad_snot + Witch Costume -->
+		<combo output='25203' card='40037' /><!-- ad_snot + Ski Mask -->
+		<combo output='25203' card='40053' /><!-- ad_snot + Hottyz Salon -->
+		<combo output='25203' card='40070' /><!-- ad_snot + Pimp Hat -->
+		<combo output='25203' card='40086' /><!-- ad_snot + Hibachi Hat -->
+		<combo output='25203' card='50009' /><!-- ad_snot + Marmoset Pajamas -->
+		<combo output='25203' card='50024' /><!-- ad_snot + Pimparoo -->
+		<combo output='25203' card='50025' /><!-- ad_snot + Protective Suits -->
+		<combo output='25203' card='50034' /><!-- ad_snot + Doingg -->
+		<combo output='25203' card='50042' /><!-- ad_snot + Lightspeed Briefs -->
+		<combo output='25203' card='50059' /><!-- ad_snot + The Borax Kid -->
+		<combo output='25203' card='50092' /><!-- ad_snot + Fake Nose -->
+		<combo output='25203' card='50099' /><!-- ad_snot + Replacement Shell -->
+		<combo output='25203' card='40092' /><!-- ad_snot + Fashion Board -->
+		<combo output='25203' card='30100' /><!-- ad_snot + Costume Construction -->
+		<!-- Addicted -->
+		<combo output='25204' card='20083' /><!-- ad_snot + Barry's Meds -->
+		<combo output='25204' card='30101' /><!-- ad_snot + Candy Tornado -->
+		<combo output='25204' card='30102' /><!-- ad_snot + Chunky Blastoffs Candy -->
+		<combo output='25204' card='40093' /><!-- ad_snot + Ice Cream Addict -->
+		<combo output='25204' card='10063' /><!-- ad_snot + Toad Licking -->
+		<combo output='25204' card='10064' /><!-- ad_snot + Baked Evil Monkey -->
+		<combo output='25204' card='10003' /><!-- ad_snot + Toad Licking -->
+		<combo output='25204' card='10065' /><!-- ad_snot + Olive Addict -->
+		<combo output='25204' card='20014' /><!-- ad_snot + Crack -->
+		<combo output='25204' card='20051' /><!-- ad_snot + Prescription Weed -->
+		<combo output='25204' card='20061' /><!-- ad_snot + Langley Soft Drug Store -->
+		<combo output='25204' card='20074' /><!-- ad_snot + Anti-Seizure Meds -->
+		<combo output='25204' card='30018' /><!-- ad_snot + Painkillers -->
+		<combo output='25204' card='30037' /><!-- ad_snot + Butterscotch Cookies -->
+		<combo output='25204' card='30064' /><!-- ad_snot + Chinchilla Addict Wayne -->
+		<combo output='25204' card='30073' /><!-- ad_snot + Halloween Candy -->
+		<combo output='25204' card='30090' /><!-- ad_snot + Medicated Eye Drops -->
+		<combo output='25204' card='40015' /><!-- ad_snot + Manitoba Cigarettes -->
+		<combo output='25204' card='40051' /><!-- ad_snot + Stems and Seeds -->
+		<combo output='25204' card='40052' /><!-- ad_snot + Leon Petard -->
+		<combo output='25204' card='40063' /><!-- ad_snot + Boggle Contraband -->
+		<combo output='25204' card='40081' /><!-- ad_snot + Unlabeled Pills -->
+		<combo output='25204' card='40082' /><!-- ad_snot + Mexican Drug Dealer -->
+		<combo output='25204' card='50056' /><!-- ad_snot + Hypnotoad -->
+		<combo output='25204' card='50057' /><!-- ad_snot + Refreshing Crack -->
+		<combo output='25204' card='50069' /><!-- ad_snot + Human Horn -->
+		<combo output='25204' card='50070' /><!-- ad_snot + Jacked on Bots -->
+		<!-- Educated -->
+		<combo output='25205' card='10013' /><!-- ad_snot + James Woods High School -->
+		<combo output='25205' card='10058' /><!-- ad_snot + James Woods High School -->
+		<combo output='25205' card='10044' /><!-- ad_snot + Principal Shepard -->
+		<combo output='25205' card='10045' /><!-- ad_snot + Preschool Grad Stewie -->
+		<combo output='25205' card='10057' /><!-- ad_snot + Neil Goldman -->
+		<combo output='25205' card='10080' /><!-- ad_snot + Quahog College -->
+		<combo output='25205' card='10068' /><!-- ad_snot + Quahog Preschool -->
+		<combo output='25205' card='20011' /><!-- ad_snot + Pearl Bailey High School -->
+		<combo output='25205' card='20036' /><!-- ad_snot + Professor Baxter -->
+		<combo output='25205' card='20046' /><!-- ad_snot + Stuffington Academy -->
+		<combo output='25205' card='20054' /><!-- ad_snot + Groff Community College -->
+		<combo output='25205' card='20065' /><!-- ad_snot + Pendlingtonton Academy -->
+		<combo output='25205' card='20077' /><!-- ad_snot + Headmistress Mahoney -->
+		<combo output='25205' card='30016' /><!-- ad_snot + Wagstaff School -->
+		<combo output='25205' card='30046' /><!-- ad_snot + Mr. Frond -->
+		<combo output='25205' card='30047' /><!-- ad_snot + Erotic Friend Fiction -->
+		<combo output='25205' card='30060' /><!-- ad_snot + Ms. LaBonz -->
+		<combo output='25205' card='30068' /><!-- ad_snot + Henry Haber Debater -->
+		<combo output='25205' card='30078' /><!-- ad_snot + Alpha House -->
+		<combo output='25205' card='30094' /><!-- ad_snot + Beta House -->
+		<combo output='25205' card='40011' /><!-- ad_snot + Tom Landry Middle School -->
+		<combo output='25205' card='40035' /><!-- ad_snot + Chemistry Teacher Peggy -->
+		<combo output='25205' card='40047' /><!-- ad_snot + Student Lucky -->
+		<combo output='25205' card='40056' /><!-- ad_snot + Professor Lerner -->
+		<combo output='25205' card='40067' /><!-- ad_snot + Staubach Elementary -->
+		<combo output='25205' card='40088' /><!-- ad_snot + Standardized Tests -->
+		<combo output='25205' card='50007' /><!-- ad_snot + Mars University -->
+		<combo output='25205' card='50039' /><!-- ad_snot + Wozniak Nerd Academy -->
+		<combo output='25205' card='50040' /><!-- ad_snot + Bending School -->
+		<combo output='25205' card='50052' /><!-- ad_snot + Dr. Cahill -->
+		<combo output='25205' card='50061' /><!-- ad_snot + Dr. Banjo -->
+		<combo output='25205' card='50077' /><!-- ad_snot + Josh Gedgie Boy Scientist -->
+		<combo output='25205' card='50093' /><!-- ad_snot + Climate Change -->
+		<!-- Toy -->
+		<combo output='25206' card='10004' /><!-- ad_snot + Gamer -->
+		<combo output='25206' card='10008' /><!-- ad_snot + Rupert -->
+		<combo output='25206' card='10084' /><!-- ad_snot + Rupert Recalls -->
+		<combo output='25206' card='10089' /><!-- ad_snot + Recall Replacement -->
+		<combo output='25206' card='20018' /><!-- ad_snot + Steve's Toys -->
+		<combo output='25206' card='20081' /><!-- ad_snot + Mini Car Racing -->
+		<combo output='25206' card='30013' /><!-- ad_snot + Kuchi Kopi -->
+		<combo output='25206' card='30017' /><!-- ad_snot + Burgerboss -->
+		<combo output='25206' card='30034' /><!-- ad_snot + Wireless Audio Transmitter -->
+		<combo output='25206' card='30086' /><!-- ad_snot + Bouncy Fun Castle -->
+		<combo output='25206' card='30085' /><!-- ad_snot + Bouncy Fun Castle -->
+		<combo output='25206' card='30099' /><!-- ad_snot + Wood Chuck -->
+		<combo output='25206' card='40014' /><!-- ad_snot + Pro-Pain! -->
+		<combo output='25206' card='40019' /><!-- ad_snot + Manger Babies -->
+		<combo output='25206' card='40077' /><!-- ad_snot + Chip -->
+		<combo output='25206' card='40076' /><!-- ad_snot + Chip -->
+		<combo output='25206' card='40079' /><!-- ad_snot + Pro-Pain! -->
+		<combo output='25206' card='50012' /><!-- ad_snot + Mom's Homestyle X-Cube 360 -->
+		<combo output='25206' card='50086' /><!-- ad_snot + Fantasy Figurines -->
+		<combo output='25206' card='50085' /><!-- ad_snot + Fantasy Figurines -->
+		<combo output='25206' card='50098' /><!-- ad_snot + Lovey Bears -->
+		<combo output='25206' card='60013' /><!-- ad_snot + Toy -->
+	</character>
+	<character>
 		<name>bb_teddy</name>
 		<!-- Toy -->
 		<combo output='35209' card='10089' /><!-- bb_teddy + Recall Replacement -->
@@ -6362,6 +6718,10 @@
 		<combo output='35157' card='40035' /><!-- bb_teddy + Chemistry Teacher Peggy -->
 		<combo output='35157' card='40047' /><!-- bb_teddy + Student Lucky -->
 		<!-- Disguised -->
+		<combo output='35153' card='10090' /><!-- bb_teddy + Wedding Dress -->
+		<combo output='35153' card='30100' /><!-- bb_teddy + Costume Construction -->
+		<combo output='35153' card='40092' /><!-- bb_teddy + Fashion Board -->
+		<combo output='35153' card='50099' /><!-- bb_teddy + Replacement Shell -->
 		<combo output='35153' card='10085' /><!-- bb_teddy + Golden Goose -->
 		<combo output='35153' card='30092' /><!-- bb_teddy + Totally Normal Pants -->
 		<combo output='35153' card='40086' /><!-- bb_teddy + Hibachi Hat -->
@@ -6386,6 +6746,10 @@
 		<combo output='35153' card='50034' /><!-- bb_teddy + Doingg -->
 		<combo output='35153' card='50042' /><!-- bb_teddy + Lightspeed Briefs -->
 		<!-- Addicted -->
+		<combo output='35150' card='20083' /><!-- bb_teddy + Barry's Meds -->
+		<combo output='35150' card='30101' /><!-- bb_teddy + Candy Tornado -->
+		<combo output='35150' card='30102' /><!-- bb_teddy + Chunky Blastoffs Candy -->
+		<combo output='35150' card='40093' /><!-- bb_teddy + Ice Cream Addict -->
 		<combo output='35150' card='20074' /><!-- bb_teddy + Anti-Seizure Meds -->
 		<combo output='35150' card='30090' /><!-- bb_teddy + Medicated Eye Drops -->
 		<combo output='35150' card='40081' /><!-- bb_teddy + Unlabeled Pills -->
@@ -6639,6 +7003,10 @@
 		<combo output='35080' card='40076' /><!-- bb_gene + Chip -->
 		<combo output='35080' card='10084' /><!-- bb_gene + Rupert Recalls -->
 		<!-- Disguised -->
+		<combo output='35119' card='10090' /><!-- bb_gene + Wedding Dress -->
+		<combo output='35119' card='30100' /><!-- bb_gene + Costume Construction -->
+		<combo output='35119' card='40092' /><!-- bb_gene + Fashion Board -->
+		<combo output='35119' card='50099' /><!-- bb_gene + Replacement Shell -->
 		<combo output='35119' card='10085' /><!-- bb_gene + Golden Goose -->
 		<combo output='35119' card='30092' /><!-- bb_gene + Totally Normal Pants -->
 		<combo output='35119' card='40086' /><!-- bb_gene + Hibachi Hat -->
@@ -6693,6 +7061,10 @@
 		<combo output='35119' card='30066' /><!-- bb_gene + Shrimp Dress -->
 		<combo output='35119' card='30065' /><!-- bb_gene + Shrimpy Shrimps -->
 		<!-- Addicted -->
+		<combo output='35149' card='20083' /><!-- bb_gene + Barry's Meds -->
+		<combo output='35149' card='30101' /><!-- bb_gene + Candy Tornado -->
+		<combo output='35149' card='30102' /><!-- bb_gene + Chunky Blastoffs Candy -->
+		<combo output='35149' card='40093' /><!-- bb_gene + Ice Cream Addict -->
 		<combo output='35149' card='20074' /><!-- bb_gene + Anti-Seizure Meds -->
 		<combo output='35149' card='30090' /><!-- bb_gene + Medicated Eye Drops -->
 		<combo output='35149' card='40081' /><!-- bb_gene + Unlabeled Pills -->
@@ -6991,6 +7363,10 @@
 	<character>
 		<name>bb_linda</name>
 		<!-- Disguised -->
+		<combo output='35197' card='10090' /><!-- bb_linda + Wedding Dress -->
+		<combo output='35197' card='30100' /><!-- bb_linda + Costume Construction -->
+		<combo output='35197' card='40092' /><!-- bb_linda + Fashion Board -->
+		<combo output='35197' card='50099' /><!-- bb_linda + Replacement Shell -->
 		<combo output='35197' card='10085' /><!-- bb_linda + Golden Goose -->
 		<combo output='35197' card='30092' /><!-- bb_linda + Totally Normal Pants -->
 		<combo output='35197' card='40086' /><!-- bb_linda + Hibachi Hat -->
@@ -7041,6 +7417,10 @@
 		<combo output='35173' card='50071' /><!-- bb_linda + Triple Mom Slap -->
 		<combo output='35173' card='50072' /><!-- bb_linda + Big Boy Karate -->
 		<!-- Addicted -->
+		<combo output='35171' card='20083' /><!-- bb_linda + Barry's Meds -->
+		<combo output='35171' card='30101' /><!-- bb_linda + Candy Tornado -->
+		<combo output='35171' card='30102' /><!-- bb_linda + Chunky Blastoffs Candy -->
+		<combo output='35171' card='40093' /><!-- bb_linda + Ice Cream Addict -->
 		<combo output='35171' card='20074' /><!-- bb_linda + Anti-Seizure Meds -->
 		<combo output='35171' card='30090' /><!-- bb_linda + Medicated Eye Drops -->
 		<combo output='35171' card='40081' /><!-- bb_linda + Unlabeled Pills -->
@@ -7416,6 +7796,10 @@
 		<combo output='35177' card='20063' /><!-- bb_bob + Power Gym -->
 		<combo output='35177' card='10075' /><!-- bb_bob + Quahog Public Golf Course -->
 		<!-- Addicted -->
+		<combo output='35170' card='20083' /><!-- bb_bob + Barry's Meds -->
+		<combo output='35170' card='30101' /><!-- bb_bob + Candy Tornado -->
+		<combo output='35170' card='30102' /><!-- bb_bob + Chunky Blastoffs Candy -->
+		<combo output='35170' card='40093' /><!-- bb_bob + Ice Cream Addict -->
 		<combo output='35170' card='20074' /><!-- bb_bob + Anti-Seizure Meds -->
 		<combo output='35170' card='30090' /><!-- bb_bob + Medicated Eye Drops -->
 		<combo output='35170' card='40081' /><!-- bb_bob + Unlabeled Pills -->
@@ -7462,6 +7846,10 @@
 		<combo output='35160' card='30042' /><!-- bb_bob + Reflections -->
 		<combo output='35160' card='50036' /><!-- bb_bob + Sad Clown -->
 		<!-- Disguised -->
+		<combo output='35154' card='10090' /><!-- bb_bob + Wedding Dress -->
+		<combo output='35154' card='30100' /><!-- bb_bob + Costume Construction -->
+		<combo output='35154' card='40092' /><!-- bb_bob + Fashion Board -->
+		<combo output='35154' card='50099' /><!-- bb_bob + Replacement Shell -->
 		<combo output='35154' card='10085' /><!-- bb_bob + Golden Goose -->
 		<combo output='35154' card='30092' /><!-- bb_bob + Totally Normal Pants -->
 		<combo output='35154' card='40086' /><!-- bb_bob + Hibachi Hat -->
@@ -7788,6 +8176,10 @@
 		<combo output='35186' card='40076' /><!-- bb_louise + Chip -->
 		<combo output='35186' card='10084' /><!-- bb_louise + Rupert Recalls -->
 		<!-- Disguised -->
+		<combo output='35183' card='10090' /><!-- bb_louise + Wedding Dress -->
+		<combo output='35183' card='30100' /><!-- bb_louise + Costume Construction -->
+		<combo output='35183' card='40092' /><!-- bb_louise + Fashion Board -->
+		<combo output='35183' card='50099' /><!-- bb_louise + Replacement Shell -->
 		<combo output='35183' card='10085' /><!-- bb_louise + Golden Goose -->
 		<combo output='35183' card='30092' /><!-- bb_louise + Totally Normal Pants -->
 		<combo output='35183' card='40086' /><!-- bb_louise + Hibachi Hat -->
@@ -7841,6 +8233,10 @@
 		<combo output='35104' card='30066' /><!-- bb_louise + Shrimp Dress -->
 		<combo output='35104' card='30065' /><!-- bb_louise + Shrimpy Shrimps -->
 		<!-- Addicted -->
+		<combo output='35151' card='20083' /><!-- bb_louise + Barry's Meds -->
+		<combo output='35151' card='30101' /><!-- bb_louise + Candy Tornado -->
+		<combo output='35151' card='30102' /><!-- bb_louise + Chunky Blastoffs Candy -->
+		<combo output='35151' card='40093' /><!-- bb_louise + Ice Cream Addict -->
 		<combo output='35151' card='20074' /><!-- bb_louise + Anti-Seizure Meds -->
 		<combo output='35151' card='30090' /><!-- bb_louise + Medicated Eye Drops -->
 		<combo output='35151' card='40081' /><!-- bb_louise + Unlabeled Pills -->
@@ -8358,6 +8754,10 @@
 		<combo output='35200' card='50040' /><!-- bb_jimmyjr + Bending School -->
 		<combo output='35200' card='50052' /><!-- bb_jimmyjr + Dr. Cahill -->
 		<!-- Disguised -->
+		<combo output='35196' card='10090' /><!-- bb_jimmyjr + Wedding Dress -->
+		<combo output='35196' card='30100' /><!-- bb_jimmyjr + Costume Construction -->
+		<combo output='35196' card='40092' /><!-- bb_jimmyjr + Fashion Board -->
+		<combo output='35196' card='50099' /><!-- bb_jimmyjr + Replacement Shell -->
 		<combo output='35196' card='10085' /><!-- bb_jimmyjr + Golden Goose -->
 		<combo output='35196' card='30092' /><!-- bb_jimmyjr + Totally Normal Pants -->
 		<combo output='35196' card='40086' /><!-- bb_jimmyjr + Hibachi Hat -->
@@ -8429,6 +8829,10 @@
 		<combo output='35190' card='40038' /><!-- bb_JimmyJr + Yogi Victor -->
 		<combo output='35190' card='40031' /><!-- bb_JimmyJr + The Stingers -->
 		<!-- Addicted -->
+		<combo output='35191' card='20083' /><!-- bb_jimmyjr + Barry's Meds -->
+		<combo output='35191' card='30101' /><!-- bb_jimmyjr + Candy Tornado -->
+		<combo output='35191' card='30102' /><!-- bb_jimmyjr + Chunky Blastoffs Candy -->
+		<combo output='35191' card='40093' /><!-- bb_jimmyjr + Ice Cream Addict -->
 		<combo output='35191' card='20074' /><!-- bb_jimmyjr + Anti-Seizure Meds -->
 		<combo output='35191' card='30090' /><!-- bb_jimmyjr + Medicated Eye Drops -->
 		<combo output='35191' card='40081' /><!-- bb_jimmyjr + Unlabeled Pills -->
@@ -8539,6 +8943,10 @@
 		<combo output='45022' card='40076' /><!-- kh_hank + Chip -->
 		<combo output='45022' card='10084' /><!-- kh_hank + Rupert Recalls -->
 		<!-- Disguised -->
+		<combo output='45111' card='10090' /><!-- kh_hank + Wedding Dress -->
+		<combo output='45111' card='30100' /><!-- kh_hank + Costume Construction -->
+		<combo output='45111' card='40092' /><!-- kh_hank + Fashion Board -->
+		<combo output='45111' card='50099' /><!-- kh_hank + Replacement Shell -->
 		<combo output='45111' card='10085' /><!-- kh_hank + Golden Goose -->
 		<combo output='45111' card='30092' /><!-- kh_hank + Totally Normal Pants -->
 		<combo output='45111' card='40086' /><!-- kh_hank + Hibachi Hat -->
@@ -8669,6 +9077,10 @@
 		<combo output='45111' card='30066' /><!-- kh_hank + Shrimp Dress -->
 		<combo output='45111' card='30065' /><!-- kh_hank + Shrimpy Shrimps -->
 		<!-- Addicted -->
+		<combo output='45186' card='20083' /><!-- kh_hank + Barry's Meds -->
+		<combo output='45186' card='30102' /><!-- kh_hank + Chunky Blastoffs Candy -->
+		<combo output='45186' card='30101' /><!-- kh_hank + Candy Tornado -->
+		<combo output='45186' card='40093' /><!-- kh_hank + Ice Cream Addict -->
 		<combo output='45136' card='20074' /><!-- kh_hank + Anti-Seizure Meds -->
 		<combo output='45136' card='30090' /><!-- kh_hank + Medicated Eye Drops -->
 		<combo output='45136' card='40081' /><!-- kh_hank + Unlabeled Pills -->
@@ -8936,6 +9348,10 @@
 		<combo output='45067' card='40014' /><!-- kh_dale + Pro-Pain! -->
 		<combo output='45067' card='50012' /><!-- kh_dale + Mom's Homestyle X-Cube 360 -->
 		<!-- Disguised -->
+		<combo output='45171' card='10090' /><!-- kh_dale + Wedding Dress -->
+		<combo output='45171' card='30100' /><!-- kh_dale + Costume Construction -->
+		<combo output='45171' card='40092' /><!-- kh_dale + Fashion Board -->
+		<combo output='45171' card='50099' /><!-- kh_dale + Replacement Shell -->
 		<combo output='45171' card='10085' /><!-- kh_dale + Golden Goose -->
 		<combo output='45171' card='30092' /><!-- kh_dale + Totally Normal Pants -->
 		<combo output='45171' card='40086' /><!-- kh_dale + Hibachi Hat -->
@@ -8967,6 +9383,10 @@
 		<combo output='45162' card='50022' /><!-- kh_dale + Arcturan Kung Fu -->
 		<combo output='45162' card='50044' /><!-- kh_dale + Diamond Crusher -->
 		<!-- Addicted -->
+		<combo output='45160' card='20083' /><!-- kh_dale + Barry's Meds -->
+		<combo output='45160' card='30101' /><!-- kh_dale + Candy Tornado -->
+		<combo output='45160' card='30102' /><!-- kh_dale + Chunky Blastoffs Candy -->
+		<combo output='45160' card='40093' /><!-- kh_dale + Ice Cream Addict -->
 		<combo output='45160' card='20074' /><!-- kh_dale + Anti-Seizure Meds -->
 		<combo output='45160' card='30090' /><!-- kh_dale + Medicated Eye Drops -->
 		<combo output='45160' card='40081' /><!-- kh_dale + Unlabeled Pills -->
@@ -9277,6 +9697,10 @@
 	<character>
 		<name>kh_bill</name>
 		<!-- Addicted -->
+		<combo output='45177' card='20083' /><!-- kh_bill + Barry's Meds -->
+		<combo output='45177' card='30101' /><!-- kh_bill + Candy Tornado -->
+		<combo output='45177' card='30102' /><!-- kh_bill + Chunky Blastoffs Candy -->
+		<combo output='45177' card='40093' /><!-- kh_bill + Ice Cream Addict -->
 		<combo output='45177' card='20074' /><!-- kh_bill + Anti-Seizure Meds -->
 		<combo output='45177' card='30090' /><!-- kh_bill + Medicated Eye Drops -->
 		<combo output='45177' card='40081' /><!-- kh_bill + Unlabeled Pills -->
@@ -9323,6 +9747,10 @@
 		<combo output='45002' card='40014' /><!-- kh_bill + Pro-Pain! -->
 		<combo output='45002' card='50012' /><!-- kh_bill + Mom's Homestyle X-Cube 360 -->
 		<!-- Disguised -->
+		<combo output='45140' card='10090' /><!-- kh_bill + Wedding Dress -->
+		<combo output='45140' card='30100' /><!-- kh_bill + Costume Construction -->
+		<combo output='45140' card='40092' /><!-- kh_bill + Fashion Board -->
+		<combo output='45140' card='50099' /><!-- kh_bill + Replacement Shell -->
 		<combo output='45140' card='10085' /><!-- kh_bill + Golden Goose -->
 		<combo output='45140' card='30092' /><!-- kh_bill + Totally Normal Pants -->
 		<combo output='45140' card='40086' /><!-- kh_bill + Hibachi Hat -->
@@ -9680,6 +10108,10 @@
 		<combo output='45141' card='50048' /><!-- kh_boomhauer + Sacrificial Robot Goat -->
 		<combo output='45141' card='50060' /><!-- kh_boomhauer + Spirit -->	
 		<!-- Disguised -->
+		<combo output='45139' card='10090' /><!-- kh_boomhauer + Wedding Dress -->
+		<combo output='45139' card='30100' /><!-- kh_boomhauer + Costume Construction -->
+		<combo output='45139' card='40092' /><!-- kh_boomhauer + Fashion Board -->
+		<combo output='45139' card='50099' /><!-- kh_boomhauer + Replacement Shell -->
 		<combo output='45139' card='10085' /><!-- kh_boomhauer + Golden Goose -->
 		<combo output='45139' card='30092' /><!-- kh_boomhauer + Totally Normal Pants -->
 		<combo output='45139' card='40086' /><!-- kh_boomhauer + Hibachi Hat -->
@@ -9707,6 +10139,10 @@
 		<combo output='45139' card='20033' /><!-- kh_boomhauer + Stan's Haunted House -->
 		<combo output='45139' card='30031' /><!-- kh_boomhauer + Book of Spells -->
 		<!-- Addicted -->
+		<combo output='45137' card='20083' /><!-- kh_boomhauer + Barry's Meds -->
+		<combo output='45137' card='30101' /><!-- kh_boomhauer + Candy Tornado -->
+		<combo output='45137' card='30102' /><!-- kh_boomhauer + Chunky Blastoffs Candy -->
+		<combo output='45137' card='40093' /><!-- kh_boomhauer + Ice Cream Addict -->
 		<combo output='45137' card='20074' /><!-- kh_boomhauer + Anti-Seizure Meds -->
 		<combo output='45137' card='30090' /><!-- kh_boomhauer + Medicated Eye Drops -->
 		<combo output='45137' card='40081' /><!-- kh_boomhauer + Unlabeled Pills -->
@@ -9958,6 +10394,10 @@
 		<combo output='45149' card='50051' /><!-- kh_bobby + Golden Fiddle -->
 		<combo output='45149' card='50041' /><!-- kh_bobby + Pimp My Sleigh -->
 		<!-- Disguised -->
+		<combo output='45110' card='10090' /><!-- kh_bobby + Wedding Dress -->
+		<combo output='45110' card='30100' /><!-- kh_bobby + Costume Construction -->
+		<combo output='45110' card='40092' /><!-- kh_bobby + Fashion Board -->
+		<combo output='45110' card='50099' /><!-- kh_bobby + Replacement Shell -->
 		<combo output='45110' card='10085' /><!-- kh_bobby + Golden Goose -->
 		<combo output='45110' card='30092' /><!-- kh_bobby + Totally Normal Pants -->
 		<combo output='45110' card='40086' /><!-- kh_bobby + Hibachi Hat -->
@@ -9972,6 +10412,10 @@
 		<combo output='45110' card='30066' /><!-- kh_bobby + Shrimp Dress -->
 		<combo output='45110' card='30065' /><!-- kh_bobby + Shrimpy Shrimps -->
 		<!-- Addicted -->
+		<combo output='45188' card='20083' /><!-- kh_bobby + Barry's Meds -->
+		<combo output='45188' card='30102' /><!-- kh_bobby + Chunky Blastoffs Candy -->
+		<combo output='45188' card='30101' /><!-- kh_bobby + Candy Tornado -->
+		<combo output='45188' card='40093' /><!-- kh_bobby + Ice Cream Addict -->
 		<combo output='45136' card='20074' /><!-- kh_bobby + Anti-Seizure Meds -->
 		<combo output='45136' card='30090' /><!-- kh_bobby + Medicated Eye Drops -->
 		<combo output='45136' card='40081' /><!-- kh_bobby + Unlabeled Pills -->
@@ -10337,6 +10781,10 @@
 		<combo output='45164' card='50043' /><!-- kh_luanne + Terrestial Cycling -->
 		<combo output='45164' card='50053' /><!-- kh_luanne + Doubles Ping Pong -->	
 		<!-- Addicted -->
+		<combo output='45159' card='20083' /><!-- kh_luanne + Barry's Meds -->
+		<combo output='45159' card='30101' /><!-- kh_luanne + Candy Tornado -->
+		<combo output='45159' card='30102' /><!-- kh_luanne + Chunky Blastoffs Candy -->
+		<combo output='45159' card='40093' /><!-- kh_luanne + Ice Cream Addict -->
 		<combo output='45159' card='20074' /><!-- kh_luanne + Anti-Seizure Meds -->
 		<combo output='45159' card='30090' /><!-- kh_luanne + Medicated Eye Drops -->
 		<combo output='45159' card='40081' /><!-- kh_luanne + Unlabeled Pills -->
@@ -10416,6 +10864,10 @@
 		<combo output='45144' card='40035' /><!-- kh_luanne + Chemistry Teacher Peggy -->
 		<combo output='45144' card='40047' /><!-- kh_luanne + Student Lucky -->
 		<!-- Disguised -->
+		<combo output='45138' card='10090' /><!-- kh_luanne + Wedding Dress -->
+		<combo output='45138' card='30100' /><!-- kh_luanne + Costume Construction -->
+		<combo output='45138' card='40092' /><!-- kh_luanne + Fashion Board -->
+		<combo output='45138' card='50099' /><!-- kh_luanne + Replacement Shell -->
 		<combo output='45138' card='10085' /><!-- kh_luanne + Golden Goose -->
 		<combo output='45138' card='30092' /><!-- kh_luanne + Totally Normal Pants -->
 		<combo output='45138' card='40086' /><!-- kh_luanne + Hibachi Hat -->
@@ -10521,6 +10973,10 @@
 	<character>
 		<name>ft_bender</name>
 		<!-- Disguised -->
+		<combo output='55195' card='10090' /><!-- ft_bender + Wedding Dress -->
+		<combo output='55195' card='30100' /><!-- ft_bender + Costume Construction -->
+		<combo output='55195' card='40092' /><!-- ft_bender + Fashion Board -->
+		<combo output='55195' card='50099' /><!-- ft_bender + Replacement Shell -->
 		<combo output='55195' card='10085' /><!-- ft_bender + Golden Goose -->
 		<combo output='55195' card='30092' /><!-- ft_bender + Totally Normal Pants -->
 		<combo output='55195' card='40086' /><!-- ft_bender + Hibachi Hat -->
@@ -10543,6 +10999,10 @@
 		<combo output='55185' card='40076' /><!-- ft_bender + Chip -->
 		<combo output='55185' card='10084' /><!-- ft_bender + Rupert Recalls -->
 		<!-- Addicted -->
+		<combo output='55167' card='20083' /><!-- ft_bender + Barry's Meds -->
+		<combo output='55167' card='30101' /><!-- ft_bender + Candy Tornado -->
+		<combo output='55167' card='30102' /><!-- ft_bender + Chunky Blastoffs Candy -->
+		<combo output='55167' card='40093' /><!-- ft_bender + Ice Cream Addict -->
 		<combo output='55167' card='20074' /><!-- ft_bender + Anti-Seizure Meds -->
 		<combo output='55167' card='30090' /><!-- ft_bender + Medicated Eye Drops -->
 		<combo output='55167' card='40081' /><!-- ft_bender + Unlabeled Pills -->
@@ -10948,6 +11408,10 @@
 		<combo output='55186' card='40014' /><!-- ft_farnsworth + Pro-Pain! -->
 		<combo output='55186' card='50012' /><!-- ft_farnsworth + Mom's Homestyle X-Cube 360 -->
 		<!-- Disguised -->
+		<combo output='55208' card='10090' /><!-- ft_farnsworth + Wedding Dress -->
+		<combo output='55208' card='30100' /><!-- ft_farnsworth + Costume Construction -->
+		<combo output='55208' card='40092' /><!-- ft_farnsworth + Fashion Board -->
+		<combo output='55208' card='50099' /><!-- ft_farnsworth + Replacement Shell -->
 		<combo output='55077' card='10085' /><!-- ft_farnsworth + Golden Goose -->
 		<combo output='55077' card='30092' /><!-- ft_farnsworth + Totally Normal Pants -->
 		<combo output='55077' card='40086' /><!-- ft_farnsworth + Hibachi Hat -->
@@ -11093,6 +11557,10 @@
 		<combo output='55077' card='30066' /><!-- ft_farnsworth + Shrimp Dress -->
 		<combo output='55077' card='30065' /><!-- ft_farnsworth + Shrimpy Shrimps -->
 		<!-- Addicted -->
+		<combo output='55143' card='20083' /><!-- ft_farnsworth + Barry's Meds -->
+		<combo output='55143' card='30101' /><!-- ft_farnsworth + Candy Tornado -->
+		<combo output='55143' card='30102' /><!-- ft_farnsworth + Chunky Blastoffs Candy -->
+		<combo output='55143' card='40093' /><!-- ft_farnsworth + Ice Cream Addict -->
 		<combo output='55143' card='20074' /><!-- ft_farnsworth + Anti-Seizure Meds -->
 		<combo output='55143' card='30090' /><!-- ft_farnsworth + Medicated Eye Drops -->
 		<combo output='55143' card='40081' /><!-- ft_farnsworth + Unlabeled Pills -->
@@ -11280,11 +11748,23 @@
 		<combo output='55054' card='40014' /><!-- ft_zoidberg + Pro-Pain! -->
 		<combo output='55054' card='50012' /><!-- ft_zoidberg + Mom's Homestyle X-Cube 360 -->
 		<!-- Disguised -->
+		<combo output='55207' card='10090' /><!-- ft_zoidberg + Wedding Dress -->
+		<combo output='55207' card='30100' /><!-- ft_zoidberg + Costume Construction -->
+		<combo output='55207' card='40092' /><!-- ft_zoidberg + Fashion Board -->
+		<combo output='55207' card='50099' /><!-- ft_zoidberg + Replacement Shell -->
+		<combo output='55207' card='10085' /><!-- ft_zoidberg + Golden Goose -->
+		<combo output='55207' card='30092' /><!-- ft_zoidberg + Totally Normal Pants -->
+		<combo output='55207' card='40086' /><!-- ft_zoidberg + Hibachi Hat -->
+		<combo output='55207' card='50092' /><!-- ft_zoidberg + Fake Nose -->
 		<combo output='55177' card='20069' /><!-- ft_zoidberg + Flower Boys-->
 		<combo output='55177' card='30080' /><!-- ft_zoidberg + Winthrop Manor -->
 		<combo output='55177' card='30081' /><!-- ft_zoidberg + Wagstaff Whaler -->
 		<combo output='55177' card='40070' /><!-- ft_zoidberg + Pimp Hat -->
 		<!-- Addicted -->
+		<combo output='55166' card='20083' /><!-- ft_zoidberg + Barry's Meds -->
+		<combo output='55166' card='30101' /><!-- ft_zoidberg + Candy Tornado -->
+		<combo output='55166' card='30102' /><!-- ft_zoidberg + Chunky Blastoffs Candy -->
+		<combo output='55166' card='40093' /><!-- ft_zoidberg + Ice Cream Addict -->
 		<combo output='55166' card='20074' /><!-- ft_zoidberg + Anti-Seizure Meds -->
 		<combo output='55166' card='30090' /><!-- ft_zoidberg + Medicated Eye Drops -->
 		<combo output='55166' card='40081' /><!-- ft_zoidberg + Unlabeled Pills -->
@@ -11735,6 +12215,10 @@
 		<combo output='55163' card='50066' /><!-- ft_leela + $300 Haircut -->
 		<combo output='55163' card='50067' /><!-- ft_leela + Crack Mansion -->
 		<!-- Disguised -->
+		<combo output='55147' card='10090' /><!-- ft_leela + Wedding Dress -->
+		<combo output='55147' card='30100' /><!-- ft_leela + Costume Construction -->
+		<combo output='55147' card='40092' /><!-- ft_leela + Fashion Board -->
+		<combo output='55147' card='50099' /><!-- ft_leela + Replacement Shell -->
 		<combo output='55147' card='10085' /><!-- ft_leela + Golden Goose -->
 		<combo output='55147' card='30092' /><!-- ft_leela + Totally Normal Pants -->
 		<combo output='55147' card='40086' /><!-- ft_leela + Hibachi Hat -->
@@ -11761,6 +12245,10 @@
 		<combo output='55147' card='40037' /><!-- ft_leela + Ski Mask -->
 		<combo output='55147' card='40053' /><!-- ft_leela + Hottyz Salon -->
 		<!-- Addicted -->
+		<combo output='55190' card='20083' /><!-- ft_leela + Barry's Meds -->
+		<combo output='55190' card='30101' /><!-- ft_leela + Candy Tornado -->
+		<combo output='55190' card='30102' /><!-- ft_leela + Chunky Blastoffs Candy -->
+		<combo output='55190' card='40093' /><!-- ft_leela + Ice Cream Addict -->
 		<combo output='55190' card='20074' /><!-- ft_leela + Anti-Seizure Meds -->
 		<combo output='55190' card='30090' /><!-- ft_leela + Medicated Eye Drops -->
 		<combo output='55190' card='40081' /><!-- ft_leela + Unlabeled Pills -->
@@ -12065,6 +12553,10 @@
 		<combo output='55053' card='40014' /><!-- ft_amy + Pro-Pain! -->
 		<combo output='55053' card='50012' /><!-- ft_amy + Mom's Homestyle X-Cube 360 -->
 		<!-- Disguised -->
+		<combo output='55178' card='10090' /><!-- ft_amy + Wedding Dress -->
+		<combo output='55178' card='30100' /><!-- ft_amy + Costume Construction -->
+		<combo output='55178' card='40092' /><!-- ft_amy + Fashion Board -->
+		<combo output='55178' card='50099' /><!-- ft_amy + Replacement Shell -->
 		<combo output='55178' card='10085' /><!-- ft_amy + Golden Goose -->
 		<combo output='55178' card='30092' /><!-- ft_amy + Totally Normal Pants -->
 		<combo output='55178' card='40086' /><!-- ft_amy + Hibachi Hat -->
@@ -12333,6 +12825,10 @@
 		<combo output='55061' card='30029' /> <!-- ft_amy + Best Swamp Parties = Drunk Amy -->
 		<combo output='55061' card='30045' /> <!-- ft_amy + Welcome Mojitos = Drunk Amy -->
 		<!-- Addicted -->
+		<combo output='55033' card='20083' /><!-- ft_amy + Barry's Meds -->
+		<combo output='55033' card='30101' /><!-- ft_amy + Candy Tornado -->
+		<combo output='55033' card='30102' /><!-- ft_amy + Chunky Blastoffs Candy -->
+		<combo output='55033' card='40093' /><!-- ft_amy + Ice Cream Addict -->
 		<combo output='55033' card='20074' /><!-- ft_amy + Anti-Seizure Meds -->
 		<combo output='55033' card='30090' /><!-- ft_amy + Medicated Eye Drops -->
 		<combo output='55033' card='40081' /><!-- ft_amy + Unlabeled Pills -->
@@ -12425,6 +12921,10 @@
 		<combo output='55187' card='40076' /><!-- ft_fry + Chip -->
 		<combo output='55187' card='10084' /><!-- ft_fry + Rupert Recalls -->
 		<!-- Disguised -->
+		<combo output='55110' card='10090' /><!-- ft_fry + Wedding Dress -->
+		<combo output='55110' card='30100' /><!-- ft_fry + Costume Construction -->
+		<combo output='55110' card='40092' /><!-- ft_fry + Fashion Board -->
+		<combo output='55110' card='50099' /><!-- ft_fry + Replacement Shell -->
 		<combo output='55110' card='10085' /><!-- ft_fry + Golden Goose -->
 		<combo output='55110' card='30092' /><!-- ft_fry + Totally Normal Pants -->
 		<combo output='55110' card='40086' /><!-- ft_fry + Hibachi Hat -->
@@ -12752,6 +13252,21 @@
 		<combo output='55006' card='10029' /> <!-- ft_fry + Red Shirt Blue Shirt = Robot Devil's Hands -->
 		<combo output='55006' card='10038' /> <!-- ft_fry + Barbershop Vasectomy = Robot Devil's Hands -->
 		<combo output='55003' card='50010' /> <!-- ft_fry + Slurm = Slurm Loco -->
+		<!-- Addicted -->
+		<combo output='55210' card='20083' /><!-- ft_fry + Barry's Meds -->
+		<combo output='55210' card='30102' /><!-- ft_fry + Chunky Blastoffs Candy -->
+		<combo output='55210' card='30101' /><!-- ft_fry + Candy Tornado -->
+		<combo output='55210' card='40093' /><!-- ft_fry + Ice Cream Addict -->
+		<combo output='55210' card='20074' /><!-- ft_fry + Anti-Seizure Meds -->
+		<combo output='55210' card='30090' /><!-- ft_fry + Medicated Eye Drops -->
+		<combo output='55210' card='40081' /><!-- ft_fry + Unlabeled Pills -->
+		<combo output='55210' card='40082' /><!-- ft_fry + Mexican Drug Dealer -->
+		<combo output='55210' card='20051' /><!-- ft_fry + Prescription Weed -->
+		<combo output='55210' card='30018' /><!-- ft_fry + Painkillers -->
+		<combo output='55210' card='40015' /><!-- ft_fry + Manitoba Cigarettes -->
+		<combo output='55210' card='40052' /><!-- ft_fry + Leon Petard -->
+		<combo output='55210' card='50056' /><!-- ft_fry + Hypnotoad -->
+		<combo output='55210' card='50057' /><!-- ft_fry + Refreshing Crack -->
 		<combo output='55007' card='20061' /><!-- ft_fry + Langley Soft Drug Store -->
 		<combo output='55007' card='30073' /><!-- ft_fry + Halloween Candy -->
 		<combo output='55007' card='40063' /><!-- ft_fry + Boggle Contraband -->
@@ -12805,6 +13320,10 @@
 	<character>
 		<name>ft_hermes</name>
 		<!-- Addicted -->
+		<combo output='55191' card='20083' /><!-- ft_hermes + Barry's Meds -->
+		<combo output='55191' card='30101' /><!-- ft_hermes + Candy Tornado -->
+		<combo output='55191' card='30102' /><!-- ft_hermes + Chunky Blastoffs Candy -->
+		<combo output='55191' card='40093' /><!-- ft_hermes + Ice Cream Addict -->
 		<combo output='55191' card='20074' /><!-- ft_hermes + Anti-Seizure Meds -->
 		<combo output='55191' card='30090' /><!-- ft_hermes + Medicated Eye Drops -->
 		<combo output='55191' card='40081' /><!-- ft_hermes + Unlabeled Pills -->
@@ -13011,6 +13530,10 @@
 		<combo output='55158' card='50049' /><!-- ft_hermes + Thunder Cocktails -->
 		<combo output='55158' card='50050' /><!-- ft_hermes + Wine Bucket -->
 		<!-- Disguised -->
+		<combo output='55148' card='10090' /><!-- ft_hermes + Wedding Dress -->
+		<combo output='55148' card='30100' /><!-- ft_hermes + Costume Construction -->
+		<combo output='55148' card='40092' /><!-- ft_hermes + Fashion Board -->
+		<combo output='55148' card='50099' /><!-- ft_hermes + Replacement Shell -->
 		<combo output='55148' card='10085' /><!-- ft_hermes + Golden Goose -->
 		<combo output='55148' card='30092' /><!-- ft_hermes + Totally Normal Pants -->
 		<combo output='55148' card='40086' /><!-- ft_hermes + Hibachi Hat -->
@@ -13112,6 +13635,34 @@
 	</character>
 	<character>
 		<name>ft_zapp</name>
+		<!-- Addicted -->
+		<combo output='55209' card='20083' /><!-- ft_zapp + Barry's Meds -->
+		<combo output='55209' card='30102' /><!-- ft_zapp + Chunky Blastoffs Candy -->
+		<combo output='55209' card='30101' /><!-- ft_zapp + Candy Tornado -->
+		<combo output='55209' card='40093' /><!-- ft_zapp + Ice Cream Addict -->
+		<combo output='55209' card='20074' /><!-- ft_zapp + Anti-Seizure Meds -->
+		<combo output='55209' card='30090' /><!-- ft_zapp + Medicated Eye Drops -->
+		<combo output='55209' card='40081' /><!-- ft_zapp + Unlabeled Pills -->
+		<combo output='55209' card='40082' /><!-- ft_zapp + Mexican Drug Dealer -->
+		<combo output='55209' card='20051' /><!-- ft_zapp + Prescription Weed -->
+		<combo output='55209' card='30018' /><!-- ft_zapp + Painkillers -->
+		<combo output='55209' card='40015' /><!-- ft_zapp + Manitoba Cigarettes -->
+		<combo output='55209' card='40052' /><!-- ft_zapp + Leon Petard -->
+		<combo output='55209' card='50056' /><!-- ft_zapp + Hypnotoad -->
+		<combo output='55209' card='50057' /><!-- ft_zapp + Refreshing Crack -->
+		<combo output='55209' card='10063' /><!-- ft_zapp + Toad Licking -->
+		<combo output='55209' card='10003' /><!-- ft_zapp + Toad Licking -->
+		<combo output='55209' card='10064' /><!-- ft_zapp + Baked Evil Monkey -->
+		<combo output='55209' card='10065' /><!-- ft_zapp + Olive Addict -->
+		<combo output='55209' card='20014' /><!-- ft_zapp + Crack -->
+		<combo output='55209' card='20061' /><!-- ft_zapp + Langley Soft Drug Store -->
+		<combo output='55209' card='30037' /><!-- ft_zapp + Butterscotch Cookies -->
+		<combo output='55209' card='30064' /><!-- ft_zapp + Chinchilla Addict Wayne -->
+		<combo output='55209' card='30073' /><!-- ft_zapp + Halloween Candy -->
+		<combo output='55209' card='40051' /><!-- ft_zapp + Stems and Seeds -->
+		<combo output='55209' card='40063' /><!-- ft_zapp + Boggle Contraband -->
+		<combo output='55209' card='50069' /><!-- ft_zapp + Human Horn -->
+		<combo output='55209' card='50070' /><!-- ft_zapp + Jacked on Bots -->
 		<!-- Artistic -->
 		<combo output='55200' card='20078' /><!-- ft_zapp + School of Arts and Crafts -->
 		<combo output='55200' card='30095' /><!-- ft_zapp + Landship Play -->
@@ -13285,6 +13836,10 @@
 		<combo output='55180' card='50061' /><!-- ft_zapp + Dr. Banjo -->
 		<combo output='55180' card='50077' /><!-- ft_zapp + Josh Gedgie Boy Scientist -->
 		<!-- disguised -->
+		<combo output='55181' card='10090' /><!-- ft_zapp + Wedding Dress -->
+		<combo output='55181' card='30100' /><!-- ft_zapp + Costume Construction -->
+		<combo output='55181' card='40092' /><!-- ft_zapp + Fashion Board -->
+		<combo output='55181' card='50099' /><!-- ft_zapp + Replacement Shell -->
 		<combo output='55181' card='10085' /><!-- ft_zapp + Golden Goose -->
 		<combo output='55181' card='30092' /><!-- ft_zapp + Totally Normal Pants -->
 		<combo output='55181' card='40086' /><!-- ft_zapp + Hibachi Hat -->
